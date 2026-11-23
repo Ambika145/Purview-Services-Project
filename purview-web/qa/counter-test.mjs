@@ -1,0 +1,10 @@
+import { chromium } from "@playwright/test";
+const b = await chromium.launch({ channel: "chrome" });
+const p = await b.newPage({ viewport: { width: 1440, height: 900 } });
+await p.goto("http://localhost:3100/", { waitUntil: "networkidle" });
+const read = () => p.$$eval("#scale-title ~ * dd span.tabular-nums, dl dd span.tabular-nums", (els) => els.slice(0, 4).map((e) => e.textContent));
+console.log("at load", await read());
+await p.evaluate(() => document.querySelector("#scale-title").scrollIntoView());
+await p.waitForTimeout(2500);
+console.log("after scroll", await read());
+await b.close();

@@ -1,0 +1,257 @@
+{
+ "source": "https://purviewservices.com/data-analytics.html",
+ "route": "/data-analytics",
+ "template": "service",
+ "title": "Data & Analytics | Purview Services",
+ "description": "Data platforms that are ready for AI, not just for reports. AI is only as good as the data under it. Purview modernises data estates into governed, AI-ready…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Data & Analytics",
+ "lede": "Data platforms that are ready for AI, not just for reports.",
+ "actions": [],
+ "image": "data-analytics.jpg",
+ "related": [
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Digital Product Engineering",
+   "href": "/digital-engineering"
+  },
+  {
+   "label": "Cloud Services",
+   "href": "/cloud"
+  },
+  {
+   "label": "Banking & Financial Services",
+   "href": "/bfsi"
+  }
+ ],
+ "cta": "Talk to the Data & Analytics team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Make your enterprise data AI-ready."
+  },
+  {
+   "type": "text",
+   "text": "Modern data engineering, governance, analytics and reliable AI foundations."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "100%",
+     "label": "lineage coverage target on governed domains"
+    },
+    {
+     "value": "1",
+     "label": "trusted source per business domain"
+    },
+    {
+     "value": "AI-ready",
+     "label": "feature and vector layers served from the same platform"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Data & Analytics covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "AI is only as good as the data under it. Purview modernises data estates into governed, AI-ready platforms: pipelines you can trust, lineage you can show a regulator and a semantic layer both analysts and agents can use."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Chief data officers",
+     "eyebrow": "",
+     "body": "Need governance evidence and a semantic layer agents can use.",
+     "links": []
+    },
+    {
+     "title": "AI programme leads",
+     "eyebrow": "",
+     "body": "Models blocked by data quality or access.",
+     "links": []
+    },
+    {
+     "title": "Finance and risk",
+     "eyebrow": "",
+     "body": "Regulatory reporting from one reconciled source.",
+     "links": []
+    },
+    {
+     "title": "Operations",
+     "eyebrow": "",
+     "body": "Dashboards that match the ledger, every time.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Data modernisation and migration",
+     "body": ""
+    },
+    {
+     "title": "Data engineering and DataOps",
+     "body": ""
+    },
+    {
+     "title": "Data visualisation and BI",
+     "body": ""
+    },
+    {
+     "title": "Data science and ML feature stores",
+     "body": ""
+    },
+    {
+     "title": "AI-ready data platforms and vector stores",
+     "body": ""
+    },
+    {
+     "title": "Data governance and quality",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "Inventory sources, quality and ownership; agree the target architecture."
+    },
+    {
+     "title": "Migrate in waves",
+     "body": "Highest-value domains first, with parallel running until parity is proven."
+    },
+    {
+     "title": "Govern",
+     "body": "Catalogue, lineage, access control and quality monitoring built in."
+    },
+    {
+     "title": "Serve AI",
+     "body": "Feature and vector layers so models and agents consume the same trusted data."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Regulatory data platform",
+   "body": "Global bank, UK. Migrated reporting domains in waves to a governed platform with lineage, quality monitoring and a semantic layer now consumed by both analysts and agents.",
+   "result": {
+    "value": "0",
+    "label": "reconciliation breaks at go-live"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "One trusted source per domain",
+     "body": ""
+    },
+    {
+     "title": "Reports and models on the same data",
+     "body": ""
+    },
+    {
+     "title": "Regulatory evidence on demand",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Snowflake",
+    "Databricks",
+    "Informatica",
+    "Tableau",
+    "Power BI",
+    "MuleSoft"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Snowflake or Databricks?",
+     "a": "We certify on both and on Informatica, so we recommend by workload and existing estate, not by partner margin."
+    },
+    {
+     "q": "How long does modernisation take?",
+     "a": "First domain live in a quarter; the full estate in waves with parallel running until parity is proven."
+    },
+    {
+     "q": "Can you run it afterwards?",
+     "a": "Yes, as a managed data platform with SLAs on freshness and quality."
+    }
+   ]
+  }
+ ]
+}

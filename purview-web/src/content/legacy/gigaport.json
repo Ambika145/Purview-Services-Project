@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/gigaport.html",
+ "route": "/gigaport",
+ "template": "editorial",
+ "title": "GigaPort | Purview Services",
+ "description": "GigaPort is Purview’s customs-bonded import, integration and custody hub for AI and high-tech hardware in Hyderabad: GPUs and servers land, are held in…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "GigaPort",
+   "href": null
+  }
+ ],
+ "eyebrow": "AI hardware logistics, integration and custody · a Purview company · gigaport.ai",
+ "h1": "Every AI factory starts at GigaPort.",
+ "lede": "GigaPort is Purview’s customs-bonded import, integration and custody hub for AI and high-tech hardware in Hyderabad: GPUs and servers land, are held in bond, integrated into racks, tested and delivered to the floor as production-ready systems, with reverse logistics and OEM support built in.",
+ "actions": [
+  {
+   "label": "gigaport.ai",
+   "href": "https://gigaport.ai/",
+   "external": true
+  },
+  {
+   "label": "See Purview DC, the installation partner",
+   "href": "/purview-dc",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Visit GigaPort",
+   "title": "gigaport.ai: the hub, the three modes and the academy",
+   "body": "The GigaPort site sets out the bonded, domestic and reverse-logistics modes, the rack integration and testing process, OEM secure centres and the technician academy.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open gigaport.ai",
+     "href": "https://gigaport.ai/",
+     "external": true
+    },
+    {
+     "label": "Talk to Purview about hardware programmes",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "3 modes",
+     "label": "bonded custody, duty-paid integration, reverse logistics"
+    },
+    {
+     "value": "Hyderabad",
+     "label": "within reach of the airport and the state’s data centre corridors"
+    },
+    {
+     "value": "Asset-light",
+     "label": "Purview operates; clients keep title to their hardware"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "The missing link between the port and the GPU floor"
+  },
+  {
+   "type": "text",
+   "text": "Purview has installed and operated AI data centres at scale, and every programme met the same friction: hardware stuck at customs, integrated in the wrong place, or waiting weeks for a spare. GigaPort removes that friction with one hub that imports under bond, integrates to OEM standard and feeds Purview DC’s installation teams, so an AI factory starts production sooner."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What GigaPort does",
+   "text": "From landed pallet to production-ready rack"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Bonded import and custody",
+     "eyebrow": "",
+     "body": "Hardware held in a customs-bonded facility until deployment, deferring duty and keeping title with the owner.",
+     "links": []
+    },
+    {
+     "title": "Rack integration",
+     "eyebrow": "",
+     "body": "Servers, networking and power assembled into racks to OEM reference designs and client build sheets.",
+     "links": []
+    },
+    {
+     "title": "Testing and burn-in",
+     "eyebrow": "",
+     "body": "Power-on, firmware, burn-in and cluster-level validation with evidence captured before despatch.",
+     "links": []
+    },
+    {
+     "title": "Secure delivery to site",
+     "eyebrow": "",
+     "body": "GPU-grade transport and last-mile delivery to the data centre floor, timed to the installation plan.",
+     "links": []
+    },
+    {
+     "title": "Reverse logistics and ITAD",
+     "eyebrow": "",
+     "body": "Returns, RMA to OEM, certified data destruction, asset recovery and recycling.",
+     "links": []
+    },
+    {
+     "title": "OEM secure centres and spares",
+     "eyebrow": "",
+     "body": "Dedicated caged custody suites per OEM and consigned spares in India for rapid fault response.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "Land, integrate, test, deliver"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Land",
+     "body": "Hardware arrives and moves into bonded custody with full asset tracking."
+    },
+    {
+     "title": "Integrate",
+     "body": "Racks are built to the reference design, cabled and labelled."
+    },
+    {
+     "title": "Test",
+     "body": "Burn-in and validation run; results form the acceptance record."
+    },
+    {
+     "title": "Deliver",
+     "body": "Racks ship to site in sequence with Purview DC’s installation schedule."
+    },
+    {
+     "title": "Support and return",
+     "body": "Spares, RMAs and end-of-life handled through the same hub."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind GigaPort"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "A hub, a partner network and a technician academy",
+     "eyebrow": "",
+     "body": "Purview operates the facility and its logistics, works with global distribution partners for hardware supply, and runs a training and certification academy for data centre technicians that feeds both GigaPort and Purview DC’s floors.",
+     "links": [
+      {
+       "label": "Purview DC Installation and operations",
+       "href": "/purview-dc",
+       "external": false
+      },
+      {
+       "label": "DC Services Eight stages, shell to production",
+       "href": "/dc-services",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Programmes that import and deploy high-tech hardware"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Hyperscalers and neoclouds",
+     "eyebrow": "",
+     "body": "Bonded staging and integration for GPU capacity landing in India.",
+     "links": []
+    },
+    {
+     "title": "Sovereign and state AI programmes",
+     "eyebrow": "",
+     "body": "In-country integration with evidence-led acceptance.",
+     "links": []
+    },
+    {
+     "title": "Enterprises and GCCs",
+     "eyebrow": "",
+     "body": "AI cluster builds without running your own staging operation.",
+     "links": []
+    },
+    {
+     "title": "OEMs and distributors",
+     "eyebrow": "",
+     "body": "Secure custody, spares and RMA handling in India.",
+     "links": []
+    },
+    {
+     "title": "Defence, aerospace and semiconductor",
+     "eyebrow": "",
+     "body": "The same bonded import and integration capability for sensitive hardware.",
+     "links": []
+    },
+    {
+     "title": "System integrators",
+     "eyebrow": "",
+     "body": "A build partner for rack-scale deliveries.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is GigaPort?",
+     "a": "Purview’s customs-bonded hub in Hyderabad for importing, integrating, testing and delivering AI and high-tech hardware, with reverse logistics and OEM support."
+    },
+    {
+     "q": "Does GigaPort buy the hardware?",
+     "a": "No. It is operations-only: clients and OEMs keep title; GigaPort provides custody, integration and logistics."
+    },
+    {
+     "q": "What is the benefit of bonded custody?",
+     "a": "Duty is deferred until hardware is deployed, and hardware can be staged in India close to the data centre."
+    },
+    {
+     "q": "How does it connect to Purview DC?",
+     "a": "Racks leave GigaPort tested and sequenced for Purview DC’s installation teams, one accountable chain from port to production."
+    },
+    {
+     "q": "Where can I learn more?",
+     "a": "gigaport.ai carries the facility, services and contact details."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "AI hardware",
+   "text": "Bringing GPU capacity into India?"
+  },
+  {
+   "type": "text",
+   "text": "Start at gigaport.ai, or talk to Purview about import, integration and installation as one programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit gigaport.ai",
+     "href": "https://gigaport.ai/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/benepay.html",
+ "route": "/benepay",
+ "template": "editorial",
+ "title": "BenePay | Purview Services",
+ "description": "BenePay is a payments and digital identity platform for organisations that pay people: payees claim their payments and control their own payment data, and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "BenePay",
+   "href": null
+  }
+ ],
+ "eyebrow": "Payments and digital identity SaaS · a Purview company · benepay.io",
+ "h1": "Pay anyone, anywhere, with their consent.",
+ "lede": "BenePay is a payments and digital identity platform for organisations that pay people: payees claim their payments and control their own payment data, and payers disburse compliantly across regions, with GDPR built in.",
+ "actions": [
+  {
+   "label": "benepay.io",
+   "href": "https://www.benepay.io/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s payments practice",
+   "href": "/payments",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "See BenePay",
+   "title": "benepay.io: platform and demo",
+   "body": "The BenePay site explains the payer and payee experience, the identity model and how disbursements run across regions.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open benepay.io",
+     "href": "https://www.benepay.io/",
+     "external": true
+    },
+    {
+     "label": "Talk to Purview about disbursements",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Payer + payee",
+     "label": "one platform for both sides of a payment"
+    },
+    {
+     "value": "GDPR",
+     "label": "privacy and consent designed into the identity layer"
+    },
+    {
+     "value": "Multi-region",
+     "label": "disbursements across countries and currencies"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "Payments engineering, productised"
+  },
+  {
+   "type": "text",
+   "text": "BenePay carries the same engineering that runs T-Wallet for millions of citizens, pointed at a different problem: organisations that must pay many people they do not bank with. Identity, consent and compliance sit alongside the payment rails, which is what public bodies, insurers and platforms need."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What BenePay does",
+   "text": "Disbursements with identity and consent"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Payouts and disbursements",
+     "eyebrow": "",
+     "body": "Pay individuals and suppliers across regions from one platform.",
+     "links": []
+    },
+    {
+     "title": "Payee self-service",
+     "eyebrow": "",
+     "body": "Payees verify who they are, choose how to be paid and claim payments without sharing data by email.",
+     "links": []
+    },
+    {
+     "title": "Digital identity and consent",
+     "eyebrow": "",
+     "body": "KYC and consent records held once, controlled by the payee, reused by permission.",
+     "links": []
+    },
+    {
+     "title": "Compliance",
+     "eyebrow": "",
+     "body": "GDPR, data residency and audit trails by design.",
+     "links": []
+    },
+    {
+     "title": "Reconciliation and reporting",
+     "eyebrow": "",
+     "body": "Every payment matched, reported and exportable to finance systems.",
+     "links": []
+    },
+    {
+     "title": "APIs and embedded payments",
+     "eyebrow": "",
+     "body": "Payment and identity flows inside your own applications.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From payment file to claimed funds"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Payer uploads",
+     "body": "A payment run is created or sent by API."
+    },
+    {
+     "title": "Payee notified",
+     "body": "The payee receives a secure notification and verifies identity."
+    },
+    {
+     "title": "Payee chooses",
+     "body": "Bank account, wallet or other method, held in their own profile."
+    },
+    {
+     "title": "Payment made",
+     "body": "Funds settle through the appropriate regional rails."
+    },
+    {
+     "title": "Reconciled",
+     "body": "Status and evidence flow back to the payer’s finance systems."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind the platform"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Identity-first payments, run as a service",
+     "eyebrow": "",
+     "body": "Purview operates the platform, the regional payment connections, the KYC and consent layer and the reconciliation reporting, so clients run disbursements without building a payments team.",
+     "links": [
+      {
+       "label": "Payments & Digital Assets The practice behind BenePay",
+       "href": "/payments",
+       "external": false
+      },
+      {
+       "label": "T-Wallet Citizen payments at state scale",
+       "href": "/twallet",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Organisations that pay many people"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Public sector",
+     "eyebrow": "",
+     "body": "Grants, benefits, refunds and compensation to citizens.",
+     "links": []
+    },
+    {
+     "title": "Insurers",
+     "eyebrow": "",
+     "body": "Claims payouts with identity verification built in.",
+     "links": []
+    },
+    {
+     "title": "Platforms and gig economy",
+     "eyebrow": "",
+     "body": "Paying contributors and workers across borders.",
+     "links": []
+    },
+    {
+     "title": "Enterprises",
+     "eyebrow": "",
+     "body": "Supplier and expense payouts with consent-based data handling.",
+     "links": []
+    },
+    {
+     "title": "Charities and NGOs",
+     "eyebrow": "",
+     "body": "Beneficiary payments with audit trails.",
+     "links": []
+    },
+    {
+     "title": "Payroll and benefits providers",
+     "eyebrow": "",
+     "body": "Embedded disbursement rails.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is BenePay?",
+     "a": "A payments and digital identity SaaS platform from the Purview Group for organisations that pay individuals and suppliers."
+    },
+    {
+     "q": "What makes it different?",
+     "a": "Payees control their own identity and payment data; payers pay compliantly across regions without collecting bank details by email."
+    },
+    {
+     "q": "Is it GDPR compliant?",
+     "a": "Privacy and consent are designed into the platform, with data residency and audit trails."
+    },
+    {
+     "q": "Can we embed it?",
+     "a": "Yes, through APIs for payment and identity flows inside your applications."
+    },
+    {
+     "q": "Who operates it?",
+     "a": "Purview runs the platform, rails and compliance as a managed service."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Disbursements",
+   "text": "Paying people at scale?"
+  },
+  {
+   "type": "text",
+   "text": "See benepay.io, or talk to the payments team that runs a state wallet."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit benepay.io",
+     "href": "https://www.benepay.io/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

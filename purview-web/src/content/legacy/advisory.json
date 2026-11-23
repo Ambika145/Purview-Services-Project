@@ -1,0 +1,104 @@
+{
+ "source": "https://purviewservices.com/advisory.html",
+ "route": "/advisory",
+ "template": "editorial",
+ "title": "Consulting & Advisory | Purview Services",
+ "description": "From enterprise AI readiness to data centre feasibility, Purview combines technical discovery with implementation realities to help organisations move…",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / CONSULTING & ADVISORY",
+ "h1": "Make the right decision before you build.",
+ "lede": "From enterprise AI readiness to data centre feasibility, Purview combines technical discovery with implementation realities to help organisations move from strategy to executable programmes.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE CONSULTING & ADVISORY",
+   "text": "Where advisory starts."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Where AI creates measurable value"
+  },
+  {
+   "type": "text",
+   "text": "Use-case prioritisation, data readiness, governance, integration and operating model."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "From site to compute-ready programme"
+  },
+  {
+   "type": "text",
+   "text": "Capacity requirements, power and cooling considerations, GPU density, delivery model and operational readiness."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Workload-led architecture"
+  },
+  {
+   "type": "text",
+   "text": "Hybrid placement, cloud migration, networking, security, cost governance and resilience."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Roadmaps grounded in delivery"
+  },
+  {
+   "type": "text",
+   "text": "Application portfolio assessment, platform engineering, quality and transformation sequencing."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Identify risk before deployment"
+  },
+  {
+   "type": "text",
+   "text": "Architecture review, control baselining, governance and security remediation planning."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "source": "https://purviewservices.com/industries.html",
+ "route": "/industries",
+ "template": "editorial",
+ "title": "Industries | Purview Services",
+ "description": "Each sector is served by a focused Purview company led by people from that market. When a problem crosses domains, those teams become one delivery…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Regulated, national-scale and unforgiving. That is where we work.",
+ "lede": "Each sector is served by a focused Purview company led by people from that market. When a problem crosses domains, those teams become one delivery organisation with one accountable owner.",
+ "actions": [],
+ "image": "industries-feature.jpg",
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "PURVIEW ENGINEERING",
+   "text": "Deep technology. Real industry context."
+  },
+  {
+   "type": "text",
+   "text": "Engineering delivery designed around regulated, complex and mission-critical sectors."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore our work",
+     "href": "/customer-success",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Banking & Financial Services",
+     "eyebrow": "",
+     "body": "Core banking integration, payments, wallets, trading platforms (Murex, Calypso, Finastra) and AI-driven operations for global banks and national-scale schemes.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Government & Public Sector",
+     "eyebrow": "",
+     "body": "State data centres, sovereign cloud, citizen wallets and mission systems. Crown Commercial Service supplier in the UK.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Healthcare & Life Sciences",
+     "eyebrow": "",
+     "body": "Clinical systems, telehealth, revenue cycle management and the manufacturing and compliance engineering around them.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Wireless & Telecommunications",
+     "eyebrow": "",
+     "body": "Network engineering, 5G and ORAN, platform engineering and managed operations for carriers, OEMs and technology majors.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "FMCG & Manufacturing",
+     "eyebrow": "",
+     "body": "Industrial vision AI, supply chain platforms, fleet telematics and enterprise systems for plants and distribution networks.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Media & Entertainment",
+     "eyebrow": "",
+     "body": "Content platforms, digital marketing engineering and audience analytics, delivered with Purview Digital and 2080.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Retail & Distribution",
+     "eyebrow": "",
+     "body": "Footfall and crowd analytics, payments and loyalty, supply chain visibility and store systems.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Travel, Transportation & Facilities",
+     "eyebrow": "",
+     "body": "Passenger and cargo platforms, AIoT safety, ANPR and traffic analytics for airports, operators and smart city programmes.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

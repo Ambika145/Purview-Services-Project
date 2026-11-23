@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/purviewhealthcare.html",
+ "route": "/purviewhealthcare",
+ "template": "editorial",
+ "title": "Purview Healthcare | Purview Services",
+ "description": "Purview Healthcare provides end-to-end revenue cycle management for US providers: medical billing, coding, denial management and collections for dental…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "Purview Healthcare",
+   "href": null
+  }
+ ],
+ "eyebrow": "Revenue cycle management · a Purview company · purviewhealthcare.com",
+ "h1": "Get paid for the care you deliver.",
+ "lede": "Purview Healthcare provides end-to-end revenue cycle management for US providers: medical billing, coding, denial management and collections for dental, optometry, ambulatory care and home health practices, delivered from Pennsylvania, Texas and Hyderabad since 2018.",
+ "actions": [
+  {
+   "label": "purviewhealthcare.com",
+   "href": "https://purviewhealthcare.com/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s healthcare practice",
+   "href": "/healthcare",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Talk to Purview Healthcare",
+   "title": "purviewhealthcare.com: services and a free billing review",
+   "body": "The Purview Healthcare site sets out the RCM services, specialities covered and how a practice moves its billing across without disruption.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewhealthcare.com",
+     "href": "https://purviewhealthcare.com/",
+     "external": true
+    },
+    {
+     "label": "iPhysicianHub",
+     "href": "https://www.iphysicianhub.com/",
+     "external": true
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Since 2018",
+     "label": "US revenue cycle services with Indian delivery"
+    },
+    {
+     "value": "3 locations",
+     "label": "Lansdale PA, Irving TX and Hyderabad"
+    },
+    {
+     "value": "End to end",
+     "label": "eligibility to collections under one team"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "Healthcare operations, with technology behind them"
+  },
+  {
+   "type": "text",
+   "text": "Purview Healthcare is the operations arm of the group’s Healthcare and Life Sciences vertical, working alongside iPhysicianHub. Its billing teams use Purview-built automation and AI for coding support, claim scrubbing and denial analytics, which is why it can offer practice-level service at scale."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Purview Healthcare does",
+   "text": "The whole revenue cycle"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Eligibility and authorisation",
+     "eyebrow": "",
+     "body": "Insurance verification and prior authorisation before the visit.",
+     "links": []
+    },
+    {
+     "title": "Coding and charge capture",
+     "eyebrow": "",
+     "body": "Accurate coding by speciality, with AI-assisted review.",
+     "links": []
+    },
+    {
+     "title": "Claims submission",
+     "eyebrow": "",
+     "body": "Clean claims scrubbed and submitted to payers on time.",
+     "links": []
+    },
+    {
+     "title": "Denial management",
+     "eyebrow": "",
+     "body": "Root-cause analysis, appeals and prevention, not just rework.",
+     "links": []
+    },
+    {
+     "title": "Payment posting and A/R",
+     "eyebrow": "",
+     "body": "Posting, follow-up and collections with ageing kept down.",
+     "links": []
+    },
+    {
+     "title": "Reporting and compliance",
+     "eyebrow": "",
+     "body": "Practice dashboards, KPIs and HIPAA-compliant operations.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "Moving your billing without missing a cycle"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "A free review of current billing, denials and A/R."
+    },
+    {
+     "title": "Transition",
+     "body": "Systems access, workflows and a cut-over plan agreed with the practice."
+    },
+    {
+     "title": "Run",
+     "body": "Daily billing, posting and follow-up by a named team."
+    },
+    {
+     "title": "Recover",
+     "body": "Denials worked and appealed; old A/R cleaned up."
+    },
+    {
+     "title": "Report",
+     "body": "Monthly KPIs on collections, days in A/R and denial rates."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind the service"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "US-facing teams, Hyderabad delivery, Purview automation",
+     "eyebrow": "",
+     "body": "Client-facing teams in Pennsylvania and Texas, production teams in Hyderabad, and Purview’s own automation for claim scrubbing, coding support and denial analytics, operated under HIPAA-compliant controls.",
+     "links": [
+      {
+       "label": "Healthcare & Life Sciences The practice behind the company",
+       "href": "/healthcare",
+       "external": false
+      },
+      {
+       "label": "iPhysicianHub  Nationwide healthcare hub",
+       "href": "https://www.iphysicianhub.com/",
+       "external": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Practices and providers"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Dental practices",
+     "eyebrow": "",
+     "body": "Speciality billing and insurance follow-up.",
+     "links": []
+    },
+    {
+     "title": "Optometry",
+     "eyebrow": "",
+     "body": "Vision and medical billing handled together.",
+     "links": []
+    },
+    {
+     "title": "Ambulatory care",
+     "eyebrow": "",
+     "body": "Multi-provider clinics with high claim volumes.",
+     "links": []
+    },
+    {
+     "title": "Home health agencies",
+     "eyebrow": "",
+     "body": "Episode billing and authorisation management.",
+     "links": []
+    },
+    {
+     "title": "Physician groups",
+     "eyebrow": "",
+     "body": "Scalable RCM with practice-level reporting.",
+     "links": []
+    },
+    {
+     "title": "Healthcare BPO partners",
+     "eyebrow": "",
+     "body": "White-label capacity.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is Purview Healthcare?",
+     "a": "The Purview Group’s US revenue cycle management company, founded in 2018, with offices in Lansdale (Pennsylvania), Irving (Texas) and Hyderabad."
+    },
+    {
+     "q": "Which specialities?",
+     "a": "Dental, optometry, ambulatory care, home health and physician groups."
+    },
+    {
+     "q": "Is it HIPAA compliant?",
+     "a": "Yes. Operations run under HIPAA-compliant controls across US and India teams."
+    },
+    {
+     "q": "How does it relate to iPhysicianHub?",
+     "a": "iPhysicianHub is a sister company in Purview’s healthcare vertical; Purview Healthcare provides the revenue cycle operations."
+    },
+    {
+     "q": "How do we start?",
+     "a": "With a free billing review through purviewhealthcare.com."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Revenue cycle",
+   "text": "Leaving money on the table?"
+  },
+  {
+   "type": "text",
+   "text": "Visit purviewhealthcare.com for a free billing review."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewhealthcare.com",
+     "href": "https://purviewhealthcare.com/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

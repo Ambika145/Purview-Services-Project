@@ -1,0 +1,286 @@
+{
+ "source": "https://purviewservices.com/technologies.html",
+ "route": "/technologies",
+ "template": "editorial",
+ "title": "Technologies | Purview Services",
+ "description": "Each capability exists because the one next to it needs it. The models need the data, the data needs the platform, the platform needs secure compute, and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "From AI applications to the infrastructure beneath",
+ "lede": "Each capability exists because the one next to it needs it. The models need the data, the data needs the platform, the platform needs secure compute, and the compute needs a floor, a network and a team that can run it at 3 a.m.",
+ "actions": [],
+ "image": "technologies-feature.jpg",
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "PURVIEW ENGINEERING",
+   "text": "From intelligent software to production infrastructure"
+  },
+  {
+   "type": "text",
+   "text": "A connected engineering model spanning enterprise applications, data, networks and AI compute."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore our work",
+     "href": "/customer-success",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The Purview approach",
+   "text": "Applications engineered for the real world"
+  },
+  {
+   "type": "text",
+   "text": "From secure enterprise AI to data platforms and connected devices, our teams build the software that turns complex operations into measurable outcomes."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore AI Solutions",
+     "href": "/",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Agents that run operations, not demos.",
+     "eyebrow": "",
+     "body": "Gen AI and agentic systems built inside your boundary on the Secure AI Engine, evaluated against a success metric agreed up front, then operated.",
+     "links": [
+      {
+       "label": "AI Solutions Agents, LLM/SLM, RAG, hyperautomation",
+       "href": "/",
+       "external": false
+      },
+      {
+       "label": "AI & LLM security Models, data and prompts",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Platforms and data that are ready for AI.",
+     "eyebrow": "",
+     "body": "Digital product engineering and AI-ready data platforms: the systems enterprises and governments run on, with the data trusted before a model touches it.",
+     "links": [
+      {
+       "label": "Data & Analytics Modernisation, DataOps, AI-ready platforms",
+       "href": "/",
+       "external": false
+      },
+      {
+       "label": "Digital Product Engineering Cloud-native apps, UI/XM, quality engineering",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Payments built for national scale.",
+     "eyebrow": "",
+     "body": "Gateways, wallets, lending and digital asset platforms engineered for regulated environments, with compliance, reconciliation and security designed in from the first sprint.",
+     "links": [
+      {
+       "label": "Payments & Digital Assets Gateways, wallets, tokenisation, smart contracts",
+       "href": "/",
+       "external": false
+      },
+      {
+       "label": "Banking & Financial Services Where this runs today",
+       "href": "/bfsi",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "The infrastructure it all runs on.",
+     "eyebrow": "",
+     "body": "AI data centre parks and GPU clusters, networks and cloud, edge devices and silicon. Designed for the workload rather than sized after it, and operated by the people who built it.",
+     "links": [
+      {
+       "label": "AI Infrastructure GPU floors, networks, managed cloud",
+       "href": "/",
+       "external": false
+      },
+      {
+       "label": "Purview DC Design, build, operate AI data centres",
+       "href": "https://purviewdc.com",
+       "external": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "AI Solutions",
+     "eyebrow": "",
+     "body": "Gen AI applications and agents LLM, SLM integration and RAG pipelines Agentic AI workflows for operations Voice agents: CallOHM and RabbiT recruitment Machine learning and cognitive AI Hyperautomation and AI-assisted DevOps Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Digital Product Engineering",
+     "eyebrow": "",
+     "body": "Digital application services UI / XM services Cloud-native app development Quality engineering and test automation Enterprise content management Mobile app development Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Data & Analytics",
+     "eyebrow": "",
+     "body": "Data modernisation Data engineering and DataOps Data visualisation and BI Data science AI-ready data platforms Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Payments & Digital Assets",
+     "eyebrow": "",
+     "body": "Payment platforms and gateways Digital wallets, UPI and IMPS integration Lending and fintech platforms Blockchain and smart contracts Tokenisation and exchange integrations Payments compliance and security Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Edge & Vision AI",
+     "eyebrow": "",
+     "body": "Edge vision AI solutions Edge SLM and on-device inference AIoT pedestrian safety solutions Footfall and crowd management ANPR and traffic flow analytics Industrial inspection and safety Edge MLOps and model optimisation Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Cybersecurity",
+     "eyebrow": "",
+     "body": "AI and LLM security: models, data and prompts Governance, risk and compliance AI-driven threat detection and response Endpoint, mobile and cloud security IAM / PAM / VAPT Managed security services Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "AI Infrastructure",
+     "eyebrow": "",
+     "body": "AI data centre deployments GPU rack and stack, cabling and optics Route / switch, wireless and SD-WAN Smart hands, L1 / L2 / L3 engineers Cloud migration and managed cloud Telco 5G, WiFi6 and ORAN Purview DC → Read more →",
+     "links": [
+      {
+       "label": "Purview DC",
+       "href": "/purview-dc",
+       "external": false
+      },
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Cloud Services",
+     "eyebrow": "",
+     "body": "Cloud migration and modernisation Hybrid and multi-cloud estate Platform engineering and DevOps Cost governance and FinOps Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Embedded Engineering & IoT",
+     "eyebrow": "",
+     "body": "SoC selection and custom carrier boards Firmware, BSP, secure boot and OTA Connected devices and fleet telematics Models quantised for edge silicon Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Audio Visual & Collaboration",
+     "eyebrow": "",
+     "body": "Microsoft Teams Rooms, Zoom Rooms, Webex and Google Meet spaces Crestron, Q-SYS, AMX and Extron control programming Digital signage, wayfinding and video walls Boardrooms, town halls, multi-purpose rooms AVIXA CTS, CTS-D, CTS-I certified engineers Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/av",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Automation & RPA",
+     "eyebrow": "",
+     "body": "Robotic process automation Low-code platforms: Pega, Appian, UiPath Agentic workflows replacing scripted bots Read more →",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

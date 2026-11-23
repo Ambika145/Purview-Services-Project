@@ -1,0 +1,54 @@
+{
+ "source": "https://purviewservices.com/blog.html",
+ "route": "/blog",
+ "template": "editorial",
+ "title": "Blog: AI and Data Centre Insights | Purview Services",
+ "description": "Perspectives from Purview engineers on enterprise AI, AI data centres and the managed services that keep both running, written by the teams who build and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Company",
+   "href": "/company"
+  },
+  {
+   "label": "Blog",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Insights from the floor",
+ "lede": "Perspectives from Purview engineers on enterprise AI, AI data centres and the managed services that keep both running, written by the teams who build and operate them.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Why the agent needs the floor: building AI applications and their infrastructure together"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "From proof of concept to governed workflow: running agentic AI in a regulated enterprise"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Preparation-first: why GPU floors are won on the bench, not in the data hall"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Managed services for the AI era: one operator from the application to the GPU floor"
+  }
+ ]
+}

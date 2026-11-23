@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/purviewdc.html",
+ "route": "/purviewdc",
+ "template": "editorial",
+ "title": "Purview DC AI Data Centres | Purview Services",
+ "description": "Purview DC designs, installs, commissions and operates AI data centres: GPU floors, modular facilities, structured cabling, networks and 24×7 operations.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "Purview DC",
+   "href": null
+  }
+ ],
+ "eyebrow": "Data centre company of the Purview Group · purviewdc.com",
+ "h1": "Powered shell to production. One accountable partner.",
+ "lede": "Purview DC designs, installs, commissions and operates AI data centres: GPU floors, modular facilities, structured cabling, networks and 24×7 operations. It is the group’s data centre company, led from Sydney and Hyderabad, delivering across the UK, Europe, India, the Middle East and APAC.",
+ "actions": [
+  {
+   "label": "purviewdc.com",
+   "href": "https://purviewdc.com",
+   "external": true
+  },
+  {
+   "label": "Explore Purview DC on this site",
+   "href": "/purview-dc",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Visit the Purview DC site",
+   "title": "purviewdc.com: services, delivery model and solutions",
+   "body": "The dedicated Purview DC site carries the full service catalogue, the preparation-first delivery model, the project register and the four delivery platforms (Data Center Deployer, SmartInspect, SmartAMM and SmartWorkforce).",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewdc.com",
+     "href": "https://purviewdc.com",
+     "external": true
+    },
+    {
+     "label": "Eight-stage service model",
+     "href": "/dc-services",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "17 yrs",
+     "label": "of infrastructure delivery behind the company"
+    },
+    {
+     "value": "~500 MW",
+     "label": "of data centre programmes delivered or in delivery"
+    },
+    {
+     "value": "5 countries",
+     "label": "with delivery centres and floor-ready engineers"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "The IA half of AI / IA"
+  },
+  {
+   "type": "text",
+   "text": "Purview DC is where the group’s infrastructure story lives: the GPU floors, networks and facilities that intelligent applications run on. It gives Purview’s AI practice an installation and operations partner under the same roof, and gives hyperscalers, neoclouds and sovereign programmes one accountable team from purchase order to steady state."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Purview DC delivers",
+   "text": "From site to live racks"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Facility design and build",
+     "eyebrow": "",
+     "body": "Site selection, power and cooling design, modular and containerised builds, fit-out and handover.",
+     "links": []
+    },
+    {
+     "title": "GPU floor installation",
+     "eyebrow": "",
+     "body": "HGX, B200, B300 and GB300 racks received, staged, installed and cabled to OEM standard.",
+     "links": []
+    },
+    {
+     "title": "Structured cabling",
+     "eyebrow": "",
+     "body": "Copper and fibre, certified and documented, from meet-me room to rack.",
+     "links": []
+    },
+    {
+     "title": "Networks",
+     "eyebrow": "",
+     "body": "Spine-leaf, InfiniBand and Ethernet fabrics, out-of-band and security, configured and validated.",
+     "links": []
+    },
+    {
+     "title": "Commissioning and validation",
+     "eyebrow": "",
+     "body": "Power-on, burn-in, cluster validation and acceptance evidence, before go-live.",
+     "links": []
+    },
+    {
+     "title": "24×7 operations",
+     "eyebrow": "",
+     "body": "Smart hands, monitoring, incident and change management against signed SLAs.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "Preparation first, six phases, four quality gates"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Prepare",
+     "body": "Scope, drawings, bill of materials and method statements agreed before anything ships; the pre-staging that removes surprises on the floor."
+    },
+    {
+     "title": "Receive and stage",
+     "body": "Dock-to-rack logistics, asset tagging and pre-staging in Purview’s integration facility or on site."
+    },
+    {
+     "title": "Install",
+     "body": "Racks, power, cabling and network fabric installed by certified lead engineers with technician teams under them."
+    },
+    {
+     "title": "Commission",
+     "body": "Power-on, burn-in and cluster validation, with every result captured as acceptance evidence."
+    },
+    {
+     "title": "Operate",
+     "body": "Handover into 24×7 operations, or to the client’s own team with documentation and training."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Platforms",
+   "text": "The tooling behind the floor"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Four delivery platforms built on live projects",
+     "eyebrow": "",
+     "body": "Data Center Deployer runs dock-to-rack delivery with a technician app and coordinator control tower; SmartInspect brings wearable-led remote inspection and audit; SmartAMM monitors assets from sensor to digital twin; SmartWorkforce turns SOPs into device-ready guidance for engineers.",
+     "links": [
+      {
+       "label": "Purview DC Solutions The four platforms in detail",
+       "href": "/dc-solutions",
+       "external": false
+      },
+      {
+       "label": "Delivery Model Six phases, four quality gates",
+       "href": "/dc-delivery",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Who Purview DC works with"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Hyperscalers and neoclouds",
+     "eyebrow": "",
+     "body": "Installation and operations capacity in India, Australia, the Gulf, the UK and Europe, on OEM standards.",
+     "links": []
+    },
+    {
+     "title": "Sovereign and state programmes",
+     "eyebrow": "",
+     "body": "State data centres and sovereign cloud builds with evidence-led acceptance.",
+     "links": []
+    },
+    {
+     "title": "Enterprise AI factories",
+     "eyebrow": "",
+     "body": "GPU clusters for enterprises standing up their own AI capacity.",
+     "links": []
+    },
+    {
+     "title": "Colocation operators",
+     "eyebrow": "",
+     "body": "White-space fit-out, cabling and smart hands for operators scaling floors.",
+     "links": []
+    },
+    {
+     "title": "OEMs and system integrators",
+     "eyebrow": "",
+     "body": "A certified delivery partner for hardware programmes across regions.",
+     "links": []
+    },
+    {
+     "title": "Land and power partners",
+     "eyebrow": "",
+     "body": "Development partnerships through Purview’s data centre park ventures.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is Purview DC?",
+     "a": "The data centre company of the Purview Group: design, installation, commissioning and 24×7 operation of AI data centres, with its own site at purviewdc.com."
+    },
+    {
+     "q": "Where does it deliver?",
+     "a": "UK and Europe, India, the Middle East, Australia and wider APAC, from delivery centres in five countries."
+    },
+    {
+     "q": "Does it operate what it installs?",
+     "a": "Yes. Operations contracts are offered after installation, with smart hands, monitoring and change management under SLA."
+    },
+    {
+     "q": "What hardware does it install?",
+     "a": "NVIDIA HGX, B200, B300 and GB300 platforms and the networks around them, alongside conventional enterprise estates."
+    },
+    {
+     "q": "How do I engage?",
+     "a": "Through this site or purviewdc.com; a scoping call leads to a preparation plan before any floor work."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "AI infrastructure",
+   "text": "Standing up GPU capacity?"
+  },
+  {
+   "type": "text",
+   "text": "Talk to the team that installs and operates AI data centres across five regions."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewdc.com",
+     "href": "https://purviewdc.com",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

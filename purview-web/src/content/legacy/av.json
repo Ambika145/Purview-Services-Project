@@ -1,0 +1,373 @@
+{
+ "source": "https://purviewservices.com/av.html",
+ "route": "/av",
+ "template": "editorial",
+ "title": "Audio Visual & Collaboration | Purview Services",
+ "description": "Purview designs and delivers high-performance AV environments for enterprise, corporate fit-out, hospitality and education: from a single boardroom to…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Audio Visual & Collaboration",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Audio visual and collaboration, from one accountable contractor",
+ "lede": "Purview designs and delivers high-performance AV environments for enterprise, corporate fit-out, hospitality and education: from a single boardroom to multi-zone campus deployments, with IT, AV and networking under one contract and senior leadership on site from kick-off to handover.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "500+",
+     "label": "custom AV rooms delivered"
+    },
+    {
+     "value": "10+ yrs",
+     "label": "AV integration experience"
+    },
+    {
+     "value": "100%",
+     "label": "certified programmers (Crestron, Q-SYS, AMX)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What we do",
+   "text": "IT, AV and networking: three disciplines, one contractor"
+  },
+  {
+   "type": "text",
+   "text": "Complex commercial projects fail in the gaps between trades. Purview removes the gaps by delivering all three disciplines with one team, so the AV-over-IP network, the structured cabling and the conferencing rooms are designed together and commissioned together."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Audio Visual",
+     "eyebrow": "",
+     "body": "AV system design, supply and installation Control system programming: Crestron, AMX, Q-SYS, Extron Digital signage, wayfinding and display solutions Conference room, boardroom and town hall AV Microsoft Teams Rooms, Zoom Rooms, Cisco Webex, Google Meet",
+     "links": []
+    },
+    {
+     "title": "IT Systems",
+     "eyebrow": "",
+     "body": "Structured cabling and server room build-out Active IT infrastructure deployment System integration with existing networks Equipment procurement and staging Structured Cabling →",
+     "links": [
+      {
+       "label": "Structured Cabling",
+       "href": "/dc-cabling",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Networking",
+     "eyebrow": "",
+     "body": "LAN and WAN design and deployment Wi-Fi infrastructure and coverage planning Network security configuration, VLAN and QoS for AV over IP Ongoing monitoring and managed services Network Solutions →",
+     "links": [
+      {
+       "label": "Network Solutions",
+       "href": "/dc-networks",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "AV, our core competency",
+   "text": "From design intent to a signed-off room"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Design and engineering",
+     "eyebrow": "",
+     "body": "Detailed AV design documentation, signal flow diagrams, rack elevations and BOMs produced by certified AV engineers. All designs align to AVIXA and InfoComm standards.",
+     "links": []
+    },
+    {
+     "title": "Supply and installation",
+     "eyebrow": "",
+     "body": "Direct procurement from tier-1 manufacturers. Installations executed by trained and certified technicians, with structured cable management and full labelling.",
+     "links": []
+    },
+    {
+     "title": "Control programming",
+     "eyebrow": "",
+     "body": "In-house Crestron, AMX and Q-SYS programmers. Custom UI design, room logic and API integrations with third-party systems: BMS, IT and unified communications platforms.",
+     "links": []
+    },
+    {
+     "title": "Commissioning and handover",
+     "eyebrow": "",
+     "body": "Full system testing against design intent, SAT and FAT documentation, end-user training and an as-built documentation package delivered at project close-out.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Proven project delivery",
+   "text": "Rooms we have built"
+  },
+  {
+   "type": "text",
+   "text": "Large-scale, technically complex AV and IT integration across commercial, corporate and hospitality environments. Client names withheld; references available on request."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "40+ rooms across three floors"
+  },
+  {
+   "type": "text",
+   "text": "Scope: Q-SYS AV-over-IP system, video wall with multi-touch presentation, Sennheiser ceiling microphone arrays, Q-SYS Core DSP, Zoom Rooms and Teams Room integration, DTMF dialling."
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: custom control programming with Active Directory user authentication and room-booking panel sync via REST API to Microsoft Exchange."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "200+ display endpoints"
+  },
+  {
+   "type": "text",
+   "text": "Scope: lobby, lifts and floor wayfinding; Scala content management, HDBaseT distribution, emergency override integration with the BMS."
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: network-segmented VLAN architecture with QoS policy, deployed with the incumbent IT team. Zero-downtime cutover during live occupation."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Built entirely on Teams-certified components"
+  },
+  {
+   "type": "text",
+   "text": "Scope: design, supply, installation and commissioning of a Microsoft Teams Rooms solution for a large conferencing space."
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: Poly Studio E70 dual 4K sensors with DirectorAI speaker tracking, Biamp Devio SCX 400 multi-channel AEC and AI noise reduction, Logitech Tap and Scribe, dual 85-inch displays for simultaneous far-end video and content."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Single and dual display standards, BYOD ready"
+  },
+  {
+   "type": "text",
+   "text": "Scope: focus and small conference spaces plus medium rooms running Microsoft Teams Room with BYOD capability."
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: single-display standard for smaller spaces, dual-display with speaker tracking for medium and large rooms, content camera for whiteboarding integrated with the Teams Room."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Dual projectors, two cameras, one touch"
+  },
+  {
+   "type": "text",
+   "text": "Scope: Microsoft Teams Rooms on Windows for a multi-purpose room; MTR deployment, Biamp Launch acoustic commissioning, Extron control programming, end-user handover."
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: Biamp Parlé beam-tracking microphones and ceiling speakers through a Teams-certified Biamp DSP; Extron automates display power, source switching and routing."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Recreation space for employees and partners"
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: dual display solution with Bose in-ceiling directional speakers and subwoofer, QSC touch panel programmed to switch between game mode and music mode."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Office wayfinding and visitor welcome"
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: touch display with Logitech RoomMate as the signage player, content served from local and remote sources through the CMS."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Room Kit EQ on a mobile Heckler cart"
+  },
+  {
+   "type": "text",
+   "text": "Scope: 85-inch display on a Heckler cart with Cisco Room Kit EQ; cart assembly, display integration, configuration, cabling and onboarding to Webex Control Hub."
+  },
+  {
+   "type": "text",
+   "text": "Technical highlight: AI camera framing, noise removal and voice optimisation natively certified for Webex; integrated codec, speakers and microphone array; central remote management through Control Hub."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Site management and handover",
+   "text": "Senior leadership on site at every milestone, not just kick-off"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Pre-installation survey",
+     "eyebrow": "",
+     "body": "Senior engineer and PM walk the site with the head contractor before first fix",
+     "links": []
+    },
+    {
+     "title": "Mid-project review",
+     "eyebrow": "",
+     "body": "Upper-management site visit at the 50% installation mark to validate progress against programme",
+     "links": []
+    },
+    {
+     "title": "Pre-commissioning check",
+     "eyebrow": "",
+     "body": "Technical director sign-off before commissioning commences",
+     "links": []
+    },
+    {
+     "title": "Handover walk",
+     "eyebrow": "",
+     "body": "Formal documentation pack, end-user training, O&M manuals and as-built drawings",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Post-delivery support",
+   "text": "Three support tiers"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Remote helpdesk"
+  },
+  {
+   "type": "text",
+   "text": "Business-hours remote support by phone, email and remote diagnostics. Ideal for minor faults and user queries."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "On-site response"
+  },
+  {
+   "type": "text",
+   "text": "Scheduled and reactive on-site visits covering hardware fault resolution, software updates and system reconfiguration."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Managed services"
+  },
+  {
+   "type": "text",
+   "text": "Fully managed AV and IT environment: proactive monitoring, quarterly preventative maintenance, dedicated account manager and priority emergency response."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Certifications",
+   "text": "Certified on every project"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "AVIXA CTS, CTS-D, CTS-I",
+     "eyebrow": "",
+     "body": "Certified Technology Specialists in design and installation on every project.",
+     "links": []
+    },
+    {
+     "title": "Crestron certified programmers",
+     "eyebrow": "",
+     "body": "Factory-trained, with advanced DMF and SIMPL# proficiency.",
+     "links": []
+    },
+    {
+     "title": "Q-SYS Level 1 and 2",
+     "eyebrow": "",
+     "body": "Certified system designers and programmers; Biamp Tesira certified.",
+     "links": []
+    },
+    {
+     "title": "Cisco CCNA network engineers",
+     "eyebrow": "",
+     "body": "Supporting AV over IP, VoIP and managed switching deployments.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Get in touch",
+   "text": "Discuss your AV and conferencing needs."
+  },
+  {
+   "type": "text",
+   "text": "Tell us the rooms, the platform (Teams, Zoom, Webex or Meet) and the fit-out date. Our team typically responds within one business day."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Network Solutions",
+     "href": "/dc-networks",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

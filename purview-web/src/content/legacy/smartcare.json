@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/smartcare.html",
+ "route": "/smartcare",
+ "template": "editorial",
+ "title": "SmartCare | Purview Services",
+ "description": "SmartCare is an AR smart glass solution for telepresence, remote support, EMR collaboration and training, with real-time captioning and translation. A…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "SmartCare",
+   "href": null
+  }
+ ],
+ "eyebrow": "Smart Solutions Platform · SmartCare · Purview Technologies · purviewtech.ai",
+ "h1": "Care, support and training, with the expert in your eyeline.",
+ "lede": "SmartCare is an AR smart glass solution for telepresence, remote support, EMR collaboration and training, with real-time captioning and translation. A clinician or technician wears the glasses; specialists, records and instructions appear in view while hands stay on the task.",
+ "actions": [
+  {
+   "label": "purviewtech.ai",
+   "href": "https://www.purviewtech.ai/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s AI XR practice",
+   "href": "/ai-solutions",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "SmartCare on the Smart Solutions Platform",
+   "title": "Telepresence · Captioning · Translation",
+   "body": "Telepresence for ward rounds and field visits, remote specialist support, EMR access in the eyeline and recorded training sessions, with every conversation captioned and translated in real time.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    },
+    {
+     "label": "Arrange a demo",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Hands free",
+     "label": "records, experts and instructions in the eyeline"
+    },
+    {
+     "value": "Real time",
+     "label": "captioning and translation on every call"
+    },
+    {
+     "value": "First person",
+     "label": "training content recorded as the work is done"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "AR-powered solutions designed to improve efficiency across industries"
+  },
+  {
+   "type": "text",
+   "text": "SmartCare is one of four solutions on the Smart Solutions Platform from Purview Technologies, the group’s AI and XR company. The platform puts AR smart glasses, real-time captioning and translation, and Purview’s vision and voice AI into the hands of frontline teams, so the people doing the work see what they need, hands free, and the people supporting them can be anywhere."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What it does",
+   "text": "Capabilities"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Telepresence",
+     "eyebrow": "",
+     "body": "Specialists join a ward round, home visit or site call through the wearer’s view, in real time.",
+     "links": []
+    },
+    {
+     "title": "Remote support",
+     "eyebrow": "",
+     "body": "Experts see what the wearer sees, annotate the view and guide the next step.",
+     "links": []
+    },
+    {
+     "title": "EMR collaboration",
+     "eyebrow": "",
+     "body": "Patient records and care plans surfaced hands free, with secure role-based access.",
+     "links": []
+    },
+    {
+     "title": "Training",
+     "eyebrow": "",
+     "body": "Procedures recorded first-person for teaching, review and competency sign-off.",
+     "links": []
+    },
+    {
+     "title": "Real-time captioning",
+     "eyebrow": "",
+     "body": "Speech captioned in the wearer’s view for noisy settings and hearing accessibility.",
+     "links": []
+    },
+    {
+     "title": "Translation",
+     "eyebrow": "",
+     "body": "Multilingual conversations translated live between staff, patients and families.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From glasses on to value out"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Equip",
+     "body": "AR smart glasses issued to frontline staff and paired to the SmartCare platform."
+    },
+    {
+     "title": "Connect",
+     "body": "Specialists, records systems and training libraries linked with secure access."
+    },
+    {
+     "title": "Work",
+     "body": "Wearer calls an expert or opens a record by voice; captions and translation run throughout."
+    },
+    {
+     "title": "Record",
+     "body": "Sessions captured for training, audit and quality review where permitted."
+    },
+    {
+     "title": "Improve",
+     "body": "Usage and outcome data inform protocols and training."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Behind the solution",
+   "text": "Platform and devices"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "One platform, enterprise-grade",
+     "eyebrow": "",
+     "body": "Purview Technologies supplies and supports the AR glasses, runs the SmartCare platform with its captioning and translation engines, and integrates with EMR, video and identity systems under healthcare-grade security.",
+     "links": [
+      {
+       "label": "AI Solutions Vision, voice and XR engineering",
+       "href": "/ai-solutions",
+       "external": false
+      },
+      {
+       "label": "Nexable Assistive aids on the same wearable platform",
+       "href": "/nexable",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Where it earns its keep"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Hospitals and clinics",
+     "eyebrow": "",
+     "body": "Remote specialist cover, ward telepresence and procedure training.",
+     "links": []
+    },
+    {
+     "title": "Home and community care",
+     "eyebrow": "",
+     "body": "Carers supported by clinicians in real time.",
+     "links": []
+    },
+    {
+     "title": "Telehealth providers",
+     "eyebrow": "",
+     "body": "A hands-free, first-person view for remote consultations.",
+     "links": []
+    },
+    {
+     "title": "Medical device companies",
+     "eyebrow": "",
+     "body": "Remote proctoring and field support.",
+     "links": []
+    },
+    {
+     "title": "Care homes",
+     "eyebrow": "",
+     "body": "Specialist input without transfers.",
+     "links": []
+    },
+    {
+     "title": "Training institutions",
+     "eyebrow": "",
+     "body": "First-person clinical teaching content.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is SmartCare?",
+     "a": "An AR smart glass solution from Purview Technologies for telepresence, remote support, EMR collaboration and training, with live captioning and translation."
+    },
+    {
+     "q": "Which glasses does it use?",
+     "a": "Enterprise AR smart glasses supplied and supported by Purview Technologies; details on purviewtech.ai."
+    },
+    {
+     "q": "Is it secure for patient data?",
+     "a": "SmartCare is built for healthcare-grade security with role-based access and integration to existing EMR and identity systems."
+    },
+    {
+     "q": "Does it work in other languages?",
+     "a": "Yes. Captioning and translation run in real time across supported languages."
+    },
+    {
+     "q": "How do we start?",
+     "a": "Arrange a demo through purviewtech.ai or Purview’s contact page."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "SmartCare",
+   "text": "Put the specialist in the room, from anywhere."
+  },
+  {
+   "type": "text",
+   "text": "Arrange a SmartCare demo through purviewtech.ai or Purview."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

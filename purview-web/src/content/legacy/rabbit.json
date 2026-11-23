@@ -1,0 +1,295 @@
+{
+ "source": "https://purviewservices.com/rabbit.html",
+ "route": "/rabbit",
+ "template": "editorial",
+ "title": "RabbiT AI Recruitment | Purview Services",
+ "description": "RabbiT calls, qualifies and schedules every applicant in their own language, so your recruiters only meet the best.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "RabbiT",
+   "href": null
+  }
+ ],
+ "eyebrow": "Agentic AI recruitment platform · by CallOHM, a Purview company",
+ "h1": "Stop screening. Start hiring.",
+ "lede": "RabbiT calls, qualifies and schedules every applicant in their own language, so your recruiters only meet the best. AI voice screening, auto-scoring, interview scheduling and a full hiring pipeline in one calm board.",
+ "actions": [
+  {
+   "label": "Book a demo",
+   "href": "https://talentrabbit.callohm.com/",
+   "external": true
+  },
+  {
+   "label": "Talk to Workforce Solutions",
+   "href": "/contact",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Try RabbiT",
+   "title": "talentrabbit.callohm.com",
+   "body": "Book a demo or start your first AI screening campaign in minutes: upload a JD, set your questions and go.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open talentrabbit.callohm.com",
+     "href": "https://talentrabbit.callohm.com/",
+     "external": true
+    },
+    {
+     "label": "Book a demo",
+     "href": "https://talentrabbit.callohm.com/",
+     "external": true
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "30+",
+     "label": "languages for voice screening"
+    },
+    {
+     "value": "24/7",
+     "label": "always-on screening: agents that never miss an applicant"
+    },
+    {
+     "value": "7 steps",
+     "label": "from job description to hire, on Recruitment Auto Flow"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this is our USP",
+   "text": "Built by a group that hires 2,500 people in 21 countries"
+  },
+  {
+   "type": "text",
+   "text": "Most recruitment AI is built by software companies that have never run a volume hiring campaign. RabbiT comes out of Purview's Workforce Solutions and CallOHM voice AI practices: it was built to staff our own delivery centres, service desks and data centre floors, in the languages our markets speak, and it is now offered to clients who hire at scale."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Everything your hiring team needs to move faster",
+   "text": "From first call to signed offer"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Screen in their language",
+     "eyebrow": "",
+     "body": "Voice-screen applicants in their preferred language and auto-score every conversation against the role.",
+     "links": []
+    },
+    {
+     "title": "Schedule interviews",
+     "eyebrow": "",
+     "body": "Qualified candidates get booked into open interview slots automatically. No back-and-forth emails.",
+     "links": []
+    },
+    {
+     "title": "Follow up on offers",
+     "eyebrow": "",
+     "body": "Automated, human-sounding follow-ups keep candidates warm from offer to acceptance.",
+     "links": []
+    },
+    {
+     "title": "One pipeline, full visibility",
+     "eyebrow": "",
+     "body": "Every job, candidate and stage in one calm board, sourcing to signed, at a glance.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From JD to hire with Recruitment Auto Flow"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Create or upload a JD",
+     "body": "Drop in a job description and RabbiT parses the skills, must-haves and screening questions automatically."
+    },
+    {
+     "title": "Source and match",
+     "body": "RabbiT continuously sources and connects with candidates, then matches them to the role so the right people surface without manual digging."
+    },
+    {
+     "title": "Auto-bucket",
+     "body": "Every resume is read, analysed and scored against your must-haves; unqualified applicants are filtered out and the strongest rise to the top."
+    },
+    {
+     "title": "AI voice screen",
+     "body": "Agents call candidates, hold a natural conversation in their preferred language and score each response, 24/7."
+    },
+    {
+     "title": "Technical and coding assessment",
+     "body": "Role-specific technical rounds and coding tasks, scored consistently for every candidate."
+    },
+    {
+     "title": "Analytics",
+     "body": "Every JD, profile, call and round rolls up into one live dashboard: pass rates, pipeline by stage, calls per hour, average call duration."
+    },
+    {
+     "title": "Select, schedule, offer",
+     "body": "Shortlist ranked candidates, book interviews into open slots and let RabbiT follow up on offers until acceptance."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Analytics",
+   "text": "See your hiring engine in real time"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "One screen for the whole campaign",
+     "eyebrow": "",
+     "body": "Total JDs, profiles, live and completed calls, average call duration, screen pass rate and the candidate pipeline from screening to offer, updated as the agents work.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The results",
+   "text": "Hiring teams move faster"
+  },
+  {
+   "type": "text",
+   "text": "What changes when AI handles the screening, scheduling and follow-up."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Less time-to-hire",
+     "eyebrow": "",
+     "body": "From first call to signed offer, days rather than weeks.",
+     "links": []
+    },
+    {
+     "title": "More candidates reached",
+     "eyebrow": "",
+     "body": "Screen everyone, not just a sample.",
+     "links": []
+    },
+    {
+     "title": "Higher offer acceptance",
+     "eyebrow": "",
+     "body": "Well-matched, well-screened hires.",
+     "links": []
+    },
+    {
+     "title": "Always-on screening",
+     "eyebrow": "",
+     "body": "Agents that never miss an applicant, in any time zone.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "quote",
+   "text": "\"RabbiT screened 1,200 applicants in their own languages over a weekend. By Monday our shortlist was ready, something our team could never have done manually.\" Head of Talent, high-growth SaaS client"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Security",
+   "text": "Built on trust, by design"
+  },
+  {
+   "type": "text",
+   "text": "Candidate and business data is protected at every step, from the first AI conversation to the signed offer."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Questions, answered",
+   "text": "FAQ"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is RabbiT?",
+     "a": "An AI recruiting platform from CallOHM, a Purview company, that voice-screens applicants in their own language, scores every answer against the role, schedules interviews and follows up on offers, all from one pipeline."
+    },
+    {
+     "q": "How does AI voice screening work?",
+     "a": "You drop in a job description and RabbiT parses the must-haves and screening questions. AI agents then call candidates, hold a natural conversation in their preferred language and score each response automatically, 24/7."
+    },
+    {
+     "q": "Which languages are supported?",
+     "a": "30+ languages, so you can reach and fairly evaluate talent regardless of where they are or what they speak."
+    },
+    {
+     "q": "Will candidates know they are talking to AI?",
+     "a": "Conversations are designed to be transparent, fair and human-sounding. Every candidate gets the same consistent, unbiased screening."
+    },
+    {
+     "q": "Does it replace our recruiters?",
+     "a": "No. It removes the repetitive work. RabbiT handles high-volume screening, scheduling and follow-up so recruiters spend their time on the people and decisions that matter."
+    },
+    {
+     "q": "Can Purview run the campaign for us?",
+     "a": "Yes. Workforce Solutions runs RabbiT as a managed recruitment service, from campaign set-up to compliant in-country contracts through Recruit, Train, Deploy and Contract Payroll."
+    },
+    {
+     "q": "How quickly can we start?",
+     "a": "Most teams launch their first AI screening campaign in minutes: upload a JD, set your questions and go. Book a demo and we will walk you through it."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "From applicant to hire, on autopilot",
+   "text": "Ready to hire faster than you can call?"
+  },
+  {
+   "type": "text",
+   "text": "Spin up your first AI recruiting campaign in minutes, or let Purview Workforce Solutions run it for you."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Get started on talentrabbit.callohm.com",
+     "href": "https://talentrabbit.callohm.com/",
+     "external": true
+    },
+    {
+     "label": "Talk to Workforce Solutions",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

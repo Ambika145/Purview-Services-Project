@@ -1,0 +1,106 @@
+{
+ "source": "https://purviewservices.com/purview-dc.html",
+ "route": "/purview-dc",
+ "template": "editorial",
+ "title": "Purview DC | Purview Services",
+ "description": "Purview builds Gen AI and agentic applications for enterprises and governments, and designs, builds and operates the AI data centres, networks and devices…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "",
+ "lede": null,
+ "actions": [
+  {
+   "label": "Visit purviewdc.com",
+   "href": "https://purviewdc.com",
+   "external": true
+  },
+  {
+   "label": "Discuss a build",
+   "href": "/contact",
+   "external": false
+  }
+ ],
+ "image": "purview-dc-band.jpg",
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The Purview approach",
+   "text": "From site to steady state"
+  },
+  {
+   "type": "text",
+   "text": "The Purview DC team connects infrastructure engineering, GPU deployment, commissioning and operations into one delivery approach."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore the delivery model",
+     "href": "/dc-delivery",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for the floor",
+   "text": "Four platforms our own engineers run on"
+  },
+  {
+   "type": "text",
+   "text": "Every one of these started as a tool we needed on a live build. They are now available to clients and partners through Purview DC."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Data Center Deployer",
+     "eyebrow": "",
+     "body": "Dock-to-rack delivery platform: technician app, coordinator control tower, rack elevation and digital twin.",
+     "links": []
+    },
+    {
+     "title": "SmartWorkforce",
+     "eyebrow": "",
+     "body": "AI workflow platform that turns SOPs into device-ready guidance: connect, collaborate, guide, solve.",
+     "links": []
+    },
+    {
+     "title": "SmartInspect",
+     "eyebrow": "",
+     "body": "Wearable-led remote collaboration: AR annotations, 4K streaming, smart glasses, session reporting and digital auditing.",
+     "links": []
+    },
+    {
+     "title": "SmartAMM",
+     "eyebrow": "",
+     "body": "AI-powered asset management and monitoring: sensors to edge hubs to AI analytics to digital twin dashboards.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Full capabilities, methodology and case studies on purviewdc.com",
+     "href": "https://purviewdc.com",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

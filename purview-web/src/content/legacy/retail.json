@@ -1,0 +1,255 @@
+{
+ "source": "https://purviewservices.com/retail.html",
+ "route": "/retail",
+ "template": "service",
+ "title": "Retail & Distribution | Purview Services",
+ "description": "Footfall analytics, payments and loyalty, supply chain visibility and store systems. Purview combines vision AI in store with payments and data platforms…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": "/industries"
+  },
+  {
+   "label": "Retail & Distribution",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Retail & Distribution",
+ "lede": "Footfall analytics, payments and loyalty, supply chain visibility and store systems.",
+ "actions": [],
+ "image": "retail.jpg",
+ "related": [
+  {
+   "label": "Edge & Vision AI",
+   "href": "/edge-vision"
+  },
+  {
+   "label": "Payments & Digital Assets",
+   "href": "/payments"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "Managed IT Support",
+   "href": "/it-support"
+  }
+ ],
+ "cta": "Talk to the Retail & Distribution team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "From footfall to fulfilment."
+  },
+  {
+   "type": "text",
+   "text": "Crowd analytics, payments and loyalty, supply chain visibility and store systems."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "In-store",
+     "label": "vision analytics and payments from one group"
+    },
+    {
+     "value": "RFID",
+     "label": "asset and inventory tracking"
+    },
+    {
+     "value": "Omnichannel",
+     "label": "inventory accuracy"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Retail & Distribution covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview combines vision AI in store with payments and data platforms behind it, for retailers and distributors such as Bata, Captain Fresh and Vahdam. Store systems, wallets and crowd analytics come from one group."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Retailers",
+     "eyebrow": "",
+     "body": "Footfall, queues and conversion.",
+     "links": []
+    },
+    {
+     "title": "Distributors",
+     "eyebrow": "",
+     "body": "Supply chain and inventory visibility.",
+     "links": []
+    },
+    {
+     "title": "Brands",
+     "eyebrow": "",
+     "body": "E-commerce and store platforms.",
+     "links": []
+    },
+    {
+     "title": "Operators",
+     "eyebrow": "",
+     "body": "Managed store IT.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Footfall and in-store analytics",
+     "body": ""
+    },
+    {
+     "title": "Payments, wallets and loyalty",
+     "body": ""
+    },
+    {
+     "title": "Supply chain and inventory visibility",
+     "body": ""
+    },
+    {
+     "title": "E-commerce and store platforms",
+     "body": ""
+    },
+    {
+     "title": "RFID and asset tracking",
+     "body": ""
+    },
+    {
+     "title": "Managed store IT support",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Store pilot",
+     "body": "Cameras, payments and data in a few stores."
+    },
+    {
+     "title": "Measure",
+     "body": "Conversion, shrink and queue metrics."
+    },
+    {
+     "title": "Scale",
+     "body": "Fleet rollout with device management."
+    },
+    {
+     "title": "Operate",
+     "body": "Managed store IT and analytics."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Store analytics pilot to rollout",
+   "body": "Retail chain. Cameras, payments and data in pilot stores; conversion, shrink and queue metrics measured before fleet rollout.",
+   "result": {
+    "value": "Measured",
+    "label": "conversion up, shrink down"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Conversion up, queues down",
+     "body": ""
+    },
+    {
+     "title": "Shrink reduced",
+     "body": ""
+    },
+    {
+     "title": "Inventory accurate across channels",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Wintag",
+    "CAEN RFID",
+    "BitRip",
+    "BenePay"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Privacy?",
+     "a": "Analytics are computed on device; no faces stored."
+    },
+    {
+     "q": "Payments?",
+     "a": "Wallets and loyalty through BenePay."
+    },
+    {
+     "q": "Support?",
+     "a": "Managed store IT across locations."
+    }
+   ]
+  }
+ ]
+}

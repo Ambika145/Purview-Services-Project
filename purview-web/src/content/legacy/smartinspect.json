@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/smartinspect.html",
+ "route": "/smartinspect",
+ "template": "editorial",
+ "title": "SmartInspect | Purview Services",
+ "description": "SmartInspect delivers AR inspection workflows with live remote expert collaboration. Built for global teams, it adds captioning and multilingual support…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "SmartInspect",
+   "href": null
+  }
+ ],
+ "eyebrow": "Smart Solutions Platform · SmartInspect · Purview Technologies · purviewtech.ai",
+ "h1": "Inspect anywhere, with the expert looking over your shoulder.",
+ "lede": "SmartInspect delivers AR inspection workflows with live remote expert collaboration. Built for global teams, it adds captioning and multilingual support so an inspector on site and a specialist on another continent work from the same view, with every step recorded.",
+ "actions": [
+  {
+   "label": "purviewtech.ai",
+   "href": "https://www.purviewtech.ai/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s AI XR practice",
+   "href": "/ai-solutions",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "SmartInspect on the Smart Solutions Platform",
+   "title": "Collaboration · Remote Experts · Multilingual",
+   "body": "Step-by-step inspection workflows in the inspector’s view, live sessions with remote experts who can annotate and guide, and multilingual captioning for global teams. Reports and evidence generated as the inspection happens.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    },
+    {
+     "label": "Arrange a demo",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Live",
+     "label": "remote experts in the inspector’s view"
+    },
+    {
+     "value": "Multilingual",
+     "label": "captioning and translation for global teams"
+    },
+    {
+     "value": "Evidence",
+     "label": "time-stamped reports generated automatically"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "AR-powered solutions designed to improve efficiency across industries"
+  },
+  {
+   "type": "text",
+   "text": "SmartInspect is one of four solutions on the Smart Solutions Platform from Purview Technologies, the group’s AI and XR company. The platform puts AR smart glasses, real-time captioning and translation, and Purview’s vision and voice AI into the hands of frontline teams, so the people doing the work see what they need, hands free, and the people supporting them can be anywhere."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What it does",
+   "text": "Capabilities"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "AR inspection workflows",
+     "eyebrow": "",
+     "body": "Checklists and procedures step by step in view, with photo and video evidence captured at each point.",
+     "links": []
+    },
+    {
+     "title": "Remote expert collaboration",
+     "eyebrow": "",
+     "body": "Specialists join live, see the inspector’s view, annotate and approve.",
+     "links": []
+    },
+    {
+     "title": "Captioning and multilingual support",
+     "eyebrow": "",
+     "body": "Conversations captioned and translated so global teams work together.",
+     "links": []
+    },
+    {
+     "title": "Digital audit trail",
+     "eyebrow": "",
+     "body": "Time-stamped evidence, sign-offs and reports generated automatically.",
+     "links": []
+    },
+    {
+     "title": "Integration",
+     "eyebrow": "",
+     "body": "Results posted to asset, maintenance and quality systems.",
+     "links": []
+    },
+    {
+     "title": "Data centre and industrial use",
+     "eyebrow": "",
+     "body": "Proven on Purview DC floors and extended to plants, sites and fleets.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From glasses on to value out"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Define",
+     "body": "Inspection workflows and acceptance criteria configured in the platform."
+    },
+    {
+     "title": "Equip",
+     "body": "AR glasses issued to inspectors; experts join from desk or mobile."
+    },
+    {
+     "title": "Inspect",
+     "body": "Steps followed in view, evidence captured, expert called when needed."
+    },
+    {
+     "title": "Report",
+     "body": "Reports and sign-offs generated at the end of the session."
+    },
+    {
+     "title": "Improve",
+     "body": "Findings analysed across sites to reduce repeat defects."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Behind the solution",
+   "text": "Platform and devices"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "One platform, enterprise-grade",
+     "eyebrow": "",
+     "body": "Purview Technologies runs the SmartInspect platform and supplies the devices; Purview DC uses it on live GPU-floor installations, which keeps the product grounded in real inspection work.",
+     "links": [
+      {
+       "label": "AI Solutions Vision, voice and XR engineering",
+       "href": "/ai-solutions",
+       "external": false
+      },
+      {
+       "label": "Nexable Assistive aids on the same wearable platform",
+       "href": "/nexable",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Where it earns its keep"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Data centre operators",
+     "eyebrow": "",
+     "body": "Installation, commissioning and audit evidence.",
+     "links": []
+    },
+    {
+     "title": "Manufacturing and process plants",
+     "eyebrow": "",
+     "body": "Quality and safety inspections with remote specialists.",
+     "links": []
+    },
+    {
+     "title": "Utilities and infrastructure",
+     "eyebrow": "",
+     "body": "Field inspections across dispersed assets.",
+     "links": []
+    },
+    {
+     "title": "OEMs and service networks",
+     "eyebrow": "",
+     "body": "Remote acceptance and warranty inspection.",
+     "links": []
+    },
+    {
+     "title": "Insurers and certifiers",
+     "eyebrow": "",
+     "body": "Verified, time-stamped evidence.",
+     "links": []
+    },
+    {
+     "title": "Global engineering teams",
+     "eyebrow": "",
+     "body": "Multilingual collaboration across regions.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is SmartInspect?",
+     "a": "An AR inspection and remote collaboration solution from Purview Technologies, with captioning and multilingual support."
+    },
+    {
+     "q": "Does it work in low-connectivity sites?",
+     "a": "Workflows run on the device; sessions and uploads sync when connectivity allows. Details on request."
+    },
+    {
+     "q": "Is it used by Purview itself?",
+     "a": "Yes. Purview DC uses SmartInspect on data centre installations and audits."
+    },
+    {
+     "q": "Which systems does it integrate with?",
+     "a": "Asset, maintenance and quality platforms through APIs."
+    },
+    {
+     "q": "How do we start?",
+     "a": "Arrange a demo through purviewtech.ai or Purview’s contact page."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "SmartInspect",
+   "text": "Bring the expert to every inspection."
+  },
+  {
+   "type": "text",
+   "text": "Arrange a SmartInspect demo through purviewtech.ai or Purview."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

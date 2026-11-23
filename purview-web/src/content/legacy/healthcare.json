@@ -1,0 +1,255 @@
+{
+ "source": "https://purviewservices.com/healthcare.html",
+ "route": "/healthcare",
+ "template": "service",
+ "title": "Healthcare & Life Sciences | Purview Services",
+ "description": "Clinical systems, telehealth, revenue cycle management and the manufacturing engineering around them. The group runs healthcare businesses of its own…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": "/industries"
+  },
+  {
+   "label": "Healthcare & Life Sciences",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Healthcare & Life Sciences",
+ "lede": "Clinical systems, telehealth, revenue cycle management and the manufacturing engineering around them.",
+ "actions": [],
+ "image": "healthcare.jpg",
+ "related": [
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "Cybersecurity",
+   "href": "/cybersecurity"
+  },
+  {
+   "label": "Managed Application Services",
+   "href": "/app-managed"
+  }
+ ],
+ "cta": "Talk to the Healthcare & Life Sciences team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Clinical, commercial and compliant."
+  },
+  {
+   "type": "text",
+   "text": "Clinical systems, telehealth, revenue cycle and life-sciences engineering."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "3",
+     "label": "healthcare companies inside the group"
+    },
+    {
+     "value": "NHS",
+     "label": "and AIIMS among clients"
+    },
+    {
+     "value": "Clinical",
+     "label": "safety cases documented on every deployment"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Healthcare & Life Sciences covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "The group runs healthcare businesses of its own, Purview Healthcare and iPhysicianHub, and serves the NHS and AIIMS. That gives us operating knowledge of clinical workflows, billing and compliance that pure IT vendors do not have."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Hospitals and systems",
+     "eyebrow": "",
+     "body": "Clinical, hospital and telehealth platforms.",
+     "links": []
+    },
+    {
+     "title": "Providers",
+     "eyebrow": "",
+     "body": "Revenue cycle management.",
+     "links": []
+    },
+    {
+     "title": "Life sciences",
+     "eyebrow": "",
+     "body": "Manufacturing and compliance systems.",
+     "links": []
+    },
+    {
+     "title": "Public health",
+     "eyebrow": "",
+     "body": "Data platforms and AI for triage and coding.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Clinical and hospital information systems",
+     "body": ""
+    },
+    {
+     "title": "Telehealth and digital clinics",
+     "body": ""
+    },
+    {
+     "title": "Revenue cycle management",
+     "body": ""
+    },
+    {
+     "title": "Healthcare data platforms and analytics",
+     "body": ""
+    },
+    {
+     "title": "AI for triage, coding and documentation",
+     "body": ""
+    },
+    {
+     "title": "Life sciences manufacturing systems",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Clinical safety first",
+     "body": "Workflows designed with clinicians and safety cases documented."
+    },
+    {
+     "title": "Integrate",
+     "body": "HL7, FHIR and existing systems connected."
+    },
+    {
+     "title": "Deploy",
+     "body": "Phased rollout with training on the floor."
+    },
+    {
+     "title": "Operate",
+     "body": "Managed services with uptime for patient-facing systems."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Revenue cycle management",
+   "body": "Healthcare provider. Purview Healthcare runs end-to-end RCM with AI-assisted coding and denial management.",
+   "result": {
+    "value": "Faster",
+    "label": "claims, fewer denials"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Clinician time back to patients",
+     "body": ""
+    },
+    {
+     "title": "Claims paid faster, denials down",
+     "body": ""
+    },
+    {
+     "title": "Patient data secured and auditable",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "NHS",
+    "AIIMS",
+    "iPhysicianHub",
+    "Purview Healthcare"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Standards?",
+     "a": "HL7, FHIR, and clinical safety documentation per deployment."
+    },
+    {
+     "q": "Data?",
+     "a": "Patient data secured to ISO 27001 and local health regulation."
+    },
+    {
+     "q": "Do you operate services?",
+     "a": "Yes: Purview Healthcare and iPhysicianHub are operating businesses."
+    }
+   ]
+  }
+ ]
+}

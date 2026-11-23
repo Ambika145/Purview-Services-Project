@@ -1,0 +1,662 @@
+{
+"NVIDIA": {
+"slug": "nvidia",
+"w": 298,
+"h": 64
+},
+"AMD": {
+"slug": "amd",
+"w": 322,
+"h": 64
+},
+"Supermicro": {
+"slug": "supermicro",
+"w": 414,
+"h": 64
+},
+"HPE": {
+"slug": "hpe",
+"w": 153,
+"h": 64
+},
+"Dell Technologies": {
+"slug": "dell-technologies",
+"w": 534,
+"h": 64
+},
+"Vertiv": {
+"slug": "vertiv",
+"w": 232,
+"h": 64
+},
+"Schneider Electric": {
+"slug": "schneider-electric",
+"w": 449,
+"h": 64
+},
+"Corning": {
+"slug": "corning",
+"w": 363,
+"h": 64
+},
+"CommScope": {
+"slug": "commscope",
+"w": 442,
+"h": 64
+},
+"SAP": {
+"slug": "sap",
+"w": 288,
+"h": 64
+},
+"Salesforce": {
+"slug": "salesforce",
+"w": 345,
+"h": 64
+},
+"ServiceNow": {
+"slug": "servicenow",
+"w": 375,
+"h": 64
+},
+"Pega": {
+"slug": "pega",
+"w": 324,
+"h": 64
+},
+"Appian": {
+"slug": "appian",
+"w": 210,
+"h": 64
+},
+"Murex": {
+"slug": "murex",
+"w": 271,
+"h": 64
+},
+"Calypso": {
+"slug": "calypso",
+"w": 342,
+"h": 64
+},
+"Finastra": {
+"slug": "finastra",
+"w": 145,
+"h": 64
+},
+"OpenLink": {
+"slug": "openlink",
+"w": 309,
+"h": 64
+},
+"Google Cloud": {
+"slug": "google-cloud",
+"w": 349,
+"h": 64
+},
+"Dynatrace": {
+"slug": "dynatrace",
+"w": 260,
+"h": 64
+},
+"Kong": {
+"slug": "kong",
+"w": 208,
+"h": 64
+},
+"Palo Alto Networks": {
+"slug": "palo-alto-networks",
+"w": 224,
+"h": 64
+},
+"Fortinet": {
+"slug": "fortinet",
+"w": 289,
+"h": 64
+},
+"F5": {
+"slug": "f5",
+"w": 155,
+"h": 64
+},
+"IBM Security": {
+"slug": "ibm-security",
+"w": 226,
+"h": 64
+},
+"Dragos": {
+"slug": "dragos",
+"w": 265,
+"h": 64
+},
+"Cisco": {
+"slug": "cisco",
+"w": 519,
+"h": 64
+},
+"Splunk": {
+"slug": "splunk",
+"w": 317,
+"h": 64
+},
+"Snowflake": {
+"slug": "snowflake",
+"w": 277,
+"h": 64
+},
+"Databricks": {
+"slug": "databricks",
+"w": 384,
+"h": 64
+},
+"Informatica": {
+"slug": "informatica",
+"w": 310,
+"h": 64
+},
+"Tableau": {
+"slug": "tableau",
+"w": 232,
+"h": 64
+},
+"Power BI": {
+"slug": "power-bi",
+"w": 270,
+"h": 64
+},
+"MuleSoft": {
+"slug": "mulesoft",
+"w": 337,
+"h": 64
+},
+"Dynamics 365": {
+"slug": "dynamics-365",
+"w": 379,
+"h": 64
+},
+"DeepX": {
+"slug": "deepx",
+"w": 264,
+"h": 64
+},
+"Bosch": {
+"slug": "bosch",
+"w": 354,
+"h": 64
+},
+"Pelco": {
+"slug": "pelco",
+"w": 234,
+"h": 64
+},
+"Avigilon": {
+"slug": "avigilon",
+"w": 106,
+"h": 64
+},
+"Motorola Solutions": {
+"slug": "motorola-solutions",
+"w": 100,
+"h": 64
+},
+"Kaynes Technology": {
+"slug": "kaynes-technology",
+"w": 96,
+"h": 64
+},
+"Avnet Silica": {
+"slug": "avnet-silica",
+"w": 388,
+"h": 64
+},
+"Grinn": {
+"slug": "grinn",
+"w": 250,
+"h": 64
+},
+"NHS": {
+"slug": "nhs",
+"w": 152,
+"h": 64
+},
+"AIIMS": {
+"slug": "aiims",
+"w": 75,
+"h": 64
+},
+"AppDynamics": {
+"slug": "appdynamics",
+"w": 369,
+"h": 64
+},
+"Government of Telangana": {
+"slug": "government-of-telangana",
+"w": 74,
+"h": 64
+},
+"NMDC": {
+"slug": "nmdc",
+"w": 204,
+"h": 64
+},
+"ONGC": {
+"slug": "ongc",
+"w": 75,
+"h": 64
+},
+"Government of Andhra Pradesh": {
+"slug": "government-of-andhra-pradesh",
+"w": 72,
+"h": 64
+},
+"Government of Bihar": {
+"slug": "government-of-bihar",
+"w": 70,
+"h": 64
+},
+"Wintag": {
+"slug": "wintag",
+"w": 280,
+"h": 64
+},
+"CAEN RFID": {
+"slug": "caen-rfid",
+"w": 78,
+"h": 64
+},
+"BitRip": {
+"slug": "bitrip",
+"w": 236,
+"h": 64
+},
+"UiPath": {
+"slug": "uipath",
+"w": 360,
+"h": 64
+},
+"Automation Anywhere": {
+"slug": "automation-anywhere",
+"w": 232,
+"h": 64
+},
+"Nokia": {
+"slug": "nokia",
+"w": 289,
+"h": 64
+},
+"Panduit": {
+"slug": "panduit",
+"w": 294,
+"h": 64
+},
+"Systimax": {
+"slug": "systimax",
+"w": 362,
+"h": 64
+},
+"HSBC": {
+"slug": "hsbc",
+"w": 197,
+"h": 64
+},
+"SBI": {
+"slug": "sbi",
+"w": 174,
+"h": 64
+},
+"IDFC FIRST Bank": {
+"slug": "idfc-first-bank",
+"w": 167,
+"h": 64
+},
+"UBS": {
+"slug": "ubs",
+"w": 167,
+"h": 64
+},
+"Al Masraf": {
+"slug": "al-masraf",
+"w": 195,
+"h": 64
+},
+"Khan Bank": {
+"slug": "khan-bank",
+"w": 249,
+"h": 64
+},
+"FAB": {
+"slug": "fab",
+"w": 116,
+"h": 64
+},
+"JPMorgan Chase": {
+"slug": "jpmorgan-chase",
+"w": 201,
+"h": 64
+},
+"AIG": {
+"slug": "aig",
+"w": 122,
+"h": 64
+},
+"FIS": {
+"slug": "fis",
+"w": 152,
+"h": 64
+},
+"Prudential": {
+"slug": "prudential",
+"w": 263,
+"h": 64
+},
+"Bank of India": {
+"slug": "bank-of-india",
+"w": 163,
+"h": 64
+},
+"Northern Trust": {
+"slug": "northern-trust",
+"w": 183,
+"h": 64
+},
+"Fidelity": {
+"slug": "fidelity",
+"w": 232,
+"h": 64
+},
+"Metro Bank": {
+"slug": "metro-bank",
+"w": 164,
+"h": 64
+},
+"High Commission of India, London": {
+"slug": "high-commission-of-india-london",
+"w": 210,
+"h": 64
+},
+"M\\u00e9tis Nation British Columbia": {
+"slug": "m-u00e9tis-nation-british-columbia",
+"w": 225,
+"h": 64
+},
+"AT&T": {
+"slug": "at-t",
+"w": 153,
+"h": 64
+},
+"Verizon": {
+"slug": "verizon",
+"w": 242,
+"h": 64
+},
+"T-Mobile": {
+"slug": "t-mobile",
+"w": 251,
+"h": 64
+},
+"Comcast": {
+"slug": "comcast",
+"w": 208,
+"h": 64
+},
+"Virgin Media": {
+"slug": "virgin-media",
+"w": 116,
+"h": 64
+},
+"World Wide Technology": {
+"slug": "world-wide-technology",
+"w": 160,
+"h": 64
+},
+"Oracle": {
+"slug": "oracle",
+"w": 303,
+"h": 64
+},
+"Wipro": {
+"slug": "wipro",
+"w": 90,
+"h": 64
+},
+"Capgemini": {
+"slug": "capgemini",
+"w": 242,
+"h": 64
+},
+"Cognizant": {
+"slug": "cognizant",
+"w": 258,
+"h": 64
+},
+"Accenture": {
+"slug": "accenture",
+"w": 213,
+"h": 64
+},
+"Deloitte": {
+"slug": "deloitte",
+"w": 258,
+"h": 64
+},
+"EY": {
+"slug": "ey",
+"w": 76,
+"h": 64
+},
+"PwC": {
+"slug": "pwc",
+"w": 132,
+"h": 64
+},
+"SThree": {
+"slug": "sthree",
+"w": 152,
+"h": 64
+},
+"Park Place Technologies": {
+"slug": "park-place-technologies",
+"w": 238,
+"h": 64
+},
+"T\\u00dcV India": {
+"slug": "t-u00dcv-india",
+"w": 123,
+"h": 64
+},
+"Onch & Company": {
+"slug": "onch-company",
+"w": 188,
+"h": 64
+},
+"Ford": {
+"slug": "ford",
+"w": 164,
+"h": 64
+},
+"DuPont": {
+"slug": "dupont",
+"w": 147,
+"h": 64
+},
+"Aggreko": {
+"slug": "aggreko",
+"w": 206,
+"h": 64
+},
+"AAJ": {
+"slug": "aaj",
+"w": 168,
+"h": 64
+},
+"Allied Vehicles": {
+"slug": "allied-vehicles",
+"w": 225,
+"h": 64
+},
+"Nilfisk": {
+"slug": "nilfisk",
+"w": 246,
+"h": 64
+},
+"William Grant & Sons": {
+"slug": "william-grant-sons",
+"w": 142,
+"h": 64
+},
+"Sara": {
+"slug": "sara",
+"w": 189,
+"h": 64
+},
+"Cremica": {
+"slug": "cremica",
+"w": 157,
+"h": 64
+},
+"Valvoline": {
+"slug": "valvoline",
+"w": 100,
+"h": 64
+},
+"Ajinomoto": {
+"slug": "ajinomoto",
+"w": 96,
+"h": 64
+},
+"Bata": {
+"slug": "bata",
+"w": 234,
+"h": 64
+},
+"Vahdam Teas": {
+"slug": "vahdam-teas",
+"w": 224,
+"h": 64
+},
+"Rasasi": {
+"slug": "rasasi",
+"w": 206,
+"h": 64
+},
+"JK Paper": {
+"slug": "jk-paper",
+"w": 121,
+"h": 64
+},
+"Indofil": {
+"slug": "indofil",
+"w": 224,
+"h": 64
+},
+"MCPI": {
+"slug": "mcpi",
+"w": 102,
+"h": 64
+},
+"DFPCL": {
+"slug": "dfpcl",
+"w": 195,
+"h": 64
+},
+"Inlife": {
+"slug": "inlife",
+"w": 99,
+"h": 64
+},
+"PW": {
+"slug": "pw",
+"w": 76,
+"h": 64
+},
+"Hyundai Mobis": {
+"slug": "hyundai-mobis",
+"w": 168,
+"h": 64
+},
+"JLL": {
+"slug": "jll",
+"w": 144,
+"h": 64
+},
+"BidAir Cargo": {
+"slug": "bidair-cargo",
+"w": 129,
+"h": 64
+},
+"CapitaLand": {
+"slug": "capitaland",
+"w": 153,
+"h": 64
+},
+"PDC": {
+"slug": "pdc",
+"w": 190,
+"h": 64
+},
+"Engie": {
+"slug": "engie",
+"w": 168,
+"h": 64
+},
+"Hyundai Kefico": {
+"slug": "hyundai-kefico",
+"w": 93,
+"h": 64
+},
+"Ambuja Cement": {
+"slug": "ambuja-cement",
+"w": 57,
+"h": 64
+},
+"Captain Fresh": {
+"slug": "captain-fresh",
+"w": 76,
+"h": 64
+},
+"HPE-p": {
+"slug": "hpe-p",
+"w": 340,
+"h": 64
+},
+"Hitachi": {
+"slug": "hitachi",
+"w": 368,
+"h": 64
+},
+"Anthropic": {
+"slug": "anthropic",
+"w": 320,
+"h": 64
+},
+"OpenAI": {
+"slug": "openai",
+"w": 223,
+"h": 64
+},
+"Azure AI": {
+"slug": "azure-ai",
+"w": 295,
+"h": 64
+},
+"AWS Bedrock": {
+"slug": "aws-bedrock",
+"w": 328,
+"h": 64
+},
+"Videam": {
+"slug": "videam",
+"w": 217,
+"h": 64
+},
+"TeleVU": {
+"slug": "televu",
+"w": 273,
+"h": 64
+},
+"Cisco Partner": {
+"slug": "cisco-partner",
+"w": 519,
+"h": 64
+}
+}

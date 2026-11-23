@@ -1,0 +1,240 @@
+{
+ "source": "https://purviewservices.com/market-insights.html",
+ "route": "/market-insights",
+ "template": "service",
+ "title": "Market Insights | Purview Services",
+ "description": "Talent availability, rate cards and location intelligence for the markets we operate in. Because Purview hires in 21 countries, we know what skills cost and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Market Insights",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Market Insights",
+ "lede": "Talent availability, rate cards and location intelligence for the markets we operate in.",
+ "actions": [],
+ "image": "market-insights.jpg",
+ "related": [
+  {
+   "label": "Volume, Contract & Perm Recruitment",
+   "href": "/volume-recruitment"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "Discovery Audits",
+   "href": "/audits"
+  },
+  {
+   "label": "Contract Payroll",
+   "href": "/payroll"
+  }
+ ],
+ "cta": "Talk to the Market Insights team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Talent and rate intelligence for the markets we serve."
+  },
+  {
+   "type": "text",
+   "text": "Availability, rate cards and location insight for hiring decisions."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "21",
+     "label": "markets with live placement data"
+    },
+    {
+     "value": "Quarterly",
+     "label": "briefings on skills and rates"
+    },
+    {
+     "value": "2,500",
+     "label": "professionals in our own workforce as a benchmark"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Market Insights covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Because Purview hires in 21 countries, we know what skills cost and where they are. We share that intelligence with clients planning teams, locations or programmes, so decisions rest on current data rather than last year's survey."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "HR and talent leaders",
+     "eyebrow": "",
+     "body": "Rates and availability before planning.",
+     "links": []
+    },
+    {
+     "title": "Location strategy",
+     "eyebrow": "",
+     "body": "Where to put the next delivery centre.",
+     "links": []
+    },
+    {
+     "title": "Programme leads",
+     "eyebrow": "",
+     "body": "Ramp feasibility for a hiring plan.",
+     "links": []
+    },
+    {
+     "title": "Investors",
+     "eyebrow": "",
+     "body": "Talent cost in a target market.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Skills availability by market",
+     "body": ""
+    },
+    {
+     "title": "Rate cards and salary benchmarks",
+     "body": ""
+    },
+    {
+     "title": "Location comparisons for delivery centres",
+     "body": ""
+    },
+    {
+     "title": "Demand trends in AI, cloud and networks",
+     "body": ""
+    },
+    {
+     "title": "Competitor hiring intelligence",
+     "body": ""
+    },
+    {
+     "title": "Quarterly briefings",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Scope",
+     "body": "Roles, markets and questions to answer."
+    },
+    {
+     "title": "Research",
+     "body": "Our placement data plus market sources."
+    },
+    {
+     "title": "Model",
+     "body": "Scenarios for cost, availability and ramp."
+    },
+    {
+     "title": "Brief",
+     "body": "A decision-ready paper and a conversation."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Delivery centre location study",
+   "body": "Global bank. Skills availability, rate cards and ramp scenarios modelled across four cities; the decision rested on data rather than last year's survey.",
+   "result": {
+    "value": "4",
+    "label": "cities compared"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Location decisions made with data",
+     "body": ""
+    },
+    {
+     "title": "Rates benchmarked before negotiation",
+     "body": ""
+    },
+    {
+     "title": "Fewer failed hires",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Sources?",
+     "a": "Our own placement data plus market sources, modelled for your roles."
+    },
+    {
+     "q": "Format?",
+     "a": "A decision-ready paper and a conversation."
+    },
+    {
+     "q": "Ongoing?",
+     "a": "Quarterly briefings on request."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "source": "https://purviewservices.com/sow.html",
+ "route": "/sow",
+ "template": "service",
+ "title": "Time-based & SOW Delivery | Purview Services",
+ "description": "Outcome-priced statements of work with one accountable owner, or time-based teams when scope is still moving. Purview will sign against outcomes.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Time-based & SOW Delivery",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Time-based & SOW Delivery",
+ "lede": "Outcome-priced statements of work with one accountable owner, or time-based teams when scope is still moving.",
+ "actions": [],
+ "image": "sow.jpg",
+ "related": [
+  {
+   "label": "Managed Software Development",
+   "href": "/dev-managed"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  },
+  {
+   "label": "AI Infrastructure",
+   "href": "/ai-infrastructure"
+  }
+ ],
+ "cta": "Talk to the Time-based & SOW Delivery team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Outcome-priced, with one accountable owner."
+  },
+  {
+   "type": "text",
+   "text": "Statements of work when scope is fixed, time-based teams when it is still moving."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Outcome",
+     "label": "priced statements of work with one owner"
+    },
+    {
+     "value": "Weekly",
+     "label": "reporting against the plan"
+    },
+    {
+     "value": "CMMi L5",
+     "label": "delivery governance"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Time-based & SOW Delivery covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview will sign against outcomes. Where the scope is clear we price the statement of work and own the result; where it is still moving we provide time-based teams with transparent reporting until it is clear enough to fix."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Programme directors",
+     "eyebrow": "",
+     "body": "Fixed outcome, fixed date.",
+     "links": []
+    },
+    {
+     "title": "Procurement",
+     "eyebrow": "",
+     "body": "Milestone-based commercials.",
+     "links": []
+    },
+    {
+     "title": "Moving scope",
+     "eyebrow": "",
+     "body": "Time-based teams until it is clear enough to fix.",
+     "links": []
+    },
+    {
+     "title": "Transitions",
+     "eyebrow": "",
+     "body": "SOW delivery that hands into managed services.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Fixed-outcome statements of work",
+     "body": ""
+    },
+    {
+     "title": "Time and materials teams",
+     "body": ""
+    },
+    {
+     "title": "Milestone-based commercial models",
+     "body": ""
+    },
+    {
+     "title": "Delivery governance and reporting",
+     "body": ""
+    },
+    {
+     "title": "Risk and change management",
+     "body": ""
+    },
+    {
+     "title": "Transition to managed services",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Scope",
+     "body": "Outcomes, acceptance criteria and assumptions written down."
+    },
+    {
+     "title": "Price",
+     "body": "Fixed, milestone or T&M, chosen with you."
+    },
+    {
+     "title": "Deliver",
+     "body": "Weekly reporting against the plan."
+    },
+    {
+     "title": "Accept",
+     "body": "Formal acceptance and hand-over, or move to run."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Fixed-outcome programme",
+   "body": "Public body, India. Scope, acceptance criteria and milestones agreed up front; delivered on the committed date and transitioned into operations under the same owner.",
+   "result": {
+    "value": "On date",
+    "label": "accepted and in run"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Delivered on the committed date",
+     "body": ""
+    },
+    {
+     "title": "No surprise change requests",
+     "body": ""
+    },
+    {
+     "title": "One owner for the result",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Fixed price risk?",
+     "a": "We carry it when scope is clear; we say so when it is not."
+    },
+    {
+     "q": "Change?",
+     "a": "Formal change control with cost and timeline impact before approval."
+    },
+    {
+     "q": "After delivery?",
+     "a": "Transition to managed services under the same accountable owner."
+    }
+   ]
+  }
+ ]
+}

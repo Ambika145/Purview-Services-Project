@@ -1,0 +1,134 @@
+{
+ "source": "https://purviewservices.com/blog-why-the-agent-needs-the-floor.html",
+ "route": "/blog-why-the-agent-needs-the-floor",
+ "template": "article",
+ "title": "Why the AI Agent Needs the Floor | Purview Services",
+ "description": "Building AI applications and the infrastructure they run on together, rather than in sequence, is how enterprises keep AI fast, affordable and inside…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Blog",
+   "href": "/blog"
+  },
+  {
+   "label": "AI & Infrastructure",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Why the agent needs the floor",
+ "lede": "Building AI applications and the infrastructure they run on together, rather than in sequence, is how enterprises keep AI fast, affordable and inside their data boundary.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "text",
+   "text": "In most enterprises, an AI programme is run by two teams that rarely meet. One builds the application: the copilot, the agent, the workflow. The other provisions the compute it runs on. They work in sequence, through tickets, and each optimises for its own part of the problem. The result is predictable: applications that are expensive to run, infrastructure sized for a workload nobody fully described, and a security review that arrives after the important decisions have been made."
+  },
+  {
+   "type": "text",
+   "text": "Purview has spent 17 years on both sides of that line. We build Gen AI and agentic applications, and through Purview DC our teams have delivered around 500 MW of AI data centre capacity. The lesson from doing both is simple: the agent and the floor it runs on are one design problem."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Inference cost is a design input, not a surprise"
+  },
+  {
+   "type": "text",
+   "text": "An agent that works in a demo can still fail in production for one reason: it costs too much per transaction to run at volume. How many model calls a workflow makes, how much context it carries, which steps need a frontier model and which can use a smaller one, all of these decide the inference bill. They are application decisions, but their consequences land on the infrastructure."
+  },
+  {
+   "type": "text",
+   "text": "When the same team designs both, the cost of inference is in view from the first workshop. Smaller models handle the routine steps, frontier models are reserved for the judgement calls, and the GPU capacity is sized for the real model mix rather than a guess. That is why “inference cost per transaction under control” is one of the outcomes our clients measure."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "The data boundary decides where the floor is"
+  },
+  {
+   "type": "text",
+   "text": "For banks, insurers, healthcare providers and governments, the first question about any AI system is where the data goes. Many cannot send regulated data to a public model endpoint at all. The agent has to run inside the boundary: on the client’s own cloud, on a sovereign cloud, or on GPU infrastructure built for the purpose."
+  },
+  {
+   "type": "text",
+   "text": "That requirement shapes the application as much as the infrastructure. Which models are permitted, where retrieval indexes live, how logs are retained and who can see them: these need answering together. Sovereign AI programmes, where national capacity must be built with data residency designed in, make the point most clearly. The application cannot be designed first and housed later."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Models change. The workflow should not."
+  },
+  {
+   "type": "text",
+   "text": "The model landscape moves every quarter. An enterprise that hard-wires its workflows to one model or one vendor will rebuild them repeatedly. Our answer is an orchestration layer: the Secure AI Engine (SAIE) sits above Anthropic, OpenAI, Azure AI, AWS Bedrock and open models, so the workflow stays the same when the model behind it changes."
+  },
+  {
+   "type": "text",
+   "text": "The same principle applies underneath. Infrastructure designed for one model generation becomes a constraint on the next. Designing density, cooling, power and network for the actual workload, with headroom for the next platform, keeps the floor from dictating the roadmap."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "What changes when one team owns both"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Security review happens once, early.",
+     "body": "The boundary, the models and the infrastructure are reviewed as one system rather than three separate approvals."
+    },
+    {
+     "title": "Capacity matches demand.",
+     "body": "GPU floors are sized from the workflows that will run on them, not from vendor reference designs alone."
+    },
+    {
+     "title": "Latency is engineered, not hoped for.",
+     "body": "Placement of models, retrieval and data is decided with the network in view."
+    },
+    {
+     "title": "One owner for the outcome.",
+     "body": "When something underperforms in production, there is no debate about whose side of the line it sits on."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Where to start"
+  },
+  {
+   "type": "text",
+   "text": "Start from the decision that has to be made, how fast and at what cost, not from a model looking for a use case. From there, a working slice of the application can be proven on your data, inside your boundary, in four to six weeks, scored against a success metric agreed up front. In parallel, the infrastructure path is scoped: your cloud, a sovereign cloud, or a GPU floor that Purview builds and operates."
+  },
+  {
+   "type": "text",
+   "text": "Doing both at once is not slower. It removes the rework that comes from discovering, after the pilot, that the application cannot run where it needs to at the price it needs to."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Talk to us about your programme"
+  },
+  {
+   "type": "text",
+   "text": "Explore AI Solutions and AI Infrastructure, or bring us a problem statement."
+  }
+ ],
+ "byline": "Purview Editorial Team",
+ "date": "10 November 2026",
+ "readTime": "6 min read"
+}

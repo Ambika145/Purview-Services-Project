@@ -1,0 +1,104 @@
+{
+ "source": "https://purviewservices.com/insights.html",
+ "route": "/insights",
+ "template": "editorial",
+ "title": "Insights & Perspectives | Purview Services",
+ "description": "Explore Purview’s perspectives on the technologies reshaping enterprise systems and the physical infrastructure required to support them.",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / INSIGHTS & PERSPECTIVES",
+ "h1": "Ideas grounded in engineering practice.",
+ "lede": "Explore Purview’s perspectives on the technologies reshaping enterprise systems and the physical infrastructure required to support them.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE INSIGHTS & PERSPECTIVES",
+   "text": "Perspectives from the group."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Why the agent needs the floor"
+  },
+  {
+   "type": "text",
+   "text": "Applications, data, compute, networking and operations must be designed together."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Preparation-first GPU delivery"
+  },
+  {
+   "type": "text",
+   "text": "How prestaging, installation controls and acceptance gates support reliable commissioning."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Modernise for the workload"
+  },
+  {
+   "type": "text",
+   "text": "The intersection of hybrid cloud, network performance, data residency and cost."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "From AI pilots to production"
+  },
+  {
+   "type": "text",
+   "text": "Evaluation, governance, observability and human-in-the-loop controls."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "A practical view of the next decade"
+  },
+  {
+   "type": "text",
+   "text": "What enterprises should build, buy, operate and partner for."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

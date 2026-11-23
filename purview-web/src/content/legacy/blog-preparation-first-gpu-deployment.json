@@ -1,0 +1,142 @@
+{
+ "source": "https://purviewservices.com/blog-preparation-first-gpu-deployment.html",
+ "route": "/blog-preparation-first-gpu-deployment",
+ "template": "article",
+ "title": "Preparation-First GPU Deployment | Purview Services",
+ "description": "AI data centre programmes live or die on schedule certainty. Prestaging, independent quality gates and full traceability are how Purview DC delivers…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Blog",
+   "href": "/blog"
+  },
+  {
+   "label": "Data Centres",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Preparation-first: why GPU floors are won on the bench",
+ "lede": "AI data centre programmes live or die on schedule certainty. Prestaging, independent quality gates and full traceability are how Purview DC delivers floors on the committed date.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "text",
+   "text": "An AI data hall in the final weeks before go-live is one of the most congested workplaces in technology. Racks arrive, cable trays fill, optics are installed, and several contractors compete for the same aisles. Every problem discovered on the floor, whether a faulty unit, a missing label or a mismatched cable, costs time that the programme does not have."
+  },
+  {
+   "type": "text",
+   "text": "Purview DC’s answer is to move as much of that work as possible off the floor. We call it preparation-first."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Won on the bench, proven on the floor"
+  },
+  {
+   "type": "text",
+   "text": "Engineering verification, assembly, labelling and deployment readiness are completed in a controlled prestaging environment before installation starts. Hardware reaches the data hall already verified, labelled and ready to install. That reduces congestion in the hall and improves productivity, quality and schedule certainty."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Six phases, four independent quality gates"
+  },
+  {
+   "type": "text",
+   "text": "Installation, testing and acceptance are separated into six phases, and infrastructure advances only when it meets the release criteria for the next one:"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Prestaging.",
+     "body": "Material receipt, engineering verification, assembly, labelling, QA and deployment release. Gate: engineering release."
+    },
+    {
+     "title": "Site receipt and validation.",
+     "body": "Receiving, delivery reconciliation, chain of custody and contamination inspection. Gate: site validation."
+    },
+    {
+     "title": "Active infrastructure.",
+     "body": "Asset validation, dead-on-arrival testing, RMA handling, and rack, rail and device installation with progressive verification."
+    },
+    {
+     "title": "Structured cabling.",
+     "body": "Certified fibre and Cat6A, patch panels, dressing and labelling."
+    },
+    {
+     "title": "Connectivity and optics.",
+     "body": "MPO, LC and copper connectivity, optics installation and verification. Gate: installation verification."
+    },
+    {
+     "title": "Testing, QA and handover.",
+     "body": "Certification testing, independent QA, documentation, acceptance, commissioning support and operational handover. Gate: independent acceptance QA."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Because each gate is independent, a problem is caught in the phase where it is cheapest to fix rather than discovered at commissioning."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Traceability from bench to handover"
+  },
+  {
+   "type": "text",
+   "text": "Every device, cable and placement is tracked from prestaging to handover in Data Center Deployer, one of the platforms Purview builds and runs in-house. The handover is evidence-based: CMDB updates, as-built documentation and a live digital record of the deployed estate. Operations teams inherit a floor they can trust, and the record continues into L2 to L5 commissioning and 24×7 operations."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Getting the hardware there: the India route"
+  },
+  {
+   "type": "text",
+   "text": "For deployments in India, the critical path often starts long before the data hall. Liquid-cooled GPU platforms typically need two BIS certifications per prepopulated rack, and standard approval takes six to eight months from filing. Purview handles BIS and DGFT filings end to end and aligns shipping with certification milestones."
+  },
+  {
+   "type": "text",
+   "text": "GigaPort, our customs-bonded facility in Hyderabad, brings import, integration, testing and last-mile delivery into one place: hardware is received under bond, assembled, burned in and baselined, then moved to the data hall under chain of custody. Engineers for the floor are hired and certified through the Purview DC Academy before mobilisation, with NVIDIA, liquid-cooling and service-management training."
+  },
+  {
+   "type": "quote",
+   "text": "“We have already delivered around 500 MW of AI capacity. That is the basis for delivery certainty on every rack, every cable and every go-live.” Reddy Punna, Founder and Group CEO, Purview Group"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "What it looks like in practice"
+  },
+  {
+   "type": "text",
+   "text": "For a neocloud in Australia, Purview DC delivered a GPU cluster across two colocation facilities: rack and stack, structured cabling, optics, validation and RMA management. The cluster was delivered on time for OEM commissioning, and the liquid-cooled cluster finished early. Across programmes, our teams have installed more than 28,500 AI devices and terminated and certified more than 185,000 cables."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Planning an AI factory build?"
+  },
+  {
+   "type": "text",
+   "text": "Read about the Purview DC delivery model and GigaPort, or send us the platform, site and target go-live date."
+  }
+ ],
+ "byline": "Purview Editorial Team",
+ "date": "10 November 2026",
+ "readTime": "6 min read"
+}

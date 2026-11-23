@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/efundzz.html",
+ "route": "/efundzz",
+ "template": "editorial",
+ "title": "EFUNDZZ | Purview Services",
+ "description": "EFUNDZZ is an SME lending marketplace built by experienced bankers: a business applies once and is matched to over 100 banks, NBFCs and digital lenders…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "EFUNDZZ",
+   "href": null
+  }
+ ],
+ "eyebrow": "SME lending marketplace · a Purview company · efundzz.com",
+ "h1": "One application. 100+ lenders.",
+ "lede": "EFUNDZZ is an SME lending marketplace built by experienced bankers: a business applies once and is matched to over 100 banks, NBFCs and digital lenders, without the chase of multiple applications, follow-ups and calls.",
+ "actions": [
+  {
+   "label": "efundzz.com",
+   "href": "https://efundzz.com/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s fintech practice",
+   "href": "/payments",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Apply on EFUNDZZ",
+   "title": "efundzz.com: check eligibility and apply",
+   "body": "Businesses apply online, upload documents once and compare offers; lenders onboard to the marketplace to reach qualified SME borrowers.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open efundzz.com",
+     "href": "https://efundzz.com/",
+     "external": true
+    },
+    {
+     "label": "Lender or partner enquiries",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "100+",
+     "label": "banks, NBFCs and digital lenders on the marketplace"
+    },
+    {
+     "value": "One application",
+     "label": "matched to many lenders, not many forms"
+    },
+    {
+     "value": "Banker-built",
+     "label": "founded and run by experienced bankers"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "Fintech that understands both sides of the table"
+  },
+  {
+   "type": "text",
+   "text": "EFUNDZZ brings lending domain expertise into Purview’s Finance and Payments vertical, next to T-Wallet and BenePay. It is a working marketplace with lender integrations, credit-decision workflows and document handling that Purview’s engineering keeps secure and scalable."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What EFUNDZZ offers",
+   "text": "Credit products for growing businesses"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Working capital",
+     "eyebrow": "",
+     "body": "Overdrafts and cash-credit lines to run the business.",
+     "links": []
+    },
+    {
+     "title": "Term loans",
+     "eyebrow": "",
+     "body": "Expansion and capex funding with structured repayment.",
+     "links": []
+    },
+    {
+     "title": "Invoice and bill discounting",
+     "eyebrow": "",
+     "body": "Unlock cash tied in receivables.",
+     "links": []
+    },
+    {
+     "title": "Equipment and vehicle finance",
+     "eyebrow": "",
+     "body": "Asset-backed funding for machinery and fleets.",
+     "links": []
+    },
+    {
+     "title": "Loan against property",
+     "eyebrow": "",
+     "body": "Larger tickets secured on commercial or residential property.",
+     "links": []
+    },
+    {
+     "title": "For lenders",
+     "eyebrow": "",
+     "body": "A marketplace of qualified SME borrowers, with digital documentation.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From eligibility to disbursal"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Check eligibility",
+     "body": "A few business details give an indicative view of what is available."
+    },
+    {
+     "title": "Apply once",
+     "body": "One application and one document set, uploaded digitally."
+    },
+    {
+     "title": "Get matched",
+     "body": "The marketplace matches the business to lenders whose criteria it meets."
+    },
+    {
+     "title": "Compare offers",
+     "body": "Rates, tenure and terms side by side, with a banker available to advise."
+    },
+    {
+     "title": "Disburse",
+     "body": "The chosen lender completes diligence and disburses; EFUNDZZ tracks it through."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind the marketplace"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "A lending marketplace engineered for trust",
+     "eyebrow": "",
+     "body": "Purview engineers and operates the platform: lender onboarding and APIs, matching and workflow, secure document handling and the reporting lenders and borrowers rely on.",
+     "links": [
+      {
+       "label": "Payments & Digital Assets Fintech practice",
+       "href": "/payments",
+       "external": false
+      },
+      {
+       "label": "Banking & Financial Services Industry context",
+       "href": "/bfsi",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Businesses and the lenders who fund them"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Manufacturers and traders",
+     "eyebrow": "",
+     "body": "Working capital and equipment finance.",
+     "links": []
+    },
+    {
+     "title": "Service businesses",
+     "eyebrow": "",
+     "body": "Term loans and lines for growth.",
+     "links": []
+    },
+    {
+     "title": "Exporters and suppliers",
+     "eyebrow": "",
+     "body": "Invoice discounting against receivables.",
+     "links": []
+    },
+    {
+     "title": "Start-ups with revenue",
+     "eyebrow": "",
+     "body": "Early credit without a bank relationship.",
+     "links": []
+    },
+    {
+     "title": "Banks and NBFCs",
+     "eyebrow": "",
+     "body": "Qualified SME demand through one integration.",
+     "links": []
+    },
+    {
+     "title": "Digital lenders",
+     "eyebrow": "",
+     "body": "Distribution to borrowers outside their own channels.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is EFUNDZZ?",
+     "a": "An SME lending marketplace from the Purview Group that matches a single application to over 100 banks, NBFCs and digital lenders."
+    },
+    {
+     "q": "Is EFUNDZZ a lender?",
+     "a": "No. It is a marketplace; loans are made by partner lenders."
+    },
+    {
+     "q": "What does it cost a borrower?",
+     "a": "Details are on efundzz.com; the marketplace is designed to remove the cost of chasing multiple lenders."
+    },
+    {
+     "q": "Which products?",
+     "a": "Working capital, term loans, invoice discounting, equipment and vehicle finance and loan against property."
+    },
+    {
+     "q": "How do lenders join?",
+     "a": "Through lender onboarding on efundzz.com or via Purview."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "SME credit",
+   "text": "Need funding for your business?"
+  },
+  {
+   "type": "text",
+   "text": "Apply on efundzz.com, or talk to Purview about joining the marketplace as a lender."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit efundzz.com",
+     "href": "https://efundzz.com/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

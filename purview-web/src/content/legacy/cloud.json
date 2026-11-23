@@ -1,0 +1,257 @@
+{
+ "source": "https://purviewservices.com/cloud.html",
+ "route": "/cloud",
+ "template": "service",
+ "title": "Cloud Services | Purview Services",
+ "description": "Migration, hybrid estate and platform engineering with the bill under control. Purview moves workloads to the right place, which is not always the public cloud.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Cloud Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Cloud Services",
+ "lede": "Migration, hybrid estate and platform engineering with the bill under control.",
+ "actions": [],
+ "image": "cloud.jpg",
+ "related": [
+  {
+   "label": "AI Infrastructure",
+   "href": "/ai-infrastructure"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  },
+  {
+   "label": "Cybersecurity",
+   "href": "/cybersecurity"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  }
+ ],
+ "cta": "Talk to the Cloud Services team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Modern cloud, measurable outcomes."
+  },
+  {
+   "type": "text",
+   "text": "Cloud migration, platform engineering, multi-cloud operations and FinOps."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "20 to 40%",
+     "label": "typical cloud spend reduction after FinOps"
+    },
+    {
+     "value": "Hours",
+     "label": "deployment lead time on a platform-engineered estate"
+    },
+    {
+     "value": "Hybrid",
+     "label": "hyperscaler, sovereign and on-premise under one operation"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Cloud Services covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview moves workloads to the right place, which is not always the public cloud. We run hybrid estates that mix hyperscaler, sovereign and on-premise capacity, including the GPU floors we build ourselves, with FinOps discipline from the start."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "CIOs with a cloud bill problem",
+     "eyebrow": "",
+     "body": "Need placement and cost discipline, not another migration.",
+     "links": []
+    },
+    {
+     "title": "Regulated workloads",
+     "eyebrow": "",
+     "body": "Data residency per workload, proven.",
+     "links": []
+    },
+    {
+     "title": "AI programmes",
+     "eyebrow": "",
+     "body": "GPU capacity that does not fit a hyperscaler price list.",
+     "links": []
+    },
+    {
+     "title": "Engineering leaders",
+     "eyebrow": "",
+     "body": "An internal developer platform so teams ship without tickets.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Cloud migration and modernisation",
+     "body": ""
+    },
+    {
+     "title": "Hybrid and multi-cloud estate design",
+     "body": ""
+    },
+    {
+     "title": "Platform engineering and DevOps",
+     "body": ""
+    },
+    {
+     "title": "Cost governance and FinOps",
+     "body": ""
+    },
+    {
+     "title": "Sovereign and private cloud",
+     "body": ""
+    },
+    {
+     "title": "Managed cloud operations",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "Workload placement by latency, data residency, cost and regulation."
+    },
+    {
+     "title": "Migrate",
+     "body": "Wave plan with rollback, landing zones and security baked in."
+    },
+    {
+     "title": "Platform",
+     "body": "Internal developer platform so teams ship without tickets."
+    },
+    {
+     "title": "Optimise",
+     "body": "Monthly FinOps reviews with real savings, not dashboards."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Hybrid estate and FinOps",
+   "body": "Insurer, UK. Workloads re-placed by latency, residency and cost across hyperscaler and private capacity, with monthly FinOps reviews and an internal platform for teams.",
+   "result": {
+    "value": "31%",
+    "label": "run cost reduction, year one"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Cloud spend down 20 to 40 percent",
+     "body": ""
+    },
+    {
+     "title": "Deployment lead time in hours",
+     "body": ""
+    },
+    {
+     "title": "Data residency proven per workload",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "ServiceNow",
+    "Dynatrace",
+    "Kong"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Which clouds?",
+     "a": "AWS, Azure and Google Cloud, plus sovereign and private capacity Purview builds."
+    },
+    {
+     "q": "Will you move us off cloud?",
+     "a": "Only where it is cheaper or required. Most estates end up hybrid."
+    },
+    {
+     "q": "Managed afterwards?",
+     "a": "Yes, under one NOC with the rest of your infrastructure."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "source": "https://purviewservices.com/app-managed.html",
+ "route": "/app-managed",
+ "template": "service",
+ "title": "Managed Application Services | Purview Services",
+ "description": "Support and enhancement for enterprise platforms and custom estates. We support SAP, Salesforce, ServiceNow, Pega and bespoke applications for banks…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Managed Application Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Managed Application Services",
+ "lede": "Support and enhancement for enterprise platforms and custom estates.",
+ "actions": [],
+ "image": "app-managed.jpg",
+ "related": [
+  {
+   "label": "Digital Product Engineering",
+   "href": "/digital-engineering"
+  },
+  {
+   "label": "Automation & RPA",
+   "href": "/rpa"
+  },
+  {
+   "label": "Managed Software Development",
+   "href": "/dev-managed"
+  },
+  {
+   "label": "Managed QA Services",
+   "href": "/qa-managed"
+  }
+ ],
+ "cta": "Talk to the Managed Application Services team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Enterprise platforms, kept current and performing."
+  },
+  {
+   "type": "text",
+   "text": "SAP, Salesforce, ServiceNow, Pega and custom estates under one support model."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "L2 and L3",
+     "label": "support with enhancement capacity built in"
+    },
+    {
+     "value": "5",
+     "label": "enterprise platforms certified: SAP, Salesforce, ServiceNow, Pega, Appian"
+    },
+    {
+     "value": "Backlog",
+     "label": "trending down is the contracted outcome"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Managed Application Services covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "We support SAP, Salesforce, ServiceNow, Pega and bespoke applications for banks, manufacturers and governments, with enhancement capacity built into the contract so the backlog moves instead of growing."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Application owners",
+     "eyebrow": "",
+     "body": "Support plus a steady stream of improvements.",
+     "links": []
+    },
+    {
+     "title": "CFOs",
+     "eyebrow": "",
+     "body": "Predictable cost for a large application estate.",
+     "links": []
+    },
+    {
+     "title": "Platform teams",
+     "eyebrow": "",
+     "body": "Upgrades and patching without outages.",
+     "links": []
+    },
+    {
+     "title": "Modernisation programmes",
+     "eyebrow": "",
+     "body": "Keep the lights on while re-platforming.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "L2 and L3 application support",
+     "body": ""
+    },
+    {
+     "title": "Enhancements and minor releases",
+     "body": ""
+    },
+    {
+     "title": "Platform upgrades and patching",
+     "body": ""
+    },
+    {
+     "title": "Integration support",
+     "body": ""
+    },
+    {
+     "title": "Performance and stability engineering",
+     "body": ""
+    },
+    {
+     "title": "Licence and vendor management",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Knowledge transfer",
+     "body": "Documented and tested in parallel with the incumbent."
+    },
+    {
+     "title": "Stabilise",
+     "body": "Backlog triage and quick wins in the first quarter."
+    },
+    {
+     "title": "Enhance",
+     "body": "Fixed capacity for improvements, prioritised with you."
+    },
+    {
+     "title": "Modernise",
+     "body": "Roadmap to retire or re-platform what no longer earns its keep."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Application managed services",
+   "body": "Bank, Gulf. Knowledge transfer in parallel with the incumbent, backlog triage in the first quarter and a fixed enhancement capacity that cleared two years of requests.",
+   "result": {
+    "value": "40%",
+    "label": "backlog reduction in 6 months"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Backlog trending down",
+     "body": ""
+    },
+    {
+     "title": "Upgrades without outages",
+     "body": ""
+    },
+    {
+     "title": "Fewer vendors to manage",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "SAP",
+    "Salesforce",
+    "ServiceNow",
+    "Pega",
+    "Appian"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Fixed price?",
+     "a": "Yes, per application tier, with enhancement hours included."
+    },
+    {
+     "q": "Upgrades?",
+     "a": "Planned and executed as part of the service, with rollback."
+    },
+    {
+     "q": "Can you take over custom code?",
+     "a": "Yes, with documented knowledge transfer and test coverage before we accept."
+    }
+   ]
+  }
+ ]
+}

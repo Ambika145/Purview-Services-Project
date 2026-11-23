@@ -1,0 +1,114 @@
+{
+ "source": "https://purviewservices.com/platforms-ip.html",
+ "route": "/platforms-ip",
+ "template": "editorial",
+ "title": "Platforms & IP | Purview Services",
+ "description": "Explore the software platforms and proprietary delivery tools developed across the Purview ecosystem.",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / PLATFORMS & INTELLECTUAL PROPERTY",
+ "h1": "Products built from real operating problems.",
+ "lede": "Explore the software platforms and proprietary delivery tools developed across the Purview ecosystem. Product maturity, licensing and demonstrations are discussed by the relevant specialist team.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE PLATFORMS & INTELLECTUAL PROPERTY",
+   "text": "Platforms built on live engagements."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Governed AI orchestration"
+  },
+  {
+   "type": "text",
+   "text": "Enterprise AI workflow orchestration, knowledge integration and operational controls."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "AI voice agents"
+  },
+  {
+   "type": "text",
+   "text": "Voice workflows, calling agents, conversational automation and analytics."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Agentic recruitment"
+  },
+  {
+   "type": "text",
+   "text": "Multilingual candidate engagement, screening, scoring and scheduling."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Referral hiring"
+  },
+  {
+   "type": "text",
+   "text": "Referral sourcing, candidate workflows, reward tracking and hiring operations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Dock-to-rack delivery control"
+  },
+  {
+   "type": "text",
+   "text": "Technician workflows, coordination, rack elevation and installation progress visibility."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Connected infrastructure operations"
+  },
+  {
+   "type": "text",
+   "text": "Remote inspection, asset intelligence, monitoring and digital-twin-oriented workflows."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

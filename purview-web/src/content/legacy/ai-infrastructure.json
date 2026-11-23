@@ -1,0 +1,268 @@
+{
+ "source": "https://purviewservices.com/ai-infrastructure.html",
+ "route": "/ai-infrastructure",
+ "template": "service",
+ "title": "AI Infrastructure | Purview Services",
+ "description": "GPU floors, networks and cloud, engineered for the workload rather than sized after it. This is the IA beneath the AI.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "AI Infrastructure",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "AI Infrastructure",
+ "lede": "GPU floors, networks and cloud, engineered for the workload rather than sized after it.",
+ "actions": [],
+ "image": "ai-infrastructure.jpg",
+ "related": [
+  {
+   "label": "Cloud Services",
+   "href": "/cloud"
+  },
+  {
+   "label": "Cybersecurity",
+   "href": "/cybersecurity"
+  },
+  {
+   "label": "Wireless & Telecommunications",
+   "href": "/telecom"
+  },
+  {
+   "label": "Recruit, Train, Deploy",
+   "href": "/rtd"
+  },
+  {
+   "label": "Network Solutions",
+   "href": "/dc-networks"
+  },
+  {
+   "label": "Structured Cabling",
+   "href": "/dc-cabling"
+  }
+ ],
+ "cta": "Talk to the AI Infrastructure team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Infrastructure designed for the workload."
+  },
+  {
+   "type": "text",
+   "text": "GPU deployment, network engineering, cloud platforms and resilient operations."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "~500 MW",
+     "label": "AI data centre capacity delivered by our teams"
+    },
+    {
+     "value": "L2 to L5",
+     "label": "commissioning including integrated systems testing"
+    },
+    {
+     "value": "24×7",
+     "label": "NOC, smart hands and hyperscaler-grade operations"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What AI Infrastructure covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "This is the IA beneath the AI. Purview deploys GPU clusters, modular data centres and the networks between them, then runs them. Around 500 MW of AI data centre capacity has been delivered by our teams across India, Australia, the Gulf and Europe. The full capability lives at Purview DC."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Hyperscalers and neoclouds",
+     "eyebrow": "",
+     "body": "Rack and stack, cabling, optics and commissioning at pace.",
+     "links": []
+    },
+    {
+     "title": "Sovereign programmes",
+     "eyebrow": "",
+     "body": "State and national AI capacity with data residency built in.",
+     "links": []
+    },
+    {
+     "title": "Enterprises",
+     "eyebrow": "",
+     "body": "Private GPU clusters and the networks to reach them.",
+     "links": []
+    },
+    {
+     "title": "Carriers",
+     "eyebrow": "",
+     "body": "Edge and central sites for AI workloads, 5G and ORAN.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "AI data centre deployments",
+     "body": ""
+    },
+    {
+     "title": "GPU rack and stack, cabling and optics",
+     "body": ""
+    },
+    {
+     "title": "Route, switch, wireless and SD-WAN",
+     "body": ""
+    },
+    {
+     "title": "Smart hands and L1 to L3 engineers",
+     "body": ""
+    },
+    {
+     "title": "Cloud migration and managed cloud",
+     "body": ""
+    },
+    {
+     "title": "Telco 5G, WiFi6 and ORAN",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Design",
+     "body": "Density, cooling, power and network designed for the actual model mix."
+    },
+    {
+     "title": "Prestage",
+     "body": "Preparation-first methodology: racks, cabling and firmware validated before delivery."
+    },
+    {
+     "title": "Deploy and commission",
+     "body": "L2 to L5 commissioning including integrated systems testing."
+    },
+    {
+     "title": "Operate",
+     "body": "24×7 NOC, smart hands and hyperscaler-grade SLAs."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "GPU floor, dock to live",
+   "body": "Sovereign AI operator, Australia. Preparation-first prestaging, rack and stack, optics and L2 to L5 commissioning for an AI data centre, with certified engineers deployed from India under Purview DC.",
+   "result": {
+    "value": "On date",
+    "label": "floor live as committed"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Floors live on the committed date",
+     "body": ""
+    },
+    {
+     "title": "First-time-right commissioning",
+     "body": ""
+    },
+    {
+     "title": "Operations contracts that follow installs",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "NVIDIA",
+    "AMD",
+    "Supermicro",
+    "HPE",
+    "Dell Technologies",
+    "Vertiv",
+    "Schneider Electric",
+    "Corning",
+    "CommScope"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Where do you operate?",
+     "a": "India, Australia, the Gulf, the UK and Europe, with engineers deployed wherever the floor is."
+    },
+    {
+     "q": "Do you build facilities?",
+     "a": "Yes, through Purview DC and its development ventures: parks, power and facilities as well as the IT fit-out."
+    },
+    {
+     "q": "What is GigaPort?",
+     "a": "Our customs-bonded import and integration hub in Hyderabad, where GPU hardware is received, integrated and tested before site delivery."
+    }
+   ]
+  }
+ ]
+}

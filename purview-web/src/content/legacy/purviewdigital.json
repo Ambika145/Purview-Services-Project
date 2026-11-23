@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/purviewdigital.html",
+ "route": "/purviewdigital",
+ "template": "editorial",
+ "title": "Purview Digital | Purview Services",
+ "description": "Purview Digital is the group’s marketing and advertising company, founded in 2021 in Hyderabad: strategy, creative, performance media, content, web and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "Purview Digital",
+   "href": null
+  }
+ ],
+ "eyebrow": "Marketing and advertising · a Purview company · purviewdigital.com",
+ "h1": "Brands built and grown online.",
+ "lede": "Purview Digital is the group’s marketing and advertising company, founded in 2021 in Hyderabad: strategy, creative, performance media, content, web and analytics for brands that want to build and grow online. With 2080, its growth agency, it takes work from brand idea to measured result.",
+ "actions": [
+  {
+   "label": "purviewdigital.com",
+   "href": "https://www.purviewdigital.com/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s media and marketing engineering",
+   "href": "/media",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "See the work",
+   "title": "purviewdigital.com: services, work and the team",
+   "body": "Case studies, service lines and the strategy, creative, technology and client teams behind them.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewdigital.com",
+     "href": "https://www.purviewdigital.com/",
+     "external": true
+    },
+    {
+     "label": "Talk to Purview Digital",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Since 2021",
+     "label": "Hyderabad-based, serving brands in India and abroad"
+    },
+    {
+     "value": "Strategy to execution",
+     "label": "one team from creative direction to development"
+    },
+    {
+     "value": "Group backing",
+     "label": "Purview’s engineering and AI behind every campaign"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "Marketing with engineering behind it"
+  },
+  {
+   "type": "text",
+   "text": "Most agencies rent their technology; Purview Digital sits inside a technology group. Campaign sites, apps, data pipelines and AI content tooling are built by the same organisation that runs enterprise platforms, so growth work is measurable, secure and built to last."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Purview Digital does",
+   "text": "Build the brand, grow the audience"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Brand and creative",
+     "eyebrow": "",
+     "body": "Positioning, identity, campaigns and creative direction.",
+     "links": []
+    },
+    {
+     "title": "Performance marketing",
+     "eyebrow": "",
+     "body": "Search, social and programmatic media run to return targets.",
+     "links": []
+    },
+    {
+     "title": "Content and SEO",
+     "eyebrow": "",
+     "body": "Content strategy, production and search visibility.",
+     "links": []
+    },
+    {
+     "title": "Social and community",
+     "eyebrow": "",
+     "body": "Always-on social, influencer and community programmes.",
+     "links": []
+    },
+    {
+     "title": "Web and app builds",
+     "eyebrow": "",
+     "body": "Campaign sites, e-commerce and apps engineered by Purview teams.",
+     "links": []
+    },
+    {
+     "title": "Analytics and automation",
+     "eyebrow": "",
+     "body": "Attribution, dashboards and marketing automation with AI tooling.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From brief to measured growth"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Discover",
+     "body": "Audience, market and data baseline agreed with the client."
+    },
+    {
+     "title": "Plan",
+     "body": "Strategy, channels, budget and the metrics that will define success."
+    },
+    {
+     "title": "Create",
+     "body": "Creative, content and the digital assets to carry them."
+    },
+    {
+     "title": "Run",
+     "body": "Campaigns live, optimised weekly against the agreed metrics."
+    },
+    {
+     "title": "Report",
+     "body": "Transparent dashboards and reviews, with the next cycle planned from results."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview brings to the agency"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "An agency with a technology group behind it",
+     "eyebrow": "",
+     "body": "Purview Digital draws on the group’s engineering for builds and integrations, its data practice for attribution, and its AI products for content and conversational channels, while keeping the agency team close to the client.",
+     "links": [
+      {
+       "label": "Media & Entertainment Content and growth engineering",
+       "href": "/media",
+       "external": false
+      },
+      {
+       "label": "AI Solutions Gen AI for content and service",
+       "href": "/ai-solutions",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Brands at every stage"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Start-ups and D2C brands",
+     "eyebrow": "",
+     "body": "Identity, launch and growth on a measured budget.",
+     "links": []
+    },
+    {
+     "title": "Established enterprises",
+     "eyebrow": "",
+     "body": "Campaigns, content and digital properties at scale.",
+     "links": []
+    },
+    {
+     "title": "Group companies",
+     "eyebrow": "",
+     "body": "Marketing for Purview’s own products, from CallOHM to T-Wallet.",
+     "links": []
+    },
+    {
+     "title": "Public sector and NGOs",
+     "eyebrow": "",
+     "body": "Awareness campaigns and citizen communication.",
+     "links": []
+    },
+    {
+     "title": "Healthcare and education",
+     "eyebrow": "",
+     "body": "Compliant, content-led growth.",
+     "links": []
+    },
+    {
+     "title": "Real estate and retail",
+     "eyebrow": "",
+     "body": "Lead generation and footfall campaigns.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is Purview Digital?",
+     "a": "The Purview Group’s marketing and advertising company, founded in 2021 and based in Hyderabad, with 2080 as its growth agency."
+    },
+    {
+     "q": "What services?",
+     "a": "Brand and creative, performance media, content and SEO, social, web and app builds, analytics and automation."
+    },
+    {
+     "q": "Do you build websites and apps?",
+     "a": "Yes, engineered by Purview teams, not outsourced."
+    },
+    {
+     "q": "Where do you work?",
+     "a": "From Hyderabad, for clients in India, the UK and beyond."
+    },
+    {
+     "q": "How do we start?",
+     "a": "A discovery conversation on purviewdigital.com or through this site."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Growth",
+   "text": "Building a brand online?"
+  },
+  {
+   "type": "text",
+   "text": "See purviewdigital.com, or talk to the agency with a technology group behind it."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewdigital.com",
+     "href": "https://www.purviewdigital.com/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "source": "https://purviewservices.com/beeref.html",
+ "route": "/beeref",
+ "template": "editorial",
+ "title": "BeeRef Referral Hiring | Purview Services",
+ "description": "BeeRef runs your referrals from the first share to the final reward: careers page, tracked referral links, ownership checks, AI screening, client hiring…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "BeeRef",
+   "href": null
+  }
+ ],
+ "eyebrow": "Referral hiring, end to end · built and run by Purview",
+ "h1": "Hire through the people you trust.",
+ "lede": "BeeRef runs your referrals from the first share to the final reward: careers page, tracked referral links, ownership checks, AI screening, client hiring stages and wallet payouts in one workspace. Share → refer → hire → reward.",
+ "actions": [
+  {
+   "label": "Book a demo",
+   "href": "https://beeref.com/",
+   "external": true
+  },
+  {
+   "label": "Talk to Workforce Solutions",
+   "href": "/contact",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Try BeeRef",
+   "title": "beeref.com",
+   "body": "Set up your company, publish a careers page and send the first referral link in an afternoon. See it with your own roles and reward rules.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open beeref.com",
+     "href": "https://beeref.com/",
+     "external": true
+    },
+    {
+     "label": "Set up your company",
+     "href": "https://beeref.com/",
+     "external": true
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "1 owner",
+     "label": "per candidate: referral chains of up to three people, with ownership settled by rule"
+    },
+    {
+     "value": "5 roles",
+     "label": "employee, partner, candidate, hiring manager, TA team, each seeing only its part"
+    },
+    {
+     "value": "0 payouts",
+     "label": "made without a human approval; every reward points back to its referral and rule"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The problem",
+   "text": "Referrals today are a guessing game"
+  },
+  {
+   "type": "text",
+   "text": "Emails, spreadsheets and follow-ups. Nobody is sure who owns a candidate, or who is owed. Who referred this person? Was the same candidate referred twice? Has the client replied? Is my bonus coming? BeeRef answers all four from one record."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "BeeRef platform",
+   "text": "Everything referrals, built around your people"
+  },
+  {
+   "type": "text",
+   "text": "One record for every job, referral and reward. Recruiters, managers, employees and finance all work from the same place."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Careers page",
+     "eyebrow": "01",
+     "body": "Publish open roles with the reward shown on each (for example, Java Lead, ₹50,000 reward). Every share becomes a tracked link, so you can see who shared what and how many clicks it earned.",
+     "links": []
+    },
+    {
+     "title": "Referral chains",
+     "eyebrow": "02",
+     "body": "Chains of up to three people, with one fair owner per candidate. Duplicate referrals are caught at source, and the owner is settled by your rule, not by argument.",
+     "links": []
+    },
+    {
+     "title": "AI screening",
+     "eyebrow": "03",
+     "body": "Applicants are read and ranked against the role so recruiters start with a shortlist. The final decision is always left to people.",
+     "links": []
+    },
+    {
+     "title": "Client stages and probation tracking",
+     "eyebrow": "04",
+     "body": "Every interview round in one view (applied, shortlisted, client round 2, hired), then probation tracked day by day so rewards are paid at the right time.",
+     "links": []
+    },
+    {
+     "title": "Rewards and wallet",
+     "eyebrow": "05",
+     "body": "Rewards accrue to a wallet, with withdrawal to bank and a payroll export, so finance pays exactly what is owed, when it is owed.",
+     "links": []
+    },
+    {
+     "title": "Insights",
+     "eyebrow": "06",
+     "body": "Open jobs, referrals, candidates in probation, rewards due and hires by source (boards, careers page, invites, referrals) on one dashboard.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "Ask. Review. Done."
+  },
+  {
+   "type": "text",
+   "text": "BeeRef prepares the work. People make every decision."
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "You ask",
+     "body": "Type what you need in plain words, for example \"Pay Meera's referral reward\". BeeRef finds the right referral, hire and rule."
+    },
+    {
+     "title": "BeeRef prepares",
+     "body": "It checks ownership, probation and your reward rules, then drafts the payout: candidate, referrer, days completed, amount, with Hold or Approve."
+    },
+    {
+     "title": "You decide",
+     "body": "Nothing is paid until you approve. Then everyone is updated at once: reward approved, referrer notified, wallet credited, payroll export updated."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Dashboard",
+   "text": "One workspace, every role"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Each role sees only its part",
+     "eyebrow": "",
+     "body": "Recruiters see the pipeline and the rules. Managers see their roles and rounds. Employees see their referrals, probation status and wallet. Finance sees what is due and what was approved, and by whom.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built by Purview",
+   "text": "From a team that hires for a living"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Hiring is our day job",
+     "eyebrow": "",
+     "body": "Volume, contract and permanent hiring and payroll for clients in 21 countries.",
+     "links": [
+      {
+       "label": "Volume, Contract & Perm Recruitment",
+       "href": "/volume-recruitment",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Trusted by banks and governments",
+     "eyebrow": "",
+     "body": "17 years delivering for HSBC, JPMorgan Chase, UBS and state governments.",
+     "links": []
+    },
+    {
+     "title": "CMMi Level 5",
+     "eyebrow": "",
+     "body": "Certified to CMMi L5, ISO 27001, ISO 20000, ISO 14001 and ISO 9001.",
+     "links": []
+    },
+    {
+     "title": "Role-based access",
+     "eyebrow": "",
+     "body": "Employees, managers and recruiters each see only what their role allows.",
+     "links": []
+    },
+    {
+     "title": "You confirm first",
+     "eyebrow": "",
+     "body": "AI drafts shortlists and payouts. Nothing goes out until you approve.",
+     "links": []
+    },
+    {
+     "title": "Clear status, linked to the source",
+     "eyebrow": "",
+     "body": "Referred, shortlisted, hired, in probation, paid: always visible to the referrer, and every reward points back to its referral, its rule and the person who approved it.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions? Short answers."
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is BeeRef?",
+     "a": "BeeRef runs referral hiring from the first share to the final reward: careers page, tracked referral links, ownership checks, AI screening, client hiring stages and wallet payouts in one workspace."
+    },
+    {
+     "q": "Who uses BeeRef?",
+     "a": "Partner companies, recruiters and TA teams, hiring managers, employees and referrers, and finance teams. Each role sees only its own part of the process."
+    },
+    {
+     "q": "What if two people refer the same candidate?",
+     "a": "Referral chains allow up to three people, but BeeRef assigns one fair owner per candidate according to your rule, and flags duplicates at the moment of referral."
+    },
+    {
+     "q": "When are rewards paid?",
+     "a": "When the hire completes probation under your reward rules. BeeRef tracks the probation period, drafts the payout and waits for your approval before the wallet is credited."
+    },
+    {
+     "q": "Can Purview run referral hiring for us?",
+     "a": "Yes. Workforce Solutions can run BeeRef alongside RabbiT voice screening, Volume Recruitment and Contract Payroll as one managed hiring service."
+    },
+    {
+     "q": "How is BeeRef priced?",
+     "a": "Book a demo at beeref.com and we will walk through pricing for your roles and reward rules."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Get started",
+   "text": "Fewer spreadsheets. More referrals."
+  },
+  {
+   "type": "text",
+   "text": "See BeeRef with your own roles and reward rules."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Book a demo on beeref.com",
+     "href": "https://beeref.com/",
+     "external": true
+    },
+    {
+     "label": "Talk to Workforce Solutions",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

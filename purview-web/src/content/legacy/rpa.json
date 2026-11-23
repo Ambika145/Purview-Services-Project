@@ -1,0 +1,256 @@
+{
+ "source": "https://purviewservices.com/rpa.html",
+ "route": "/rpa",
+ "template": "service",
+ "title": "Automation & RPA | Purview Services",
+ "description": "From scripted bots to agentic workflows, on the platforms you already own. Purview has automated back offices for banks, insurers and governments on Pega…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Automation & RPA",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Automation & RPA",
+ "lede": "From scripted bots to agentic workflows, on the platforms you already own.",
+ "actions": [],
+ "image": "rpa.jpg",
+ "related": [
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Managed Application Services",
+   "href": "/app-managed"
+  },
+  {
+   "label": "Banking & Financial Services",
+   "href": "/bfsi"
+  },
+  {
+   "label": "Government & Public Sector",
+   "href": "/public-sector"
+  }
+ ],
+ "cta": "Talk to the Automation & RPA team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "From scripted bots to agentic workflows."
+  },
+  {
+   "type": "text",
+   "text": "Pega, Appian and UiPath estates modernised, with agents taking on the work bots could not."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "50%",
+     "label": "typical handling-time reduction on automated processes"
+    },
+    {
+     "value": "4",
+     "label": "platforms we certify on: Pega, Appian, UiPath, Automation Anywhere"
+    },
+    {
+     "value": "Agentic",
+     "label": "scripted bots replaced by agents that read, decide and act"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Automation & RPA covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview has automated back offices for banks, insurers and governments on Pega, Appian, UiPath and Automation Anywhere. We are now replacing brittle scripted bots with agents that read, decide and act, while keeping the audit trail regulators expect."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Operations heads",
+     "eyebrow": "",
+     "body": "Back-office volume with exceptions humans should see.",
+     "links": []
+    },
+    {
+     "title": "Finance",
+     "eyebrow": "",
+     "body": "Invoice, reconciliation and close processes.",
+     "links": []
+    },
+    {
+     "title": "Insurers and banks",
+     "eyebrow": "",
+     "body": "Claims, KYC and onboarding.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Case handling and citizen correspondence.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Robotic process automation",
+     "body": ""
+    },
+    {
+     "title": "Low-code platforms: Pega, Appian, UiPath",
+     "body": ""
+    },
+    {
+     "title": "Agentic workflows for operations",
+     "body": ""
+    },
+    {
+     "title": "Process mining and discovery",
+     "body": ""
+    },
+    {
+     "title": "Document intelligence and IDP",
+     "body": ""
+    },
+    {
+     "title": "Automation centre of excellence",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Discover",
+     "body": "Process mining to find the volume and the exceptions."
+    },
+    {
+     "title": "Automate",
+     "body": "Build on your licensed platform, with agents where judgement is needed."
+    },
+    {
+     "title": "Govern",
+     "body": "Credential vaulting, approvals and monitoring per bot and agent."
+    },
+    {
+     "title": "Scale",
+     "body": "A centre of excellence your team runs, with Purview behind it."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Claims automation to agentic",
+   "body": "Insurer, India. Scripted bots on UiPath replaced by agents that read documents, decide routine claims and route exceptions, with every decision logged.",
+   "result": {
+    "value": "52%",
+    "label": "handling time reduction"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Handling time down by half",
+     "body": ""
+    },
+    {
+     "title": "Exceptions routed to humans, not hidden",
+     "body": ""
+    },
+    {
+     "title": "Bots that survive UI changes",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "UiPath",
+    "Automation Anywhere",
+    "Pega",
+    "Appian",
+    "ServiceNow"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Will agents replace our RPA licences?",
+     "a": "Not immediately. We build on what you own and replace bots where judgement is needed."
+    },
+    {
+     "q": "Governance?",
+     "a": "Credential vaulting, approvals and monitoring per bot and agent, with an audit trail."
+    },
+    {
+     "q": "Who runs it?",
+     "a": "A centre of excellence your team owns, with Purview behind it."
+    }
+   ]
+  }
+ ]
+}

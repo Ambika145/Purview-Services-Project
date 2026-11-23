@@ -1,0 +1,254 @@
+{
+ "source": "https://purviewservices.com/company.html",
+ "route": "/company",
+ "template": "editorial",
+ "title": "About Us & Leadership | Purview Services",
+ "description": "Purview Services Limited is a UK-headquartered technology group of 14 companies and 2,500 people across 21 countries, held together by one engineering standard.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Company",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Founded in Scotland. Built for the AI era.",
+ "lede": "Purview Services Limited is a UK-headquartered technology group of 14 companies and 2,500 people across 21 countries, held together by one engineering standard.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "About us",
+   "text": "Say yes only to work we can be proud of, then finish it"
+  },
+  {
+   "type": "text",
+   "text": "Purview started in Edinburgh over seventeen years ago as an IT services firm with that one rule. It earned long relationships with some of the world's largest banks, carriers and governments, and those relationships pulled the group into AI, payments, healthcare, networks and, most recently, the data centres that AI runs in."
+  },
+  {
+   "type": "text",
+   "text": "Today the group builds the intelligent applications enterprises and governments run their business on, and the AI infrastructure those applications run on. Most technology companies do one or the other. Purview does both, and has for 17 years: one technology partner, from application to infrastructure."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Careers",
+     "href": "/careers",
+     "external": false
+    },
+    {
+     "label": "Carbon Reduction Plan",
+     "href": "/carbon-reduction-plan",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "quote",
+   "text": "\"We are not a software company that happens to sell hardware, or an integrator that resells someone else's stack. A Purview engagement starts with a problem nobody has solved cleanly and ends with something installed, certified and operating at your site.\""
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Leadership",
+   "text": "Focused team, big results"
+  },
+  {
+   "type": "text",
+   "text": "Senior leadership is involved from kick-off to handover on every engagement. These are the people accountable for the group's six verticals and fourteen companies."
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Reddy Punna",
+     "eyebrow": "",
+     "body": "Founder and Group CEO, Purview Group",
+     "links": []
+    },
+    {
+     "title": "Chiranjeevi Mareddy",
+     "eyebrow": "",
+     "body": "Chief Operating Officer",
+     "links": []
+    },
+    {
+     "title": "James Hatcher",
+     "eyebrow": "",
+     "body": "CEO, Purview DC · Director and Head of Data Centres",
+     "links": []
+    },
+    {
+     "title": "Mani Gupta",
+     "eyebrow": "",
+     "body": "Managing Director",
+     "links": []
+    },
+    {
+     "title": "Stephen Tulloch",
+     "eyebrow": "",
+     "body": "Head of the CEO Office",
+     "links": []
+    },
+    {
+     "title": "Mihir Mehta",
+     "eyebrow": "",
+     "body": "Chief Executive Officer, Purview Healthcare",
+     "links": []
+    },
+    {
+     "title": "Sai",
+     "eyebrow": "",
+     "body": "Group Chairman",
+     "links": []
+    },
+    {
+     "title": "Radhika",
+     "eyebrow": "",
+     "body": "Client Engagement Manager",
+     "links": []
+    },
+    {
+     "title": "Goverdhan",
+     "eyebrow": "",
+     "body": "Head of Workforce Solutions",
+     "links": []
+    },
+    {
+     "title": "Joseph Varghese",
+     "eyebrow": "",
+     "body": "Head Products and Technology Delivery - AI/XR",
+     "links": []
+    },
+    {
+     "title": "Sheshagiri",
+     "eyebrow": "",
+     "body": "Vice President, Client Partner",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Talk to the leadership team",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Certifications",
+   "text": "Appraised, audited and accredited"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Global footprint",
+   "text": "Delivery centres in five countries, 21 countries, one standard"
+  },
+  {
+   "type": "text",
+   "text": "Delivery centres in the UK, Poland, Singapore, Australia and India. Engineers deployed wherever the floor is."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "UK & Ireland",
+     "eyebrow": "",
+     "body": "Edinburgh, London, Dublin",
+     "links": []
+    },
+    {
+     "title": "Europe",
+     "eyebrow": "",
+     "body": "Poland, Sweden, Finland, Germany, Netherlands, Switzerland",
+     "links": []
+    },
+    {
+     "title": "North America",
+     "eyebrow": "",
+     "body": "USA, Canada, Mexico",
+     "links": []
+    },
+    {
+     "title": "India",
+     "eyebrow": "",
+     "body": "Hyderabad, Pune, Bengaluru, Chennai",
+     "links": []
+    },
+    {
+     "title": "Asia & Middle East",
+     "eyebrow": "",
+     "body": "Singapore, UAE, Hong Kong, Oman, Malaysia, Philippines, Japan",
+     "links": []
+    },
+    {
+     "title": "Australia, New Zealand & South Africa",
+     "eyebrow": "",
+     "body": "Sydney-led data centre delivery across ANZ",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology partners",
+   "text": "Platform-flexible by design"
+  },
+  {
+   "type": "text",
+   "text": "We are not a reseller of one stack. We certify on the platforms our clients already run and the ones they are moving to."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "AI Compute & Infrastructure"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "AI Platforms & Models"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Data, Integration & Observability"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Enterprise Platforms & Automation"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Security & Networks"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Financial Services Platforms"
+  }
+ ]
+}

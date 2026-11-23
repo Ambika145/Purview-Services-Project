@@ -1,0 +1,257 @@
+{
+ "source": "https://purviewservices.com/digital-engineering.html",
+ "route": "/digital-engineering",
+ "template": "service",
+ "title": "Digital Product Engineering | Purview Services",
+ "description": "Cloud-native applications, experience design and quality engineering for products that have to ship every week.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Digital Product Engineering",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Digital Product Engineering",
+ "lede": "Cloud-native applications, experience design and quality engineering for products that have to ship every week.",
+ "actions": [],
+ "image": "digital-engineering.jpg",
+ "related": [
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "Managed QA Services",
+   "href": "/qa-managed"
+  },
+  {
+   "label": "Managed Software Development",
+   "href": "/dev-managed"
+  }
+ ],
+ "cta": "Talk to the Digital Product Engineering team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Digital products built to perform."
+  },
+  {
+   "type": "text",
+   "text": "Cloud-native applications, product engineering, experience design and quality assurance."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "2-week",
+     "label": "release cadence from the first month"
+    },
+    {
+     "value": "<1%",
+     "label": "defect leakage target on managed product teams"
+    },
+    {
+     "value": "17 yrs",
+     "label": "building enterprise and government applications"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Digital Product Engineering covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "We build and modernise the applications enterprises and governments run their business on: customer portals, operational systems, national-scale platforms. Teams are product-shaped, stay with you for years and are measured on release cadence and defect rates, not hours."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Product owners",
+     "eyebrow": "",
+     "body": "Need a team that ships every sprint and stays for years.",
+     "links": []
+    },
+    {
+     "title": "CIOs modernising estates",
+     "eyebrow": "",
+     "body": "Legacy applications to cloud-native without a big-bang rebuild.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Citizen-facing platforms built to accessibility and security standards.",
+     "links": []
+    },
+    {
+     "title": "Scale-ups",
+     "eyebrow": "",
+     "body": "A full product team without building one from scratch.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Digital application services",
+     "body": ""
+    },
+    {
+     "title": "UI, UX and experience management (XM)",
+     "body": ""
+    },
+    {
+     "title": "Cloud-native and microservices development",
+     "body": ""
+    },
+    {
+     "title": "Mobile app development",
+     "body": ""
+    },
+    {
+     "title": "Quality engineering and test automation",
+     "body": ""
+    },
+    {
+     "title": "Enterprise content management",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Discovery",
+     "body": "Users, journeys and constraints mapped in two to three weeks."
+    },
+    {
+     "title": "Build in increments",
+     "body": "Two-week releases from the first month, with design and QA inside the team."
+    },
+    {
+     "title": "Automate quality",
+     "body": "Test automation and performance engineering built alongside the code."
+    },
+    {
+     "title": "Operate and evolve",
+     "body": "Managed application services once live, same team."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Public platform built to national standard",
+   "body": "National payments institution. Design, build and accessibility for the public web presence of a national payments body, won through open RFP and delivered to WCAG and security standards.",
+   "result": {
+    "value": "RFP",
+    "label": "won and in implementation"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Release cadence measured in days",
+     "body": ""
+    },
+    {
+     "title": "Defect leakage below one percent",
+     "body": ""
+    },
+    {
+     "title": "Lower total cost than a rebuild every five years",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Salesforce",
+    "SAP",
+    "ServiceNow",
+    "Pega",
+    "Appian",
+    "Dynamics 365"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Do you work in our tooling?",
+     "a": "Yes. Your repositories, pipelines, ceremonies and release train. We bring the team, not a new process."
+    },
+    {
+     "q": "Where are the teams?",
+     "a": "Hyderabad, Pune, Bengaluru, Chennai, Poland and Edinburgh, with UK and US account leadership."
+    },
+    {
+     "q": "What about QA?",
+     "a": "Built into the team. Automation coverage and defect trends are reported every sprint."
+    }
+   ]
+  }
+ ]
+}

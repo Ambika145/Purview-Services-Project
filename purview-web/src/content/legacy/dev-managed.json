@@ -1,0 +1,254 @@
+{
+ "source": "https://purviewservices.com/dev-managed.html",
+ "route": "/dev-managed",
+ "template": "service",
+ "title": "Managed Software Development | Purview Services",
+ "description": "Dedicated product teams you keep for years, run to your backlog and your cadence. Purview supplies product-shaped teams, engineers, QA, design and a…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Managed Software Development",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Managed Software Development",
+ "lede": "Dedicated product teams you keep for years, run to your backlog and your cadence.",
+ "actions": [],
+ "image": "dev-managed.jpg",
+ "related": [
+  {
+   "label": "Digital Product Engineering",
+   "href": "/digital-engineering"
+  },
+  {
+   "label": "Managed QA Services",
+   "href": "/qa-managed"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "Time-based & SOW Delivery",
+   "href": "/sow"
+  }
+ ],
+ "cta": "Talk to the Managed Software Development team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Product teams you keep for years."
+  },
+  {
+   "type": "text",
+   "text": "Dedicated engineering teams run to your backlog, tooling and release cadence."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Years",
+     "label": "typical team tenure with clients"
+    },
+    {
+     "value": "2 to 4 wks",
+     "label": "to stand up a named team"
+    },
+    {
+     "value": "CMMi L5",
+     "label": "processes every team runs on"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Managed Software Development covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview supplies product-shaped teams, engineers, QA, design and a delivery lead, who work as part of your organisation from Hyderabad, Pune, Bengaluru, Chennai, Poland or Edinburgh. Clients keep teams for years because the knowledge stays."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Product companies",
+     "eyebrow": "",
+     "body": "A long-lived team that knows the codebase.",
+     "links": []
+    },
+    {
+     "title": "Enterprises",
+     "eyebrow": "",
+     "body": "Capacity that flexes with the roadmap.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Secure delivery environments and vetted engineers.",
+     "links": []
+    },
+    {
+     "title": "Scale-ups",
+     "eyebrow": "",
+     "body": "Senior engineering without senior recruiting.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Dedicated product teams",
+     "body": ""
+    },
+    {
+     "title": "Architecture and tech leadership",
+     "body": ""
+    },
+    {
+     "title": "Agile delivery management",
+     "body": ""
+    },
+    {
+     "title": "Built-in QA and DevOps",
+     "body": ""
+    },
+    {
+     "title": "Knowledge retention and succession",
+     "body": ""
+    },
+    {
+     "title": "Flexible scaling up and down",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Shape",
+     "body": "Team composition matched to the roadmap."
+    },
+    {
+     "title": "Stand up",
+     "body": "Named engineers onboarded in two to four weeks."
+    },
+    {
+     "title": "Deliver",
+     "body": "Your tooling, your ceremonies, your release train."
+    },
+    {
+     "title": "Evolve",
+     "body": "Capacity flexes with the roadmap, knowledge stays."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Dedicated product team",
+   "body": "SaaS company, UK. A ten-person team in Hyderabad working to the client's backlog and release train for four years, with knowledge retained through planned succession.",
+   "result": {
+    "value": "4 yrs",
+    "label": "and counting"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Attrition below industry average",
+     "body": ""
+    },
+    {
+     "title": "Velocity visible sprint by sprint",
+     "body": ""
+    },
+    {
+     "title": "Cost per feature falling over time",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "GitHub",
+    "Azure DevOps",
+    "Jira"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Attrition?",
+     "a": "Below industry average, with succession planned so knowledge never leaves with one person."
+    },
+    {
+     "q": "Time zones?",
+     "a": "Poland for Europe, India for scale and follow-the-sun, Sydney and Singapore for APAC."
+    },
+    {
+     "q": "IP?",
+     "a": "Yours. Always."
+    }
+   ]
+  }
+ ]
+}

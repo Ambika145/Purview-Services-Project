@@ -1,0 +1,242 @@
+{
+ "source": "https://purviewservices.com/dc-networks.html",
+ "route": "/dc-networks",
+ "template": "editorial",
+ "title": "Network Solutions | Purview Services",
+ "description": "End-to-end network infrastructure, security and support from one partner. Solutions architects and network engineers who have delivered for carriers…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": "/purview-dc"
+  },
+  {
+   "label": "Network Solutions",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Network solutions: securely connect your people, spaces and devices",
+ "lede": "End-to-end network infrastructure, security and support from one partner. Solutions architects and network engineers who have delivered for carriers, banks, governments and the densest AI halls, backed by a structured cabling heritage of 24 years.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "55+",
+     "label": "countries served in networking and infrastructure delivery"
+    },
+    {
+     "value": "99.99%",
+     "label": "availability target on managed carrier-grade networks"
+    },
+    {
+     "value": "One partner",
+     "label": "cabling, network, security and support under a single contract"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Overview",
+   "text": "Secure, resilient, scalable, and run by the people who built it"
+  },
+  {
+   "type": "text",
+   "text": "Purview designs, installs and supports enterprise network infrastructure for new buildings, refreshes, security upgrades and large-scale transformation. Because the same group installs the cabling beneath the network and the GPU floors above it, you get one accountable owner from the outlet to the core, and a 24×7 operation behind it."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Design, install, validate",
+     "eyebrow": "Network infrastructure",
+     "body": "sign, install, validate Data centre networks: spine and leaf, InfiniBand and RoCE fabrics for AI clusters Campus LAN: core, distribution and access switching Wired and wireless access: WiFi 6 and 6E surveys, design and deployment Landlord CNS and in-building networks for multi-tenant developments Cloud networks and hybrid connectivity: SD-WAN, SASE on-ramps, direct connects Private 5G, ORAN and industrial wireless Network configuration, UAT, CMDB and as-built documentation Structured cabling beneath it → AV over IP and collaboration →",
+     "links": [
+      {
+       "label": "Structured cabling beneath it",
+       "href": "/dc-cabling",
+       "external": false
+      },
+      {
+       "label": "AV over IP and collaboration",
+       "href": "/av",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Confidentiality, integrity, availability",
+     "eyebrow": "Network security",
+     "body": "ity, availability Network segmentation and next-generation firewalls Cloud security and zero-trust access Cyber-secure endpoints and NAC Threat detection and protection, AI-assisted triage in the SOC IAM, PAM and VAPT OT and industrial network security Firewall refresh programmes at estate scale Cybersecurity practice →",
+     "links": [
+      {
+       "label": "Cybersecurity practice",
+       "href": "/cybersecurity",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Complement your team, or run it for you",
+     "eyebrow": "Support and maintenance",
+     "body": "team, or run it for you Technical and reactive support with named engineers Proactive monitoring and alerting from a 24×7 NOC Service delivery management and SLA reporting Vendor hardware and software support, licence and lifecycle management IMACD, patching and smart hands on site Managed network as a service Infrastructure managed services →",
+     "links": [
+      {
+       "label": "Infrastructure managed services",
+       "href": "/infra-managed",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How we work",
+   "text": "From survey to steady state"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Assess and design",
+     "eyebrow": "",
+     "body": "Site and RF surveys, current-state audit, target architecture, BOM and fixed-price proposal",
+     "links": []
+    },
+    {
+     "title": "Prestage",
+     "eyebrow": "",
+     "body": "Burn-in, configuration baselines, VLAN and security policy design, engineering release",
+     "links": []
+    },
+    {
+     "title": "Install and validate",
+     "eyebrow": "",
+     "body": "Cabling, rack and stack, switch and wireless deployment, UAT, cut-over around change windows",
+     "links": []
+    },
+    {
+     "title": "Secure and support",
+     "eyebrow": "",
+     "body": "Segmentation and firewall policy live, monitoring onboarded, service delivery management under SLA",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Track record",
+   "text": "Networks we have delivered"
+  },
+  {
+   "type": "text",
+   "text": "Client names withheld; references available under NDA."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Sector and region",
+     "Engagement",
+     "Outcome"
+    ],
+    [
+     "Global IT services",
+     "Firewall refresh of about 300 devices across a global estate",
+     "Standardised deployment, minimal downtime"
+    ],
+    [
+     "Hospitality and gaming, Singapore",
+     "Network modernisation: BOM validation, burn-in, VLAN design, UAT, CMDB and as-built documentation",
+     "Production-ready rollout; documentation complete"
+    ],
+    [
+     "Carrier, US",
+     "Regional network engineering programme: design, rollout and optimisation with field crews",
+     "Sites on air on schedule"
+    ],
+    [
+     "Neocloud, Australia",
+     "GPU cluster fabrics across two colocation facilities: InfiniBand cabling, optics, validation",
+     "Delivered on time for OEM commissioning"
+    ],
+    [
+     "University, Australia",
+     "Campus building network and structured cabling for a new law school on CommScope",
+     "Certified installer delivery, manufacturer case study"
+    ],
+    [
+     "Technology major, India",
+     "White-glove network and workstation installation across a new tower",
+     "Floor-by-floor sign-off on schedule"
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Partners",
+   "text": "A select set of enterprise-class vendors, so our engineers specialise"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why clients choose Purview for networks",
+   "text": "Cabling heritage, carrier discipline, AI-floor scale"
+  },
+  {
+   "type": "text",
+   "text": "Networks for AT&T, Verizon, T-Mobile and Nokia, for global banks and for state governments, delivered in 55+ countries by security-vetted engineers."
+  },
+  {
+   "type": "text",
+   "text": "Cabling is the foundation of our business, so the network is designed with the physical layer, not on top of someone else's."
+  },
+  {
+   "type": "text",
+   "text": "Vendor certifications and manufacturer relationships that simplify the supply chain, under CMMi Level 5 and ISO 27001, 20000, 9001 and 14001."
+  },
+  {
+   "type": "text",
+   "text": "Wireless & Telecommunications industry page → · AI Infrastructure →"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project enquiries",
+   "text": "Securely connect your people, spaces and devices."
+  },
+  {
+   "type": "text",
+   "text": "Tell us about the refresh, the new building or the security gap. Our solutions architects will survey, design and price it, and the same team will install, secure and support it."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Open the enquiry form",
+     "href": "https://purviewdc.com/contact.html",
+     "external": true
+    },
+    {
+     "label": "Contact Purview Group",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

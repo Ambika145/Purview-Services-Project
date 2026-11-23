@@ -1,0 +1,266 @@
+{
+ "source": "https://purviewservices.com/cybersecurity.html",
+ "route": "/cybersecurity",
+ "template": "service",
+ "title": "Cybersecurity | Purview Services",
+ "description": "Security for the estate you have and the AI estate you are building. Purview secures hybrid enterprises and now the AI systems inside them: models, prompts…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Cybersecurity",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Cybersecurity",
+ "lede": "Security for the estate you have and the AI estate you are building.",
+ "actions": [],
+ "image": "cybersecurity.jpg",
+ "related": [
+  {
+   "label": "Managed Security Services",
+   "href": "/security-managed"
+  },
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Cloud Services",
+   "href": "/cloud"
+  },
+  {
+   "label": "Government & Public Sector",
+   "href": "/public-sector"
+  },
+  {
+   "label": "Network Solutions",
+   "href": "/dc-networks"
+  },
+  {
+   "label": "Structured Cabling",
+   "href": "/dc-cabling"
+  }
+ ],
+ "cta": "Talk to the Cybersecurity team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Security built into every layer."
+  },
+  {
+   "type": "text",
+   "text": "Protect enterprise applications, networks, data and AI systems."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "24×7",
+     "label": "SOC from five delivery centres"
+    },
+    {
+     "value": "AI estate",
+     "label": "models, prompts and data covered, not just endpoints"
+    },
+    {
+     "value": "ISO 27001",
+     "label": "certified operations"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Cybersecurity covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview secures hybrid enterprises and now the AI systems inside them: models, prompts, training data and agent permissions. Our SOC teams run 24×7 from delivery centres in five countries and our consultants hold the certifications your auditors expect."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "CISOs adopting AI",
+     "eyebrow": "",
+     "body": "Need LLM and agent security reviewed before production.",
+     "links": []
+    },
+    {
+     "title": "Regulated enterprises",
+     "eyebrow": "",
+     "body": "Continuous compliance evidence for ISO, SOC 2 and sector regulators.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Sovereign SOC and critical infrastructure protection.",
+     "links": []
+    },
+    {
+     "title": "Mid-size enterprises",
+     "eyebrow": "",
+     "body": "A full security operation without building one.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "AI and LLM security: models, data and prompts",
+     "body": ""
+    },
+    {
+     "title": "Governance, risk and compliance",
+     "body": ""
+    },
+    {
+     "title": "AI-driven threat detection and response",
+     "body": ""
+    },
+    {
+     "title": "Endpoint, mobile and cloud security",
+     "body": ""
+    },
+    {
+     "title": "IAM, PAM and VAPT",
+     "body": ""
+    },
+    {
+     "title": "Managed security services and SOC",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "Threat model and control gap analysis, including AI-specific attack paths."
+    },
+    {
+     "title": "Remediate",
+     "body": "Prioritised fixes with your teams, tooling rationalised rather than added."
+    },
+    {
+     "title": "Monitor",
+     "body": "SOC onboarding with SIEM, EDR and AI-assisted triage."
+    },
+    {
+     "title": "Assure",
+     "body": "Continuous compliance evidence for ISO 27001, SOC 2 and sector regulators."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "AI estate security review",
+   "body": "Global bank. Threat model and control gap analysis across models, prompts, training data and agent permissions, with remediation and monitoring onboarded to the SOC.",
+   "result": {
+    "value": "Cleared",
+    "label": "for production use"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Mean time to detect in minutes",
+     "body": ""
+    },
+    {
+     "title": "Audit findings closed on schedule",
+     "body": ""
+    },
+    {
+     "title": "AI systems cleared for production use",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Palo Alto Networks",
+    "Fortinet",
+    "F5",
+    "IBM Security",
+    "Dragos",
+    "Cisco",
+    "Splunk"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Your tooling or ours?",
+     "a": "Either. We run on Splunk, Palo Alto, Fortinet, IBM Security and Dragos, or onboard your existing stack."
+    },
+    {
+     "q": "Can you secure agents?",
+     "a": "Yes: credential vaulting, least-privilege tool access, prompt and output monitoring, full action logs."
+    },
+    {
+     "q": "Response times?",
+     "a": "Agreed per severity in the SLA; critical containment is measured in minutes."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "source": "https://purviewservices.com/careers.html",
+ "route": "/careers",
+ "template": "editorial",
+ "title": "Careers | Purview Services",
+ "description": "Engineers who want to see their work installed, certified and running, not just merged. Purview Services is UK-headquartered, with teams in 21 countries.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Careers",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Build the applications. Build the floors they run on.",
+ "lede": "Engineers who want to see their work installed, certified and running, not just merged.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "AI & software engineering",
+     "eyebrow": "",
+     "body": "Gen AI, agents, data platforms and product engineering in Hyderabad, Pune, Bengaluru, Chennai, Edinburgh and Poland.",
+     "links": []
+    },
+    {
+     "title": "Data centre engineering",
+     "eyebrow": "",
+     "body": "Lead engineers and technicians for GPU rack and stack, commissioning and operations, trained in our labs and deployed worldwide.",
+     "links": []
+    },
+    {
+     "title": "Networks & security",
+     "eyebrow": "",
+     "body": "5G, ORAN, enterprise networking and SOC roles across our delivery centres.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "See open roles",
+     "href": "/",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Open roles",
+   "text": "No open roles right now."
+  },
+  {
+   "type": "text",
+   "text": "We are not hiring for any positions at the moment. When new roles open across AI and software engineering, data centre engineering, and networks and security, they will be posted here first. Please check back soon."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Check back here",
+     "eyebrow": "",
+     "body": "This page is updated whenever a new role opens in any of our delivery centres.",
+     "links": []
+    },
+    {
+     "title": "Follow us on LinkedIn",
+     "eyebrow": "",
+     "body": "New openings are announced on the Purview LinkedIn page as soon as they go live.",
+     "links": [
+      {
+       "label": "Purview on LinkedIn",
+       "href": "https://www.linkedin.com/company/purviewservices",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Introduce yourself",
+     "eyebrow": "",
+     "body": "Not seeing a fit yet? Tell us about your experience through our contact page and we will keep you in mind for future roles.",
+     "links": [
+      {
+       "label": "Contact Purview",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

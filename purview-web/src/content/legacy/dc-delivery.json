@@ -1,0 +1,276 @@
+{
+ "source": "https://purviewservices.com/dc-delivery.html",
+ "route": "/dc-delivery",
+ "template": "editorial",
+ "title": "Purview DC Delivery Model | Purview Services",
+ "description": "A methodology for accelerated AI infrastructure deployments, combining governance, engineering discipline, progressive quality assurance and collaborative…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": "/purview-dc"
+  },
+  {
+   "label": "Delivery Model",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Preparation-first, gated by quality.",
+ "lede": "A methodology for accelerated AI infrastructure deployments, combining governance, engineering discipline, progressive quality assurance and collaborative project management.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "6",
+     "label": "phases, each with its own release criteria"
+    },
+    {
+     "value": "4",
+     "label": "quality gates, each independent"
+    },
+    {
+     "value": "Evidence",
+     "label": "CMDB updates, as-built documentation and a live digital record"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why preparation-first",
+   "text": "Won on the bench, proven on the floor."
+  },
+  {
+   "type": "text",
+   "text": "Engineering verification, assembly, labelling and deployment readiness are completed in a controlled prestaging environment before installation starts. That reduces data hall congestion and improves productivity, quality and schedule certainty."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Structured governance",
+     "eyebrow": "",
+     "body": "Defined phases, release criteria and quality assurance across the lifecycle.",
+     "links": []
+    },
+    {
+     "title": "Traceability throughout",
+     "eyebrow": "",
+     "body": "Every device, cable and placement tracked from prestaging to handover in Data Center Deployer.",
+     "links": []
+    },
+    {
+     "title": "Evidence-based handover",
+     "eyebrow": "",
+     "body": "CMDB updates, as-builts and a live digital record of the deployed estate.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Inside the methodology",
+   "text": "Six phases, four quality gates."
+  },
+  {
+   "type": "text",
+   "text": "Installation, testing and acceptance are separated into phases. Infrastructure advances only after meeting the applicable release criteria."
+  },
+  {
+   "type": "text",
+   "text": "Material receipt, engineering verification, assembly, labelling, QA and deployment release."
+  },
+  {
+   "type": "text",
+   "text": "Receiving, delivery reconciliation, chain of custody and contamination inspection."
+  },
+  {
+   "type": "text",
+   "text": "Asset validation, DOA testing, RMA handling, rack, rail and device installation with progressive verification."
+  },
+  {
+   "type": "text",
+   "text": "Certified fibre and Cat6A, point-to-point and structured methods, patch panels, dressing and labelling."
+  },
+  {
+   "type": "text",
+   "text": "MPO, LC and copper connectivity, optics installation and verification."
+  },
+  {
+   "type": "text",
+   "text": "Certification testing, independent QA, documentation, acceptance, commissioning support and operational handover."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Quality gate",
+     "Passed when"
+    ],
+    [
+     "Engineering release",
+     "Prestaging is complete and released for deployment."
+    ],
+    [
+     "Site validation",
+     "Site receipt is complete, including chain of custody and contamination checks."
+    ],
+    [
+     "Installation verification",
+     "Infrastructure, cabling, connectivity and optics are installed and progressively verified."
+    ],
+    [
+     "Independent acceptance QA",
+     "Testing, QA, documentation and acceptance are complete before commissioning and handover."
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The India advantage",
+   "text": "De-risking GPU hardware import, staging and deployment."
+  },
+  {
+   "type": "text",
+   "text": "GigaPort in Hyderabad is India's first end-to-end bonded AI hardware facility: import, integration, testing and last-mile delivery in one place, taking the route from months to weeks."
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Port of entry",
+     "eyebrow": "",
+     "body": "Chennai · Krishnapatnam sea ports for liquid-cooled rack imports",
+     "links": []
+    },
+    {
+     "title": "Bonded custody",
+     "eyebrow": "",
+     "body": "GigaPort, Hyderabad: customs-bonded receipt and custody with duty optimisation",
+     "links": []
+    },
+    {
+     "title": "Integration & QA",
+     "eyebrow": "",
+     "body": "Prestaging: assembly, burn-in, firmware baselining and QA release",
+     "links": []
+    },
+    {
+     "title": "Site delivery",
+     "eyebrow": "",
+     "body": "Last-mile moves to the data hall under chain of custody",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "GigaPort",
+     "eyebrow": "",
+     "body": "Import, integration, testing and last-mile delivery in one bonded facility. NVL72-class rack moves are planned with a specialist liquid-cooled logistics partner.",
+     "links": []
+    },
+    {
+     "title": "Purview DC Academy",
+     "eyebrow": "",
+     "body": "Engineers are hired and certified in India before mobilisation, with NVIDIA, liquid-cooling and service-management training.",
+     "links": []
+    },
+    {
+     "title": "India import certification",
+     "eyebrow": "",
+     "body": "Liquid-cooled GPU platforms typically need two BIS certifications per prepopulated rack (compute and in-rack power). Standard approval takes six to eight months from filing. Purview handles BIS and DGFT filings end to end, aligns shipping with certification milestones and works directly with the certifying agencies.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Global Deployment Pods",
+   "text": "Delivery centres in five countries. One preparation-first standard."
+  },
+  {
+   "type": "text",
+   "text": "Delivery is mobilised as certified engineering cohorts under one methodology and one quality framework. India operations are anchored in Hyderabad, Chennai and Noida."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Code",
+     "Centre",
+     "Country"
+    ],
+    [
+     "HYD",
+     "Hyderabad",
+     "India"
+    ],
+    [
+     "EDI",
+     "Edinburgh",
+     "United Kingdom"
+    ],
+    [
+     "WAW",
+     "Warsaw",
+     "Poland"
+    ],
+    [
+     "SIN",
+     "Singapore",
+     "Singapore"
+    ],
+    [
+     "SYD",
+     "Sydney",
+     "Australia"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Full delivery model on purviewdc.com ↗"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project enquiries",
+   "text": "Planning an AI factory build, migration or refresh?"
+  },
+  {
+   "type": "text",
+   "text": "Send the platform, site and target go-live date. Planning, OEM alignment, import and staging can be scoped around your in-house team; Purview specialists handle installation, commissioning, handover and operations."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Open the enquiry form",
+     "href": "https://purviewdc.com/contact.html",
+     "external": true
+    },
+    {
+     "label": "Contact Purview Group",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

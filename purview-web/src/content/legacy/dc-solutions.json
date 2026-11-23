@@ -1,0 +1,179 @@
+{
+ "source": "https://purviewservices.com/dc-solutions.html",
+ "route": "/dc-solutions",
+ "template": "editorial",
+ "title": "Purview DC Solutions | Purview Services",
+ "description": "Four platforms, proven in production for global logistics and financial-services enterprises, built by the teams that deliver AI factories.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": "/purview-dc"
+  },
+  {
+   "label": "Solutions",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "We built the software that runs our own deployments.",
+ "lede": "Four platforms, proven in production for global logistics and financial-services enterprises, built by the teams that deliver AI factories. Demonstrations on request.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "Platform 01",
+   "text": "Data Center Deployer (DCD)"
+  },
+  {
+   "type": "text",
+   "text": "Rack inventory, scan-based asset confirmation and inspection intelligence for AI factory deployment. Removes the handover risk that arises when material, hardware status, cabling and rack placement sit in separate systems, with a visual command layer and a live 3D view of the facility."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Technician app:",
+     "body": "barcode scanning, rack-plan matching, PhotoProof capture, early exception flags (DOA, PSU, fan, cabling)"
+    },
+    {
+     "title": "Coordinator web:",
+     "body": "control tower for inventory, unloading dock, DOA testing, cabling and rack elevation"
+    },
+    {
+     "title": "Rack elevation:",
+     "body": "slot-level confidence before final connection"
+    },
+    {
+     "title": "Outcome:",
+     "body": "earlier issue discovery, fewer install misses, faster reconciliation, cleaner handover evidence"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "Platform 02",
+   "text": "SmartAMM"
+  },
+  {
+   "type": "text",
+   "text": "Asset and maintenance management across a data centre estate. Signals from RFID, NFC, edge vision cameras, temperature sensors and ticketing pass through edge hubs into AI analytics that produce predictions, optimisation and anomaly insight, shown in dashboards and a live digital twin."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Technology-agnostic:",
+     "body": "any technology connects through loosely coupled onboarding"
+    },
+    {
+     "title": "Predict and detect:",
+     "body": "AI-driven prediction, optimisation and anomaly detection"
+    },
+    {
+     "title": "Digital twin:",
+     "body": "facilities monitored, managed and improved from one operational layer"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "Platform 03",
+   "text": "SmartInspect"
+  },
+  {
+   "type": "text",
+   "text": "Digital inspection workflows with evidence capture and QA gate sign-off. A remote collaboration platform for wearables: field technicians carry out inspections, maintenance, troubleshooting and audits with real-time expert guidance through smart glasses and mobile devices, reducing site visits and downtime."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Immersive training:",
+     "body": "interactive guidance at the point of work"
+    },
+    {
+     "title": "Remote diagnostics:",
+     "body": "live expert support through the technician's view"
+    },
+    {
+     "title": "Maintenance and overhaul:",
+     "body": "standardised digital workflows"
+    },
+    {
+     "title": "Digital auditing:",
+     "body": "paperless compliance with structured capture, instant reporting and full traceability"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "Platform 04",
+   "text": "SmartWorkforce"
+  },
+  {
+   "type": "text",
+   "text": "Certified engineering workforce planning, mobilisation and utilisation tracking. Processes become step-by-step digital workflows delivered to wearables, mobiles and tablets with built-in remote support, so frontline teams execute consistently with fewer errors."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Workforce planning:",
+     "body": "mobilisation and utilisation tracking"
+    },
+    {
+     "title": "Digital workflows:",
+     "body": "SOPs converted into interactive, device-ready guidance"
+    },
+    {
+     "title": "Any device:",
+     "body": "smart glasses, mobiles and tablets, hands-free where needed"
+    },
+    {
+     "title": "Remote support:",
+     "body": "expert connection and real-time assistance during execution"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "See the platforms on purviewdc.com ↗"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project enquiries",
+   "text": "See the platforms on a live project."
+  },
+  {
+   "type": "text",
+   "text": "Demonstrations are available on request. Tell us which platform and the deployment it would support."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Open the enquiry form",
+     "href": "https://purviewdc.com/contact.html",
+     "external": true
+    },
+    {
+     "label": "Contact Purview Group",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

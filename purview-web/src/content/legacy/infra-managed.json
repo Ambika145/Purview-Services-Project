@@ -1,0 +1,264 @@
+{
+ "source": "https://purviewservices.com/infra-managed.html",
+ "route": "/infra-managed",
+ "template": "service",
+ "title": "Infrastructure Managed Services | Purview Services",
+ "description": "Servers, storage, networks and cloud under one NOC with observability built in. Purview runs hybrid estates for enterprises and the GPU floors we build.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Infrastructure Managed Services",
+ "lede": "Servers, storage, networks and cloud under one NOC with observability built in.",
+ "actions": [],
+ "image": "infra-managed.jpg",
+ "related": [
+  {
+   "label": "Cloud Services",
+   "href": "/cloud"
+  },
+  {
+   "label": "AI Infrastructure",
+   "href": "/ai-infrastructure"
+  },
+  {
+   "label": "Managed Security Services",
+   "href": "/security-managed"
+  },
+  {
+   "label": "Help Desk Services",
+   "href": "/helpdesk"
+  },
+  {
+   "label": "Network Solutions",
+   "href": "/dc-networks"
+  },
+  {
+   "label": "Structured Cabling",
+   "href": "/dc-cabling"
+  }
+ ],
+ "cta": "Talk to the Infrastructure Managed Services team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "One NOC for the whole estate."
+  },
+  {
+   "type": "text",
+   "text": "Servers, storage, networks and cloud run 24×7 against SLAs we sign."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "99.9%+",
+     "label": "availability target across managed estates"
+    },
+    {
+     "value": "One NOC",
+     "label": "servers, storage, network, cloud and GPU floors"
+    },
+    {
+     "value": "ISO 20000",
+     "label": "certified service management"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Infrastructure Managed Services covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview runs hybrid estates for enterprises and the GPU floors we build. One NOC, one toolset, one accountable owner, whether the workload sits in a hyperscaler, a sovereign cloud or a rack we installed. This is an operations contract for the estate you already have; designing and building a new network is the separate Network Solutions practice, which hands into this service once live."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "CIOs",
+     "eyebrow": "",
+     "body": "One accountable operator for a hybrid estate.",
+     "links": []
+    },
+    {
+     "title": "AI operators",
+     "eyebrow": "",
+     "body": "GPU floors run by the people who built them.",
+     "links": []
+    },
+    {
+     "title": "Carriers",
+     "eyebrow": "",
+     "body": "Network operations centres under carrier SLAs.",
+     "links": []
+    },
+    {
+     "title": "Mid-size enterprises",
+     "eyebrow": "",
+     "body": "Enterprise-grade operations at a size that fits.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "24×7 NOC and monitoring",
+     "body": ""
+    },
+    {
+     "title": "Server, storage and virtualisation operations",
+     "body": ""
+    },
+    {
+     "title": "Network and SD-WAN operations",
+     "body": ""
+    },
+    {
+     "title": "Cloud and hybrid operations",
+     "body": ""
+    },
+    {
+     "title": "Observability and capacity planning",
+     "body": ""
+    },
+    {
+     "title": "Patching, backup and DR",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Discover",
+     "body": "Estate inventory and dependency mapping."
+    },
+    {
+     "title": "Onboard",
+     "body": "Monitoring, runbooks and access in place before cutover."
+    },
+    {
+     "title": "Operate",
+     "body": "Incident, problem and change under agreed SLAs."
+    },
+    {
+     "title": "Improve",
+     "body": "Quarterly service reviews with capacity and cost recommendations."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Hybrid estate operations",
+   "body": "Manufacturer, Europe. Servers, storage, SD-WAN and cloud brought under one NOC with observability and capacity planning, replacing three incumbent vendors.",
+   "result": {
+    "value": "3 to 1",
+    "label": "vendors consolidated"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Availability above 99.9 percent",
+     "body": ""
+    },
+    {
+     "title": "Incidents resolved inside SLA",
+     "body": ""
+    },
+    {
+     "title": "Capacity planned, not discovered",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Dynatrace",
+    "AppDynamics",
+    "Splunk",
+    "Cisco",
+    "ServiceNow"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Your tools or ours?",
+     "a": "Either. Dynatrace, AppDynamics, Splunk and ServiceNow are standard; we onboard what you have."
+    },
+    {
+     "q": "Can you run our GPU floor?",
+     "a": "Yes. Purview DC provides smart hands, L1 to L3 and hyperscaler-grade operations."
+    },
+    {
+     "q": "Transition risk?",
+     "a": "Monitoring, runbooks and access are in place before cutover; we run in parallel until stable."
+    }
+   ]
+  }
+ ]
+}

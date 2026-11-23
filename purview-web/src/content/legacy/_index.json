@@ -1,0 +1,494 @@
+{
+ "advisory": {
+  "route": "/advisory",
+  "template": "editorial",
+  "title": "Consulting & Advisory | Purview Services",
+  "h1": "Make the right decision before you build."
+ },
+ "ai-infrastructure": {
+  "route": "/ai-infrastructure",
+  "template": "service",
+  "title": "AI Infrastructure | Purview Services",
+  "h1": "AI Infrastructure"
+ },
+ "ai-solutions": {
+  "route": "/ai-solutions",
+  "template": "editorial",
+  "title": "AI Solutions | Purview Services",
+  "h1": "AI that passes security review and keeps working in production."
+ },
+ "app-managed": {
+  "route": "/app-managed",
+  "template": "service",
+  "title": "Managed Application Services | Purview Services",
+  "h1": "Managed Application Services"
+ },
+ "audits": {
+  "route": "/audits",
+  "template": "service",
+  "title": "Discovery Audits | Purview Services",
+  "h1": "Discovery Audits"
+ },
+ "av": {
+  "route": "/av",
+  "template": "editorial",
+  "title": "Audio Visual & Collaboration | Purview Services",
+  "h1": "Audio visual and collaboration, from one accountable contractor"
+ },
+ "beeref": {
+  "route": "/beeref",
+  "template": "editorial",
+  "title": "BeeRef Referral Hiring | Purview Services",
+  "h1": "Hire through the people you trust."
+ },
+ "benepay": {
+  "route": "/benepay",
+  "template": "editorial",
+  "title": "BenePay | Purview Services",
+  "h1": "Pay anyone, anywhere, with their consent."
+ },
+ "bfsi": {
+  "route": "/bfsi",
+  "template": "service",
+  "title": "Banking & Financial Services | Purview Services",
+  "h1": "Banking & Financial Services"
+ },
+ "blog-agentic-ai-governed-workflows": {
+  "route": "/blog-agentic-ai-governed-workflows",
+  "template": "article",
+  "title": "Running Agentic AI in Production | Purview Services",
+  "h1": "From proof of concept to governed workflow"
+ },
+ "blog-managed-services-ai-era": {
+  "route": "/blog-managed-services-ai-era",
+  "template": "article",
+  "title": "Managed Services for the AI Era | Purview Services",
+  "h1": "Managed services for the AI era"
+ },
+ "blog-preparation-first-gpu-deployment": {
+  "route": "/blog-preparation-first-gpu-deployment",
+  "template": "article",
+  "title": "Preparation-First GPU Deployment | Purview Services",
+  "h1": "Preparation-first: why GPU floors are won on the bench"
+ },
+ "blog-why-the-agent-needs-the-floor": {
+  "route": "/blog-why-the-agent-needs-the-floor",
+  "template": "article",
+  "title": "Why the AI Agent Needs the Floor | Purview Services",
+  "h1": "Why the agent needs the floor"
+ },
+ "blog": {
+  "route": "/blog",
+  "template": "editorial",
+  "title": "Blog: AI and Data Centre Insights | Purview Services",
+  "h1": "Insights from the floor"
+ },
+ "callohm": {
+  "route": "/callohm",
+  "template": "editorial",
+  "title": "CallOHM | Purview Services",
+  "h1": "Voice agents that do the work of the call."
+ },
+ "carbon-reduction-plan": {
+  "route": "/carbon-reduction-plan",
+  "template": "editorial",
+  "title": "Carbon Reduction Plan | Purview Services",
+  "h1": "Carbon Reduction Plan"
+ },
+ "careers": {
+  "route": "/careers",
+  "template": "editorial",
+  "title": "Careers | Purview Services",
+  "h1": "Build the applications. Build the floors they run on."
+ },
+ "castlematic": {
+  "route": "/castlematic",
+  "template": "editorial",
+  "title": "Castlematic | Purview Services",
+  "h1": "Every vehicle, every minute, one screen."
+ },
+ "cloud": {
+  "route": "/cloud",
+  "template": "service",
+  "title": "Cloud Services | Purview Services",
+  "h1": "Cloud Services"
+ },
+ "company": {
+  "route": "/company",
+  "template": "editorial",
+  "title": "About Us & Leadership | Purview Services",
+  "h1": "Founded in Scotland. Built for the AI era."
+ },
+ "contact": {
+  "route": "/contact",
+  "template": "editorial",
+  "title": "Contact Us | Purview Services",
+  "h1": "Bring us a problem statement"
+ },
+ "customer-success": {
+  "route": "/customer-success",
+  "template": "editorial",
+  "title": "Customer Success | Purview Services",
+  "h1": "Engineering outcomes, not just promises."
+ },
+ "cybersecurity": {
+  "route": "/cybersecurity",
+  "template": "service",
+  "title": "Cybersecurity | Purview Services",
+  "h1": "Cybersecurity"
+ },
+ "data-analytics": {
+  "route": "/data-analytics",
+  "template": "service",
+  "title": "Data & Analytics | Purview Services",
+  "h1": "Data & Analytics"
+ },
+ "dc-cabling": {
+  "route": "/dc-cabling",
+  "template": "editorial",
+  "title": "Structured Cabling & Smart Hands | Purview Services",
+  "h1": "Structured cabling, certified to the link"
+ },
+ "dc-delivery": {
+  "route": "/dc-delivery",
+  "template": "editorial",
+  "title": "Purview DC Delivery Model | Purview Services",
+  "h1": "Preparation-first, gated by quality."
+ },
+ "dc-development": {
+  "route": "/dc-development",
+  "template": "editorial",
+  "title": "Data Centre Development | Purview Services",
+  "h1": "We also develop and build capacity."
+ },
+ "dc-networks": {
+  "route": "/dc-networks",
+  "template": "editorial",
+  "title": "Network Solutions | Purview Services",
+  "h1": "Network solutions: securely connect your people, spaces and devices"
+ },
+ "dc-services": {
+  "route": "/dc-services",
+  "template": "editorial",
+  "title": "Purview DC Services | Purview Services",
+  "h1": "Eight stages from powered shell to production"
+ },
+ "dc-solutions": {
+  "route": "/dc-solutions",
+  "template": "editorial",
+  "title": "Purview DC Solutions | Purview Services",
+  "h1": "We built the software that runs our own deployments."
+ },
+ "dc-why": {
+  "route": "/dc-why",
+  "template": "editorial",
+  "title": "Why Purview DC | Purview Services",
+  "h1": "Global engineering, built for the AI infrastructure era."
+ },
+ "dev-managed": {
+  "route": "/dev-managed",
+  "template": "service",
+  "title": "Managed Software Development | Purview Services",
+  "h1": "Managed Software Development"
+ },
+ "digital-engineering": {
+  "route": "/digital-engineering",
+  "template": "service",
+  "title": "Digital Product Engineering | Purview Services",
+  "h1": "Digital Product Engineering"
+ },
+ "divisions": {
+  "route": "/divisions",
+  "template": "editorial",
+  "title": "Products | Purview Services",
+  "h1": "A group of specialist companies, not a single generalist"
+ },
+ "edge-vision": {
+  "route": "/edge-vision",
+  "template": "service",
+  "title": "Edge & Vision AI | Purview Services",
+  "h1": "Edge & Vision AI"
+ },
+ "efundzz": {
+  "route": "/efundzz",
+  "template": "editorial",
+  "title": "EFUNDZZ | Purview Services",
+  "h1": "One application. 100+ lenders."
+ },
+ "embedded": {
+  "route": "/embedded",
+  "template": "service",
+  "title": "Embedded Engineering & IoT | Purview Services",
+  "h1": "Embedded Engineering & IoT"
+ },
+ "gigaport": {
+  "route": "/gigaport",
+  "template": "editorial",
+  "title": "GigaPort | Purview Services",
+  "h1": "Every AI factory starts at GigaPort."
+ },
+ "global-delivery": {
+  "route": "/global-delivery",
+  "template": "editorial",
+  "title": "Global Delivery & Operations | Purview Services",
+  "h1": "Global reach. Local accountability."
+ },
+ "healthcare": {
+  "route": "/healthcare",
+  "template": "service",
+  "title": "Healthcare & Life Sciences | Purview Services",
+  "h1": "Healthcare & Life Sciences"
+ },
+ "helpdesk": {
+  "route": "/helpdesk",
+  "template": "service",
+  "title": "Help Desk Services | Purview Services",
+  "h1": "Help Desk Services"
+ },
+ "industries": {
+  "route": "/industries",
+  "template": "editorial",
+  "title": "Industries | Purview Services",
+  "h1": "Regulated, national-scale and unforgiving. That is where we work."
+ },
+ "infra-managed": {
+  "route": "/infra-managed",
+  "template": "service",
+  "title": "Infrastructure Managed Services | Purview Services",
+  "h1": "Infrastructure Managed Services"
+ },
+ "innovation": {
+  "route": "/innovation",
+  "template": "editorial",
+  "title": "Engineering & Innovation | Purview Services",
+  "h1": "The engineering behind the promise."
+ },
+ "insights": {
+  "route": "/insights",
+  "template": "editorial",
+  "title": "Insights & Perspectives | Purview Services",
+  "h1": "Ideas grounded in engineering practice."
+ },
+ "it-support": {
+  "route": "/it-support",
+  "template": "service",
+  "title": "Managed IT Support | Purview Services",
+  "h1": "Managed IT Support"
+ },
+ "locations": {
+  "route": "/locations",
+  "template": "editorial",
+  "title": "Locations | Purview Services",
+  "h1": "Where to find us"
+ },
+ "managed": {
+  "route": "/managed",
+  "template": "editorial",
+  "title": "Managed IT Services | Purview Services",
+  "h1": "Run, support and secure what you already have"
+ },
+ "manufacturing": {
+  "route": "/manufacturing",
+  "template": "service",
+  "title": "FMCG & Manufacturing | Purview Services",
+  "h1": "FMCG & Manufacturing"
+ },
+ "market-insights": {
+  "route": "/market-insights",
+  "template": "service",
+  "title": "Market Insights | Purview Services",
+  "h1": "Market Insights"
+ },
+ "media": {
+  "route": "/media",
+  "template": "service",
+  "title": "Media & Entertainment | Purview Services",
+  "h1": "Media & Entertainment"
+ },
+ "nexable": {
+  "route": "/nexable",
+  "template": "editorial",
+  "title": "Nexable | Purview Services",
+  "h1": "Wearable AI that gives independence back."
+ },
+ "offshore": {
+  "route": "/offshore",
+  "template": "service",
+  "title": "Offshore & Nearshore Solutions | Purview Services",
+  "h1": "Offshore & Nearshore Solutions"
+ },
+ "payments": {
+  "route": "/payments",
+  "template": "service",
+  "title": "Payments & Digital Assets | Purview Services",
+  "h1": "Payments & Digital Assets"
+ },
+ "payroll": {
+  "route": "/payroll",
+  "template": "service",
+  "title": "Contract Payroll | Purview Services",
+  "h1": "Contract Payroll"
+ },
+ "platforms-ip": {
+  "route": "/platforms-ip",
+  "template": "editorial",
+  "title": "Platforms & IP | Purview Services",
+  "h1": "Products built from real operating problems."
+ },
+ "privacy-policy": {
+  "route": "/privacy-policy",
+  "template": "editorial",
+  "title": "Privacy Policy | Purview Services",
+  "h1": "Privacy Policy"
+ },
+ "public-sector": {
+  "route": "/public-sector",
+  "template": "service",
+  "title": "Government & Public Sector | Purview Services",
+  "h1": "Government & Public Sector"
+ },
+ "purview-dc": {
+  "route": "/purview-dc",
+  "template": "editorial",
+  "title": "Purview DC | Purview Services",
+  "h1": ""
+ },
+ "purviewdc": {
+  "route": "/purviewdc",
+  "template": "editorial",
+  "title": "Purview DC AI Data Centres | Purview Services",
+  "h1": "Powered shell to production. One accountable partner."
+ },
+ "purviewdigital": {
+  "route": "/purviewdigital",
+  "template": "editorial",
+  "title": "Purview Digital | Purview Services",
+  "h1": "Brands built and grown online."
+ },
+ "purviewhealthcare": {
+  "route": "/purviewhealthcare",
+  "template": "editorial",
+  "title": "Purview Healthcare | Purview Services",
+  "h1": "Get paid for the care you deliver."
+ },
+ "purviewlifesciences": {
+  "route": "/purviewlifesciences",
+  "template": "editorial",
+  "title": "Purview Lifesciences | Purview Services",
+  "h1": "Solvents recovered. Intermediates made."
+ },
+ "qa-managed": {
+  "route": "/qa-managed",
+  "template": "service",
+  "title": "Managed QA Services | Purview Services",
+  "h1": "Managed QA Services"
+ },
+ "rabbit": {
+  "route": "/rabbit",
+  "template": "editorial",
+  "title": "RabbiT AI Recruitment | Purview Services",
+  "h1": "Stop screening. Start hiring."
+ },
+ "resources": {
+  "route": "/resources",
+  "template": "editorial",
+  "title": "Brochures & Resources | Purview Services",
+  "h1": "Brochures & Resources"
+ },
+ "retail": {
+  "route": "/retail",
+  "template": "service",
+  "title": "Retail & Distribution | Purview Services",
+  "h1": "Retail & Distribution"
+ },
+ "rpa": {
+  "route": "/rpa",
+  "template": "service",
+  "title": "Automation & RPA | Purview Services",
+  "h1": "Automation & RPA"
+ },
+ "rtd": {
+  "route": "/rtd",
+  "template": "service",
+  "title": "Recruit, Train, Deploy | Purview Services",
+  "h1": "Recruit, Train, Deploy"
+ },
+ "security-managed": {
+  "route": "/security-managed",
+  "template": "service",
+  "title": "Managed Security Services | Purview Services",
+  "h1": "Managed Security Services"
+ },
+ "smartcare": {
+  "route": "/smartcare",
+  "template": "editorial",
+  "title": "SmartCare | Purview Services",
+  "h1": "Care, support and training, with the expert in your eyeline."
+ },
+ "smartinspect": {
+  "route": "/smartinspect",
+  "template": "editorial",
+  "title": "SmartInspect | Purview Services",
+  "h1": "Inspect anywhere, with the expert looking over your shoulder."
+ },
+ "smartpick": {
+  "route": "/smartpick",
+  "template": "editorial",
+  "title": "SmartPick | Purview Services",
+  "h1": "Pick, pack and track, hands free and in real time."
+ },
+ "smartsurveillance": {
+  "route": "/smartsurveillance",
+  "template": "editorial",
+  "title": "SmartSurveillance | Purview Services",
+  "h1": "See the whole site, and know before it happens."
+ },
+ "sow": {
+  "route": "/sow",
+  "template": "service",
+  "title": "Time-based & SOW Delivery | Purview Services",
+  "h1": "Time-based & SOW Delivery"
+ },
+ "technologies": {
+  "route": "/technologies",
+  "template": "editorial",
+  "title": "Technologies | Purview Services",
+  "h1": "From AI applications to the infrastructure beneath"
+ },
+ "telecom": {
+  "route": "/telecom",
+  "template": "service",
+  "title": "Wireless & Telecommunications | Purview Services",
+  "h1": "Wireless & Telecommunications"
+ },
+ "travel": {
+  "route": "/travel",
+  "template": "service",
+  "title": "Travel, Transportation & Facilities | Purview Services",
+  "h1": "Travel, Transportation & Facilities"
+ },
+ "trust": {
+  "route": "/trust",
+  "template": "editorial",
+  "title": "Trust, Security & Compliance | Purview Services",
+  "h1": "Confidence is engineered into delivery."
+ },
+ "twallet": {
+  "route": "/twallet",
+  "template": "editorial",
+  "title": "T-Wallet | Purview Services",
+  "h1": "Your Digital Telangana."
+ },
+ "volume-recruitment": {
+  "route": "/volume-recruitment",
+  "template": "service",
+  "title": "Volume, Contract & Perm Recruitment | Purview Services",
+  "h1": "Volume, Contract & Perm Recruitment"
+ },
+ "workforce": {
+  "route": "/workforce",
+  "template": "editorial",
+  "title": "Workforce Solutions | Purview Services",
+  "h1": "The people side of delivery"
+ }
+}

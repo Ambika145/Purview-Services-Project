@@ -1,0 +1,261 @@
+{
+ "source": "https://purviewservices.com/payments.html",
+ "route": "/payments",
+ "template": "service",
+ "title": "Payments & Digital Assets | Purview Services",
+ "description": "Payment platforms, wallets and digital asset systems built for regulated environments and national-scale volumes.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Payments & Digital Assets",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Payments & Digital Assets",
+ "lede": "Payment platforms, wallets and digital asset systems built for regulated environments and national-scale volumes.",
+ "actions": [],
+ "image": "payments.jpg",
+ "related": [
+  {
+   "label": "Banking & Financial Services",
+   "href": "/bfsi"
+  },
+  {
+   "label": "Cybersecurity",
+   "href": "/cybersecurity"
+  },
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "T-Wallet",
+   "href": "/twallet"
+  }
+ ],
+ "cta": "Talk to the Payments & Digital Assets team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Payments engineered for trust and scale."
+  },
+  {
+   "type": "text",
+   "text": "Digital wallets, gateways, lending platforms and secure financial integrations."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "National",
+     "label": "scale: a state citizen wallet operated by Purview"
+    },
+    {
+     "value": "100%",
+     "label": "settlement match target, T+0"
+    },
+    {
+     "value": "First time",
+     "label": "scheme certification on recent integrations"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Payments & Digital Assets covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview runs payments at national scale, including state wallet programmes and bank integrations, and brings that engineering discipline to fintech and digital asset platforms. Compliance, reconciliation and security are designed in from the first sprint."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Banks and schemes",
+     "eyebrow": "",
+     "body": "Gateways, switches and UPI/IMPS connectivity built to scheme rules.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Citizen wallets, benefit disbursement and agent networks.",
+     "links": []
+    },
+    {
+     "title": "Fintechs",
+     "eyebrow": "",
+     "body": "Lending, wallets and tokenised assets with compliance designed in.",
+     "links": []
+    },
+    {
+     "title": "Exchanges and custodians",
+     "eyebrow": "",
+     "body": "Blockchain integrations, custody and smart contracts.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Payment platforms and gateways",
+     "body": ""
+    },
+    {
+     "title": "Digital wallets, UPI and IMPS integration",
+     "body": ""
+    },
+    {
+     "title": "Lending and fintech platforms",
+     "body": ""
+    },
+    {
+     "title": "Blockchain, smart contracts and tokenisation",
+     "body": ""
+    },
+    {
+     "title": "Exchange and custody integrations",
+     "body": ""
+    },
+    {
+     "title": "Payments compliance and security",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Regulatory map",
+     "body": "Licensing, scheme rules and data residency settled before architecture."
+    },
+    {
+     "title": "Core build",
+     "body": "Ledger, settlement and reconciliation engineered for audit from day one."
+    },
+    {
+     "title": "Integrate",
+     "body": "Banks, schemes, switches and partner APIs, with certification handled by us."
+    },
+    {
+     "title": "Operate",
+     "body": "24×7 operations with fraud monitoring and SLA reporting."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Citizen wallet at state scale",
+   "body": "State government, India. Purview operates the wallet, agent programme and bank integrations for a state government, including migration from the previous provider without service interruption.",
+   "result": {
+    "value": "0",
+    "label": "downtime at migration"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Settlement accuracy at 100 percent",
+     "body": ""
+    },
+    {
+     "title": "Scheme certification first time",
+     "body": ""
+    },
+    {
+     "title": "Transaction cost per unit falling with volume",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Murex",
+    "Calypso",
+    "Finastra",
+    "OpenLink",
+    "BenePay",
+    "EFUNDZZ"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Are you licensed?",
+     "a": "We build and operate on behalf of licensed entities and partner with licensed PPIs and banks where required."
+    },
+    {
+     "q": "Which platforms?",
+     "a": "Murex, Calypso, Finastra and OpenLink for treasury and trading; our own BenePay and EFUNDZZ for wallets and lending."
+    },
+    {
+     "q": "Security?",
+     "a": "PCI DSS-aligned engineering, VAPT before every release, 24×7 fraud monitoring in operations."
+    }
+   ]
+  }
+ ]
+}

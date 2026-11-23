@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/callohm.html",
+ "route": "/callohm",
+ "template": "editorial",
+ "title": "CallOHM | Purview Services",
+ "description": "CallOHM builds AI voice bots and calling agents that answer, qualify, book, remind and follow up in 30+ languages, with LLM-driven workflows and call…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "CallOHM",
+   "href": null
+  }
+ ],
+ "eyebrow": "AI voice agent platform · a Purview company · callohm.com",
+ "h1": "Voice agents that do the work of the call.",
+ "lede": "CallOHM builds AI voice bots and calling agents that answer, qualify, book, remind and follow up in 30+ languages, with LLM-driven workflows and call analytics behind every conversation. It is offered as a pay-as-you-go SaaS platform and is the home of RabbiT, the agentic recruitment platform.",
+ "actions": [
+  {
+   "label": "callohm.com",
+   "href": "https://callohm.com/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s AI practice",
+   "href": "/ai-solutions",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Try CallOHM",
+   "title": "callohm.com: start with a free credit balance",
+   "body": "Sign up, pick a voice and language, connect a number and run your first calls on prepaid credits, billed per minute with no volume commitment.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open callohm.com",
+     "href": "https://callohm.com/",
+     "external": true
+    },
+    {
+     "label": "RabbiT, built on CallOHM",
+     "href": "/rabbit",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "30+",
+     "label": "languages for inbound and outbound voice"
+    },
+    {
+     "value": "24×7",
+     "label": "agents that answer every call, every time"
+    },
+    {
+     "value": "Per minute",
+     "label": "pay-as-you-go pricing, no volume commitment"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "Agentic AI in production, not in a demo"
+  },
+  {
+   "type": "text",
+   "text": "CallOHM is Purview’s most visible agentic product: real businesses route real calls through it every day. It proves the group can take frontier speech and language models, wrap them in the secure orchestration layer behind SAIE, and run them as a service with billing, analytics and support. The same stack powers RabbiT and the voice channels Purview builds for clients."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What CallOHM does",
+   "text": "Inbound, outbound and everything around the call"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "AI voice bots",
+     "eyebrow": "",
+     "body": "Inbound agents that answer, understand intent and resolve or route, in the caller’s language.",
+     "links": []
+    },
+    {
+     "title": "Calling agents",
+     "eyebrow": "",
+     "body": "Outbound campaigns for reminders, confirmations, collections, surveys and lead qualification.",
+     "links": []
+    },
+    {
+     "title": "LLM voice workflows",
+     "eyebrow": "",
+     "body": "Conversations that read and write to your systems: book, verify, update, escalate.",
+     "links": []
+    },
+    {
+     "title": "Call analytics",
+     "eyebrow": "",
+     "body": "Transcripts, sentiment, outcomes and compliance flags on every call, searchable.",
+     "links": []
+    },
+    {
+     "title": "Telephony and CRM integration",
+     "eyebrow": "",
+     "body": "SIP and cloud telephony, WhatsApp hand-off, CRM and ticketing connectors.",
+     "links": []
+    },
+    {
+     "title": "RabbiT recruitment",
+     "eyebrow": "",
+     "body": "Voice screening, auto-scoring and interview scheduling for hiring at scale.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From script to live agent in days"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Define the job",
+     "body": "Decide what the agent must achieve on a call and what it must never do; set languages and voices."
+    },
+    {
+     "title": "Build the flow",
+     "body": "Persona, knowledge, guardrails and system actions configured in the CallOHM dashboard."
+    },
+    {
+     "title": "Connect",
+     "body": "Numbers, telephony, CRM and calendars linked; test calls run against real scenarios."
+    },
+    {
+     "title": "Launch",
+     "body": "Go live on prepaid credits; agents scale to call volume without queues."
+    },
+    {
+     "title": "Learn",
+     "body": "Analytics show outcomes and drop-offs; flows are tuned and new languages added."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind the platform"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "A multi-model voice stack, orchestrated securely",
+     "eyebrow": "",
+     "body": "CallOHM selects speech models per language from a panel of providers, orchestrates them with large language models through Purview’s secure engine, and runs telephony, billing and analytics as one managed service with human support.",
+     "links": [
+      {
+       "label": "AI Solutions Gen AI and agentic practice",
+       "href": "/ai-solutions",
+       "external": false
+      },
+      {
+       "label": "Helpdesk & Support Human and AI support, together",
+       "href": "/helpdesk",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Where voice agents earn their keep"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Dealerships and service centres",
+     "eyebrow": "",
+     "body": "Service bookings, reminders and feedback calls in local languages.",
+     "links": []
+    },
+    {
+     "title": "Recruiters",
+     "eyebrow": "",
+     "body": "Screening and scheduling at volume, through RabbiT.",
+     "links": []
+    },
+    {
+     "title": "BFSI",
+     "eyebrow": "",
+     "body": "Payment reminders, KYC follow-ups and verification calls with compliance logging.",
+     "links": []
+    },
+    {
+     "title": "Healthcare",
+     "eyebrow": "",
+     "body": "Appointment confirmation, pre-visit instructions and follow-up.",
+     "links": []
+    },
+    {
+     "title": "Government helplines",
+     "eyebrow": "",
+     "body": "Multilingual citizen lines that never queue.",
+     "links": []
+    },
+    {
+     "title": "Any business with a phone number",
+     "eyebrow": "",
+     "body": "Replace the missed call with an answered one.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is CallOHM?",
+     "a": "A Purview company and SaaS platform for AI voice bots, calling agents, LLM voice workflows and call analytics."
+    },
+    {
+     "q": "Which languages?",
+     "a": "30+ languages, including Telugu, Hindi and English, with natural voices chosen per language."
+    },
+    {
+     "q": "How is it priced?",
+     "a": "Pay-as-you-go per minute on prepaid credits, with no committed volume."
+    },
+    {
+     "q": "Can it work with our systems?",
+     "a": "Yes: telephony, CRM, calendars and ticketing through connectors and APIs."
+    },
+    {
+     "q": "Is RabbiT part of CallOHM?",
+     "a": "Yes. RabbiT, the agentic recruitment platform, is built and run by CallOHM."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Voice AI",
+   "text": "Ready to let an agent take the call?"
+  },
+  {
+   "type": "text",
+   "text": "Start on callohm.com, or talk to Purview about a voice channel built for your operation."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit callohm.com",
+     "href": "https://callohm.com/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

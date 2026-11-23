@@ -1,0 +1,260 @@
+{
+ "source": "https://purviewservices.com/carbon-reduction-plan.html",
+ "route": "/carbon-reduction-plan",
+ "template": "editorial",
+ "title": "Carbon Reduction Plan | Purview Services",
+ "description": "Purview Consultancy Services Ltd is committed to achieving Net Zero emissions by 2050. Purview Services is UK-headquartered, with teams in 21 countries.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Company",
+   "href": "/company"
+  },
+  {
+   "label": "Carbon Reduction Plan",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Carbon Reduction Plan",
+ "lede": "Purview Consultancy Services Ltd is committed to achieving Net Zero emissions by 2050.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our plan",
+   "text": "Baseline emissions footprint"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Baseline emissions are a record of the greenhouse gases that have been produced in the past and were produced prior to the introduction of any strategies to reduce emissions. Baseline emissions are the reference point against which emissions reduction can be measured.",
+     "body": ""
+    },
+    {
+     "title": "The Purview Carbon Reduction Plan for the United Kingdom has been completed in compliance with PPN 06/21. Our Carbon Emissions in 2022 have been measured in line with GHG Protocol and details of the calculations for the emissions are available on request.",
+     "body": ""
+    },
+    {
+     "title": "The number of Purview employees varies on an annual basis, but for the purposes of the Plan, it has been assumed that there are ten full time permanent employees, of which four utilise the headquarter building and six are permanent home workers. These assumptions have been used in all calculations.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Emissions",
+     "Total (tCO2e)"
+    ],
+    [
+     "Scope 1",
+     "00.000"
+    ],
+    [
+     "Scope 2",
+     "00.018"
+    ],
+    [
+     "Scope 3 Category 6: 11.858 Category 7: 8.171",
+     "20.029"
+    ],
+    [
+     "Total emissions",
+     "20.047"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Emissions",
+     "Total (tCO2e)"
+    ],
+    [
+     "Scope 1",
+     "00.000"
+    ],
+    [
+     "Scope 2",
+     "00.017"
+    ],
+    [
+     "Scope 3",
+     "19.028"
+    ],
+    [
+     "Total emissions",
+     "19.045"
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Direct emissions",
+   "text": "Scope 1"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Purview are tenants in their headquarter building, which is managed by Citibase and as such all data pertaining to this will be reported by Citibase in their annual reports. As a result, this data has been excluded from this Plan, to avoid double reporting.",
+     "body": ""
+    },
+    {
+     "title": "Purview do not currently have any company vehicles, nor do they provide their staff with company vehicles.",
+     "body": ""
+    },
+    {
+     "title": "As a direct result of the above, Purview have zero emissions from this category included in our emissions data.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Indirect emissions from energy",
+   "text": "Scope 2"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "With regard to the Purview headquarter building, we do not purchase electricity, steam, heating and cooling as it is leased from Citibase, who report this in their annual reports.",
+     "body": ""
+    },
+    {
+     "title": "However, we have measured the emissions released from working from home. This is based upon the assumption that four of our UK based employees spend 4 out of 5 days working from home and the other 1 day from the office, while the remaining six permanent employees work from home every day. In calculating this we have considered heating, lighting and computer consumption.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Value chain emissions",
+   "text": "Scope 3"
+  },
+  {
+   "type": "text",
+   "text": "Purview report against the following categories:"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Category 4: Upstream Transportation and Distribution"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Purview does not purchase / sell goods, so this Category is excluded.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Category 6: Business Travel"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "As a result of the COVID-19 Pandemic and other factors, Business Travel for the Baseline year was limited and it is the intention of Purview to continue to restrict this in coming years and utilise other means of communications.",
+     "body": ""
+    },
+    {
+     "title": "However, in order to calculate an estimated figure we have assumed limited rail and air travel between our employee home locations and key client bases.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Category 7: Employee Commuting"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "As a result of the COVID-19 Pandemic and other factors, Business Travel for the Baseline year was limited and it is the intention of Purview to continue to restrict this in coming years and utilise other means of communications.",
+     "body": ""
+    },
+    {
+     "title": "However, in order to calculate an estimated figure we have assumed limited rail and air travel between our employee home locations and key client bases.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Targets",
+   "text": "Emissions reduction targets"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "While Purview have very low emissions, we will continue our progress to achieving Net Zero and have adopted the following carbon reduction targets.",
+     "body": ""
+    },
+    {
+     "title": "We project that carbon emissions will decrease over the next five years to 15.512 tCO2e by 2027. This is a reduction of 5% per annum.",
+     "body": ""
+    },
+    {
+     "title": "Progress against these targets can be seen in the graph below.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Projects",
+   "text": "Carbon reduction projects"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "While Purview have yet to implement environmental management measures or projects since the 2021 baseline, we are working to establish detailed plans for the future to enable us to achieve our year-on-year targets.",
+     "body": ""
+    },
+    {
+     "title": "However, we will continue to allow hybrid working, allowing employees to work as many days from home as is feasible, to help reduce carbon emissions.",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Request the full plan"
+  },
+  {
+   "type": "text",
+   "text": "A copy of the Purview Carbon Reduction Plan, including our declaration and sign off, is available on request from support@purviewservices.com."
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "source": "https://purviewservices.com/embedded.html",
+ "route": "/embedded",
+ "template": "service",
+ "title": "Embedded Engineering & IoT | Purview Services",
+ "description": "From SoC selection to a fleet of devices you can update in the field. Purview designs boards, writes firmware and ships connected devices, including the…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Embedded Engineering & IoT",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Embedded Engineering & IoT",
+ "lede": "From SoC selection to a fleet of devices you can update in the field.",
+ "actions": [],
+ "image": "embedded.jpg",
+ "related": [
+  {
+   "label": "Edge & Vision AI",
+   "href": "/edge-vision"
+  },
+  {
+   "label": "FMCG & Manufacturing",
+   "href": "/manufacturing"
+  },
+  {
+   "label": "AI Infrastructure",
+   "href": "/ai-infrastructure"
+  },
+  {
+   "label": "Travel, Transportation & Facilities",
+   "href": "/travel"
+  }
+ ],
+ "cta": "Talk to the Embedded Engineering & IoT team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Connected engineering, from device to cloud."
+  },
+  {
+   "type": "text",
+   "text": "Embedded platforms, firmware, IoT and edge integration."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "1 quarter",
+     "label": "prototype to pilot on a typical device programme"
+    },
+    {
+     "value": "Signed OTA",
+     "label": "every device updatable for its whole life"
+    },
+    {
+     "value": "Silicon to fleet",
+     "label": "board, firmware, model and manufacturing in one team"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Embedded Engineering & IoT covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview designs boards, writes firmware and ships connected devices, including the edge boxes our own vision models run on and the telematics units behind Castlematic. Silicon decisions are benchmarked against your real workload, not a datasheet."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "OEMs and product companies",
+     "eyebrow": "",
+     "body": "Need a device designed, certified and manufactured.",
+     "links": []
+    },
+    {
+     "title": "Fleet operators",
+     "eyebrow": "",
+     "body": "Telematics and connected devices at scale.",
+     "links": []
+    },
+    {
+     "title": "AI teams",
+     "eyebrow": "",
+     "body": "A model that must run on a fanless box in the field.",
+     "links": []
+    },
+    {
+     "title": "Industrial",
+     "eyebrow": "",
+     "body": "Ruggedised edge hardware for plants and sites.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "SoC selection and system-on-module integration",
+     "body": ""
+    },
+    {
+     "title": "Custom carrier board design",
+     "body": ""
+    },
+    {
+     "title": "Firmware, BSP, kernel and drivers",
+     "body": ""
+    },
+    {
+     "title": "Secure boot and signed OTA",
+     "body": ""
+    },
+    {
+     "title": "Connected devices and fleet telematics",
+     "body": ""
+    },
+    {
+     "title": "Edge AI model deployment on device",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Workload benchmark",
+     "body": "Candidate silicon measured on your model and your power budget."
+    },
+    {
+     "title": "Board and firmware",
+     "body": "Schematic, layout, BSP and device management in one team."
+    },
+    {
+     "title": "Certify",
+     "body": "EMC, safety and regional approvals handled with our manufacturing partners."
+    },
+    {
+     "title": "Manufacture and deploy",
+     "body": "Pilot runs through Edgeflex and partners, then fleet rollout."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Telematics devices for Castlematic",
+   "body": "Fleet operator. Purview designed the board, firmware and device management behind Castlematic fleet tracking, now deployed across commercial fleets.",
+   "result": {
+    "value": "Fleet",
+    "label": "scale deployment"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Prototype to pilot in one quarter",
+     "body": ""
+    },
+    {
+     "title": "Devices updatable for their whole life",
+     "body": ""
+    },
+    {
+     "title": "Unit cost that scales with volume",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "DeepX",
+    "Kaynes Technology",
+    "Avnet Silica",
+    "Grinn",
+    "Corning",
+    "Edgeflex"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Do you manufacture?",
+     "a": "Through Edgeflex and partners such as Kaynes Technology for pilot and volume runs."
+    },
+    {
+     "q": "Certification?",
+     "a": "EMC, safety and regional approvals handled with our partners."
+    },
+    {
+     "q": "Can you port our model?",
+     "a": "Yes. Quantisation, operator fusion and NPU tuning against your latency and power budget."
+    }
+   ]
+  }
+ ]
+}

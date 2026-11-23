@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/smartpick.html",
+ "route": "/smartpick",
+ "template": "editorial",
+ "title": "SmartPick | Purview Services",
+ "description": "SmartPick is an AR smart glasses solution for picking and packing with real-time backend updates. RFID-enabled automated tracking gives warehouses live…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "SmartPick",
+   "href": null
+  }
+ ],
+ "eyebrow": "Smart Solutions Platform · SmartPick · Purview Technologies · purviewtech.ai",
+ "h1": "Pick, pack and track, hands free and in real time.",
+ "lede": "SmartPick is an AR smart glasses solution for picking and packing with real-time backend updates. RFID-enabled automated tracking gives warehouses live inventory visibility, fewer errors and faster throughput, without a scanner in hand.",
+ "actions": [
+  {
+   "label": "purviewtech.ai",
+   "href": "https://www.purviewtech.ai/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s AI XR practice",
+   "href": "/ai-solutions",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "SmartPick on the Smart Solutions Platform",
+   "title": "Picking · RFID · Realtime",
+   "body": "Guided picking and packing in the worker’s view, RFID tracking of items and locations, and live updates to WMS and ERP as each task completes.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    },
+    {
+     "label": "Arrange a demo",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Hands free",
+     "label": "pick lists and locations in view, no scanner"
+    },
+    {
+     "value": "RFID",
+     "label": "automated tracking without line of sight"
+    },
+    {
+     "value": "Real time",
+     "label": "WMS and ERP updated as the work happens"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "AR-powered solutions designed to improve efficiency across industries"
+  },
+  {
+   "type": "text",
+   "text": "SmartPick is one of four solutions on the Smart Solutions Platform from Purview Technologies, the group’s AI and XR company. The platform puts AR smart glasses, real-time captioning and translation, and Purview’s vision and voice AI into the hands of frontline teams, so the people doing the work see what they need, hands free, and the people supporting them can be anywhere."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What it does",
+   "text": "Capabilities"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Guided picking",
+     "eyebrow": "",
+     "body": "Pick lists, locations and quantities shown in view; confirmation by glance, voice or RFID read.",
+     "links": []
+    },
+    {
+     "title": "Packing and verification",
+     "eyebrow": "",
+     "body": "Order contents verified against the pick as items are packed.",
+     "links": []
+    },
+    {
+     "title": "RFID-enabled tracking",
+     "eyebrow": "",
+     "body": "Items and locations read automatically; no line-of-sight scanning.",
+     "links": []
+    },
+    {
+     "title": "Real-time backend updates",
+     "eyebrow": "",
+     "body": "WMS and ERP updated as each pick, pack and move completes.",
+     "links": []
+    },
+    {
+     "title": "Inventory visibility",
+     "eyebrow": "",
+     "body": "Live stock positions and exceptions on dashboards for supervisors.",
+     "links": []
+    },
+    {
+     "title": "Training and onboarding",
+     "eyebrow": "",
+     "body": "New pickers productive in hours with in-view guidance.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From glasses on to value out"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Integrate",
+     "body": "SmartPick connected to WMS, ERP and RFID infrastructure."
+    },
+    {
+     "title": "Equip",
+     "body": "AR glasses and RFID readers issued to the floor."
+    },
+    {
+     "title": "Pick and pack",
+     "body": "Tasks guided in view and confirmed automatically."
+    },
+    {
+     "title": "Update",
+     "body": "Every action posted to backend systems in real time."
+    },
+    {
+     "title": "Optimise",
+     "body": "Throughput, accuracy and route data used to improve layouts and schedules."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Behind the solution",
+   "text": "Platform and devices"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "One platform, enterprise-grade",
+     "eyebrow": "",
+     "body": "Purview Technologies supplies the AR glasses and RFID integration, runs the SmartPick platform and connects it to warehouse and enterprise systems, with support from Purview’s edge, vision and data teams.",
+     "links": [
+      {
+       "label": "AI Solutions Vision, voice and XR engineering",
+       "href": "/ai-solutions",
+       "external": false
+      },
+      {
+       "label": "Nexable Assistive aids on the same wearable platform",
+       "href": "/nexable",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Where it earns its keep"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "3PL and distribution centres",
+     "eyebrow": "",
+     "body": "High-volume picking with accuracy targets.",
+     "links": []
+    },
+    {
+     "title": "Retail and e-commerce fulfilment",
+     "eyebrow": "",
+     "body": "Peak-season throughput without peak-season errors.",
+     "links": []
+    },
+    {
+     "title": "Manufacturing stores",
+     "eyebrow": "",
+     "body": "Kitting and line-side replenishment.",
+     "links": []
+    },
+    {
+     "title": "Pharma and cold chain",
+     "eyebrow": "",
+     "body": "Traceability with RFID and verification.",
+     "links": []
+    },
+    {
+     "title": "Spare-parts operations",
+     "eyebrow": "",
+     "body": "Fast, accurate picks for service teams.",
+     "links": []
+    },
+    {
+     "title": "Airports and cargo",
+     "eyebrow": "",
+     "body": "Tracking across handling areas.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is SmartPick?",
+     "a": "An AR smart glasses solution from Purview Technologies for picking and packing, with RFID tracking and real-time backend updates."
+    },
+    {
+     "q": "Does it replace handheld scanners?",
+     "a": "Yes for most flows: confirmation is by glance, voice or RFID read, keeping hands free."
+    },
+    {
+     "q": "Which systems does it integrate with?",
+     "a": "WMS and ERP platforms through APIs; details on request."
+    },
+    {
+     "q": "What about RFID infrastructure?",
+     "a": "Purview Technologies designs and supplies the RFID layer alongside the glasses."
+    },
+    {
+     "q": "How do we start?",
+     "a": "Arrange a demo or pilot through purviewtech.ai or Purview’s contact page."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "SmartPick",
+   "text": "Ready to pick faster with fewer errors?"
+  },
+  {
+   "type": "text",
+   "text": "Arrange a SmartPick pilot through purviewtech.ai or Purview."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

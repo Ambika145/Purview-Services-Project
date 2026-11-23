@@ -1,0 +1,124 @@
+{
+ "source": "https://purviewservices.com/customer-success.html",
+ "route": "/customer-success",
+ "template": "editorial",
+ "title": "Customer Success | Purview Services",
+ "description": "Explore selected delivery stories across AI, banking, public services, networks and high-density compute.",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / CUSTOMER SUCCESS",
+ "h1": "Engineering outcomes, not just promises.",
+ "lede": "Explore selected delivery stories across AI, banking, public services, networks and high-density compute. Engagement-specific references and detailed evidence can be shared with qualified clients under NDA.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE CUSTOMER SUCCESS",
+   "text": "Selected delivery stories."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Approximately 500 MW of AI data centre capacity delivered"
+  },
+  {
+   "type": "text",
+   "text": "Our engineering and delivery teams have supported AI data centre programmes spanning GPU installation, cabling, integration, commissioning and operational readiness."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "T-Wallet: digital public services at scale"
+  },
+  {
+   "type": "text",
+   "text": "Citizen payments, recharges and government services through a statewide digital wallet programme."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Technology delivery for regulated financial institutions"
+  },
+  {
+   "type": "text",
+   "text": "Engineering and managed delivery for banking environments where security, reliability and governance are essential."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "From proof of concept to governed workflow"
+  },
+  {
+   "type": "text",
+   "text": "Secure AI orchestration, measurable evaluations and human oversight for enterprise processes."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Installation to managed operations"
+  },
+  {
+   "type": "text",
+   "text": "Multi-location deployment, testing, certification and handover supported by field and service operations."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "DELIVERY EVIDENCE",
+   "text": "~500 MW delivered. Detailed project evidence available under NDA."
+  },
+  {
+   "type": "text",
+   "text": "For qualified customers, Purview can provide a controlled evidence pack by location, customer, delivery scope, phase and supporting documentation, subject to contractual confidentiality obligations."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Request a confidential capability briefing",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

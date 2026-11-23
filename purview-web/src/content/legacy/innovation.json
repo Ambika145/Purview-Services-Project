@@ -1,0 +1,104 @@
+{
+ "source": "https://purviewservices.com/innovation.html",
+ "route": "/innovation",
+ "template": "editorial",
+ "title": "Engineering & Innovation | Purview Services",
+ "description": "Discover how Purview brings together software, AI, networks, embedded engineering and data centre infrastructure in a single delivery system.",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / ENGINEERING & INNOVATION",
+ "h1": "The engineering behind the promise.",
+ "lede": "Discover how Purview brings together software, AI, networks, embedded engineering and data centre infrastructure in a single delivery system.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE ENGINEERING & INNOVATION",
+   "text": "How we engineer, from workload to operations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Start with the workload"
+  },
+  {
+   "type": "text",
+   "text": "Clarify the business outcome, operational constraints, data boundary, latency, power, economics and risk profile."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Design across application and infrastructure"
+  },
+  {
+   "type": "text",
+   "text": "Connect data architecture, AI models, software, networks, GPU environments and operating processes before implementation."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Prototype, test and validate"
+  },
+  {
+   "type": "text",
+   "text": "Use labs, staged environments, test automation, commissioning procedures and acceptance criteria to reduce execution risk."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Build for production"
+  },
+  {
+   "type": "text",
+   "text": "Apply release governance, physical installation controls, secure integration and documented handover."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Run and improve"
+  },
+  {
+   "type": "text",
+   "text": "Monitor performance, cost, security and service quality, then optimise the environment over time."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

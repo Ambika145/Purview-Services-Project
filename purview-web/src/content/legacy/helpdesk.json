@@ -1,0 +1,261 @@
+{
+ "source": "https://purviewservices.com/helpdesk.html",
+ "route": "/helpdesk",
+ "template": "service",
+ "title": "Help Desk Services | Purview Services",
+ "description": "Multilingual L1 and L2 service desk, ITIL-aligned, running 24×7 from delivery centres in five countries. Our service desks answer in English, Hindi, Polish…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Help Desk Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Help Desk Services",
+ "lede": "Multilingual L1 and L2 service desk, ITIL-aligned, running 24×7 from delivery centres in five countries.",
+ "actions": [],
+ "image": "helpdesk.jpg",
+ "related": [
+  {
+   "label": "Managed IT Support",
+   "href": "/it-support"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  },
+  {
+   "label": "Managed Application Services",
+   "href": "/app-managed"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "RabbiT AI recruitment",
+   "href": "/rabbit"
+  },
+  {
+   "label": "BeeRef referral hiring",
+   "href": "/beeref"
+  }
+ ],
+ "cta": "Talk to the Help Desk Services team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Human support backed by intelligent operations."
+  },
+  {
+   "type": "text",
+   "text": "Responsive, multilingual enterprise support."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "24×7",
+     "label": "multilingual service desk from five centres"
+    },
+    {
+     "value": ">75%",
+     "label": "first-contact resolution target"
+    },
+    {
+     "value": "XLA",
+     "label": "experience-level reporting, not just SLAs"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Help Desk Services covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Our service desks answer in English, Hindi, Polish and the languages of the markets we serve, and increasingly resolve rather than route: AI-assisted triage and self-service cut the tickets that reach a human, which is the only way a help desk gets cheaper every year."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Enterprises",
+     "eyebrow": "",
+     "body": "A global service desk in the languages of the markets you serve.",
+     "links": []
+    },
+    {
+     "title": "Technology companies",
+     "eyebrow": "",
+     "body": "White-glove support for engineers and executives.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Citizen and staff support desks at scale.",
+     "links": []
+    },
+    {
+     "title": "Growing firms",
+     "eyebrow": "",
+     "body": "A desk without building one.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "24×7 L1 and L2 service desk",
+     "body": ""
+    },
+    {
+     "title": "Multilingual support",
+     "body": ""
+    },
+    {
+     "title": "AI-assisted triage and self-service",
+     "body": ""
+    },
+    {
+     "title": "ITIL processes and tooling",
+     "body": ""
+    },
+    {
+     "title": "Knowledge management",
+     "body": ""
+    },
+    {
+     "title": "Experience-level agreements (XLAs)",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Transition",
+     "body": "Knowledge capture and shadowing in four to eight weeks."
+    },
+    {
+     "title": "Stabilise",
+     "body": "SLA baseline, then targets reset against real data."
+    },
+    {
+     "title": "Shift left",
+     "body": "Automation and knowledge so fewer tickets need people."
+    },
+    {
+     "title": "Report",
+     "body": "Monthly XLA reporting on how users feel, not just how fast we closed."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Global service desk transition",
+   "body": "Technology major. Knowledge capture, shadowing and cutover in six weeks, followed by shift-left automation that reduced ticket volume year on year.",
+   "result": {
+    "value": "18%",
+    "label": "fewer tickets, year one"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "First-contact resolution above 75 percent",
+     "body": ""
+    },
+    {
+     "title": "Ticket volume falling year on year",
+     "body": ""
+    },
+    {
+     "title": "User satisfaction measured monthly",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "ServiceNow",
+    "Dynamics 365"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Languages?",
+     "a": "English, Hindi, Polish and the languages of our delivery markets; others on request."
+    },
+    {
+     "q": "Tooling?",
+     "a": "ServiceNow, Dynamics 365 or your own ITSM."
+    },
+    {
+     "q": "How fast can you start?",
+     "a": "Transition in four to eight weeks depending on estate size."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "source": "https://purviewservices.com/volume-recruitment.html",
+ "route": "/volume-recruitment",
+ "template": "service",
+ "title": "Volume, Contract & Perm Recruitment | Purview Services",
+ "description": "High-volume campaigns and specialist placements across 21 countries. Purview recruits for its own 2,500-strong workforce and for clients: volume hiring for…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Volume, Contract & Perm Recruitment",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Volume, Contract & Perm Recruitment",
+ "lede": "High-volume campaigns and specialist placements across 21 countries.",
+ "actions": [],
+ "image": "volume-recruitment.jpg",
+ "related": [
+  {
+   "label": "Recruit, Train, Deploy",
+   "href": "/rtd"
+  },
+  {
+   "label": "Contract Payroll",
+   "href": "/payroll"
+  },
+  {
+   "label": "Market Insights",
+   "href": "/market-insights"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "RabbiT AI recruitment",
+   "href": "/rabbit"
+  },
+  {
+   "label": "BeeRef referral hiring",
+   "href": "/beeref"
+  }
+ ],
+ "cta": "Talk to the Volume, Contract & Perm Recruitment team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Hiring at scale, in 21 countries."
+  },
+  {
+   "type": "text",
+   "text": "Volume campaigns and specialist permanent placements, screened by RabbiT."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "21",
+     "label": "countries we hire in"
+    },
+    {
+     "value": ">85%",
+     "label": "offer acceptance target"
+    },
+    {
+     "value": "Weeks",
+     "label": "time to hire on volume campaigns"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Volume, Contract & Perm Recruitment covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview recruits for its own 2,500-strong workforce and for clients: volume hiring for service desks and field teams, contract engineers for programmes, and permanent specialists in AI, networks and security."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Service desk and field operations",
+     "eyebrow": "",
+     "body": "Hundreds of hires on a timeline.",
+     "links": []
+    },
+    {
+     "title": "Programmes",
+     "eyebrow": "",
+     "body": "Contract engineers for a defined scope.",
+     "links": []
+    },
+    {
+     "title": "Specialist roles",
+     "eyebrow": "",
+     "body": "AI, networks and security, permanent.",
+     "links": []
+    },
+    {
+     "title": "New country entry",
+     "eyebrow": "",
+     "body": "Hiring before you have an entity.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Volume hiring campaigns",
+     "body": ""
+    },
+    {
+     "title": "Contract and SOW staffing",
+     "body": ""
+    },
+    {
+     "title": "Permanent and executive search",
+     "body": ""
+    },
+    {
+     "title": "Technical assessment and screening",
+     "body": ""
+    },
+    {
+     "title": "In-country compliance",
+     "body": ""
+    },
+    {
+     "title": "Onboarding and retention programmes",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Brief",
+     "body": "Role, market and timeline, with rate intelligence from our market insights."
+    },
+    {
+     "title": "Source",
+     "body": "Multi-channel campaigns and our own talent pools."
+    },
+    {
+     "title": "Assess",
+     "body": "Technical and language screening by practitioners."
+    },
+    {
+     "title": "Place",
+     "body": "Compliant contracts in each jurisdiction."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Field engineering campaign",
+   "body": "Carrier, UK. Multi-region campaign with technical screening by practitioners and compliant contracts in each jurisdiction, filled ahead of rollout.",
+   "result": {
+    "value": "On time",
+    "label": "ahead of rollout"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Time to hire in weeks",
+     "body": ""
+    },
+    {
+     "title": "Offer acceptance above 85 percent",
+     "body": ""
+    },
+    {
+     "title": "Retention past twelve months",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Rates?",
+     "a": "Benchmarked by our market insights before negotiation."
+    },
+    {
+     "q": "Compliance?",
+     "a": "In-country contracts through our entities or contract payroll."
+    },
+    {
+     "q": "Retention?",
+     "a": "Onboarding and retention programmes are part of the service."
+    }
+   ]
+  }
+ ]
+}

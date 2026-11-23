@@ -1,0 +1,218 @@
+{
+ "source": "https://purviewservices.com/workforce.html",
+ "route": "/workforce",
+ "template": "editorial",
+ "title": "Workforce Solutions | Purview Services",
+ "description": "2,500 professionals across 21 countries, hired by our own agentic AI platform, certified in our labs and deployed on our floors and yours.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "The people side of delivery",
+ "lede": "2,500 professionals across 21 countries, hired by our own agentic AI platform, certified in our labs and deployed on our floors and yours.",
+ "actions": [],
+ "image": "workforce-band.jpg",
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The Purview approach",
+   "text": "Technology enabled. People delivered."
+  },
+  {
+   "type": "text",
+   "text": "Specialist hiring, recruitment technology and delivery teams designed to support projects from mobilisation through steady-state operations."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore RabbiT",
+     "href": "/rabbit",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "PURVIEW ENGINEERING",
+   "text": "People who can deliver on day one"
+  },
+  {
+   "type": "text",
+   "text": "Specialist recruitment, training and deployment supported by intelligent workforce platforms."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore our work",
+     "href": "/customer-success",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our USP · RabbiT by CallOHM",
+   "text": "Stop screening. Start hiring."
+  },
+  {
+   "type": "text",
+   "text": "RabbiT is Purview's agentic AI recruitment platform. It calls, qualifies and schedules every applicant in their own language (30+ languages), scores every conversation against the role and keeps the whole pipeline on one board. It is how we staff our own 2,500-person workforce, and it is available to clients."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "See how RabbiT works",
+     "href": "/rabbit",
+     "external": false
+    },
+    {
+     "label": "talentrabbit.callohm.com",
+     "href": "https://talentrabbit.callohm.com/",
+     "external": true
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Screen in their language, auto-score every answer",
+     "body": ""
+    },
+    {
+     "title": "Interviews booked into open slots automatically",
+     "body": ""
+    },
+    {
+     "title": "Human-sounding follow-ups from offer to acceptance",
+     "body": ""
+    },
+    {
+     "title": "One pipeline, sourcing to signed, at a glance",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Recruit, Train, Deploy",
+     "eyebrow": "",
+     "body": "Certified lead engineers and technicians trained in our labs with tooling, AR/VR and real racks, then deployed floor-ready wherever the work is.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "BeeRef: refer, hire, reward",
+     "eyebrow": "Platform · built and run by Purview",
+     "body": "Referral hiring platform covering the process from job opening to a correctly paid referral reward: careers pages, referral chains of up to three people with one fair owner per candidate, AI screening that ranks applicants, client stages, probation tracking, and a rewards wallet with insights.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/beeref",
+       "external": false
+      },
+      {
+       "label": "beeref.com",
+       "href": "https://beeref.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Volume, Contract & Perm Recruitment",
+     "eyebrow": "",
+     "body": "High-volume hiring campaigns and specialist permanent placements across technology, engineering and operations roles.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Offshore & Nearshore Solutions",
+     "eyebrow": "",
+     "body": "Delivery centres in Hyderabad, Pune, Bengaluru, Chennai, Poland, Singapore and Sydney, with UK and US account leadership.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Time-based & SOW Delivery",
+     "eyebrow": "",
+     "body": "Outcome-priced statements of work with one accountable owner, or time-based teams when the scope is still moving.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Contract Payroll",
+     "eyebrow": "",
+     "body": "Compliant in-country payrolling and contractor management across our 21 entities.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Discovery Audits",
+     "eyebrow": "",
+     "body": "Baseline your estate, skills and spend before a transformation, so the plan starts from facts.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Market Insights",
+     "eyebrow": "",
+     "body": "Talent availability, rate cards and location intelligence for the markets we operate in.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

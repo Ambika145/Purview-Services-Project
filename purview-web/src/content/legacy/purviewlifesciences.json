@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/purviewlifesciences.html",
+ "route": "/purviewlifesciences",
+ "template": "editorial",
+ "title": "Purview Lifesciences | Purview Services",
+ "description": "Purview Life Sciences Pvt Ltd distils and recovers solvents and manufactures pharmaceutical intermediates, including Trityl Chloride, at its ISO 9001:2015…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "Purview Lifesciences",
+   "href": null
+  }
+ ],
+ "eyebrow": "Solvent distillation and intermediates · a Purview company · purviewlifesciences.com",
+ "h1": "Solvents recovered. Intermediates made.",
+ "lede": "Purview Life Sciences Pvt Ltd distils and recovers solvents and manufactures pharmaceutical intermediates, including Trityl Chloride, at its ISO 9001:2015 plant in Keesaragutta, Hyderabad, with a GMP facility for APIs and intermediates planned.",
+ "actions": [
+  {
+   "label": "purviewlifesciences.com",
+   "href": "https://purviewlifesciences.com/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s Healthcare & Life Sciences vertical",
+   "href": "/healthcare",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Visit Purview Lifesciences",
+   "title": "purviewlifesciences.com: products, plant and enquiries",
+   "body": "Product list, plant capabilities, quality documentation and enquiry details for distillation and intermediates.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewlifesciences.com",
+     "href": "https://purviewlifesciences.com/",
+     "external": true
+    },
+    {
+     "label": "Enquire through Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "500 KL",
+     "label": "total storage capacity at the Hyderabad plant"
+    },
+    {
+     "value": "ISO 9001:2015",
+     "label": "certified quality management"
+    },
+    {
+     "value": "SS and glass",
+     "label": "distillation columns and reactors"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "The group’s manufacturing foothold in pharma"
+  },
+  {
+   "type": "text",
+   "text": "Purview Life Sciences anchors the Life Sciences half of the group’s Healthcare and Life Sciences vertical, in Hyderabad’s pharmaceutical corridor. It gives Purview a manufacturing business alongside its healthcare operations and a route into GMP intermediates and APIs."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Purview Lifesciences does",
+   "text": "Distillation, recovery and intermediates"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Solvent distillation",
+     "eyebrow": "",
+     "body": "Purification of industrial and pharmaceutical solvents to specification.",
+     "links": []
+    },
+    {
+     "title": "Solvent recovery",
+     "eyebrow": "",
+     "body": "Recovery of spent solvents for reuse, reducing cost and waste for pharma clients.",
+     "links": []
+    },
+    {
+     "title": "Trityl Chloride",
+     "eyebrow": "",
+     "body": "Manufacture of Trityl Chloride, a protecting-group intermediate for pharmaceutical synthesis.",
+     "links": []
+    },
+    {
+     "title": "Custom and toll processing",
+     "eyebrow": "",
+     "body": "Distillation campaigns run to client specifications.",
+     "links": []
+    },
+    {
+     "title": "Quality and documentation",
+     "eyebrow": "",
+     "body": "Certificates of analysis and quality records under ISO 9001:2015.",
+     "links": []
+    },
+    {
+     "title": "GMP roadmap",
+     "eyebrow": "",
+     "body": "Planned GMP facility for APIs and intermediates.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From enquiry to despatch"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Specify",
+     "body": "Solvent or intermediate, grade and volume agreed with quality parameters."
+    },
+    {
+     "title": "Sample and approve",
+     "body": "Trial batch or sample analysed and approved by the client."
+    },
+    {
+     "title": "Process",
+     "body": "Distillation or synthesis campaign run in stainless steel or glass equipment."
+    },
+    {
+     "title": "Test",
+     "body": "Batch analysis and certificate of analysis issued."
+    },
+    {
+     "title": "Despatch",
+     "body": "Packed and despatched with documentation; recovered solvent returned to the client where applicable."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "The plant"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Keesaragutta, Hyderabad",
+     "eyebrow": "",
+     "body": "Stainless steel and glass distillation columns and reactors with 500 KL of storage, run under an ISO 9001:2015 quality system, promoted and led by a team with pharmaceutical manufacturing backgrounds.",
+     "links": [
+      {
+       "label": "Healthcare & Life Sciences The vertical",
+       "href": "/healthcare",
+       "external": false
+      },
+      {
+       "label": "Manufacturing Industrial context",
+       "href": "/manufacturing",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Pharma and chemical manufacturers"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "API manufacturers",
+     "eyebrow": "",
+     "body": "Recovered and purified solvents, and protecting-group intermediates.",
+     "links": []
+    },
+    {
+     "title": "CDMOs and formulation plants",
+     "eyebrow": "",
+     "body": "Solvent recovery to lower cost and waste.",
+     "links": []
+    },
+    {
+     "title": "Speciality chemical producers",
+     "eyebrow": "",
+     "body": "Custom distillation campaigns.",
+     "links": []
+    },
+    {
+     "title": "Research and pilot plants",
+     "eyebrow": "",
+     "body": "Small-batch intermediates to specification.",
+     "links": []
+    },
+    {
+     "title": "Distributors",
+     "eyebrow": "",
+     "body": "Reliable supply of specified-grade solvents.",
+     "links": []
+    },
+    {
+     "title": "Sustainability programmes",
+     "eyebrow": "",
+     "body": "Recovery that keeps solvents in use.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is Purview Lifesciences?",
+     "a": "Purview Life Sciences Pvt Ltd, the Purview Group’s solvent distillation and pharmaceutical intermediates company in Hyderabad."
+    },
+    {
+     "q": "Where is the plant?",
+     "a": "Keesaragutta, Hyderabad, with 500 KL of storage and stainless steel and glass equipment."
+    },
+    {
+     "q": "Is it certified?",
+     "a": "ISO 9001:2015 for quality management; a GMP facility is planned."
+    },
+    {
+     "q": "What intermediates?",
+     "a": "Trityl Chloride today, with further intermediates and APIs on the GMP roadmap."
+    },
+    {
+     "q": "How do we enquire?",
+     "a": "Through purviewlifesciences.com or Purview’s contact page."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Life sciences",
+   "text": "Need solvents or intermediates?"
+  },
+  {
+   "type": "text",
+   "text": "Visit purviewlifesciences.com, or enquire through Purview."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewlifesciences.com",
+     "href": "https://purviewlifesciences.com/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

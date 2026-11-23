@@ -1,0 +1,255 @@
+{
+ "source": "https://purviewservices.com/qa-managed.html",
+ "route": "/qa-managed",
+ "template": "service",
+ "title": "Managed QA Services | Purview Services",
+ "description": "Test automation, performance engineering and release assurance as a service. Quality is measured, not asserted.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Managed QA Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Managed QA Services",
+ "lede": "Test automation, performance engineering and release assurance as a service.",
+ "actions": [],
+ "image": "qa-managed.jpg",
+ "related": [
+  {
+   "label": "Digital Product Engineering",
+   "href": "/digital-engineering"
+  },
+  {
+   "label": "Managed Software Development",
+   "href": "/dev-managed"
+  },
+  {
+   "label": "Managed Application Services",
+   "href": "/app-managed"
+  },
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  }
+ ],
+ "cta": "Talk to the Managed QA Services team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Release assurance, measured."
+  },
+  {
+   "type": "text",
+   "text": "Test automation, performance engineering and coverage you can see."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": ">80%",
+     "label": "automation coverage target"
+    },
+    {
+     "value": "Hours",
+     "label": "regression cycle instead of weeks"
+    },
+    {
+     "value": "AI eval",
+     "label": "harnesses for agent and model testing"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Managed QA Services covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Quality is measured, not asserted. Purview runs QA as a managed service with automation coverage, performance baselines and release gates reported every sprint, for custom software and enterprise platforms alike."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Release managers",
+     "eyebrow": "",
+     "body": "Gates enforced, not argued.",
+     "links": []
+    },
+    {
+     "title": "Product teams",
+     "eyebrow": "",
+     "body": "Automation built into CI/CD.",
+     "links": []
+    },
+    {
+     "title": "AI teams",
+     "eyebrow": "",
+     "body": "Evaluation harnesses for agents and models.",
+     "links": []
+    },
+    {
+     "title": "Regulated firms",
+     "eyebrow": "",
+     "body": "Evidence of testing for auditors.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Test automation frameworks",
+     "body": ""
+    },
+    {
+     "title": "Performance and load engineering",
+     "body": ""
+    },
+    {
+     "title": "Release assurance and gating",
+     "body": ""
+    },
+    {
+     "title": "Accessibility and security testing",
+     "body": ""
+    },
+    {
+     "title": "Test data management",
+     "body": ""
+    },
+    {
+     "title": "QA for AI systems: evaluation harnesses",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "Coverage, flakiness and cycle time baselined."
+    },
+    {
+     "title": "Automate",
+     "body": "Framework and pipelines built into CI/CD."
+    },
+    {
+     "title": "Gate",
+     "body": "Release criteria agreed and enforced."
+    },
+    {
+     "title": "Report",
+     "body": "Coverage, defects and performance trends every sprint."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Release assurance",
+   "body": "Retailer. Automation framework and performance baselines built into pipelines; regression moved from two weeks to four hours with gates enforced per release.",
+   "result": {
+    "value": "4 hrs",
+    "label": "full regression"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Automation coverage above 80 percent",
+     "body": ""
+    },
+    {
+     "title": "Regression in hours, not weeks",
+     "body": ""
+    },
+    {
+     "title": "Production defects trending down",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Selenium",
+    "Playwright",
+    "JMeter",
+    "Dynatrace"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Frameworks?",
+     "a": "Selenium, Playwright and JMeter as standard; your stack if you have one."
+    },
+    {
+     "q": "Can you test AI?",
+     "a": "Yes. Evaluation sets, drift checks and red-team prompts for agents and models."
+    },
+    {
+     "q": "Reporting?",
+     "a": "Coverage, defects and performance trends every sprint."
+    }
+   ]
+  }
+ ]
+}

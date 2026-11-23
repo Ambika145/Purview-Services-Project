@@ -1,0 +1,203 @@
+{
+ "source": "https://purviewservices.com/managed.html",
+ "route": "/managed",
+ "template": "editorial",
+ "title": "Managed IT Services | Purview Services",
+ "description": "Managed services from delivery centres in the UK, Poland, Singapore, Australia and India, with SLAs we sign against and a 24×7 NOC behind them.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Run, support and secure what you already have",
+ "lede": "Managed services from delivery centres in the UK, Poland, Singapore, Australia and India, with SLAs we sign against and a 24×7 NOC behind them.",
+ "actions": [],
+ "image": "managed-feature.jpg",
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "PURVIEW ENGINEERING",
+   "text": "Always-on operations. Built around your estate."
+  },
+  {
+   "type": "text",
+   "text": "Service teams, monitoring, engineering and governance working together across business-critical environments."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore our work",
+     "href": "/customer-success",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The Purview approach",
+   "text": "Operations that stay accountable"
+  },
+  {
+   "type": "text",
+   "text": "Critical infrastructure needs people, processes and observability around the clock. Explore how Purview supports the estates that enterprises depend on."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Explore managed infrastructure",
+     "href": "/",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Help Desk Services",
+     "eyebrow": "",
+     "body": "Multilingual L1 and L2 service desk, ITIL-aligned, with self-service and AI-assisted triage that cuts ticket volume rather than just answering it faster.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Infrastructure Managed Services",
+     "eyebrow": "",
+     "body": "Hybrid estate operations: servers, storage, networks and cloud under one NOC, with observability tooling and capacity planning built in.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Managed Application Services",
+     "eyebrow": "",
+     "body": "Application support and enhancement for enterprise platforms including SAP, Salesforce, ServiceNow, Pega and custom estates.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Managed IT Support",
+     "eyebrow": "",
+     "body": "End-user computing, device lifecycle, field support and white-glove installation for offices, labs and towers.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Managed Security Services",
+     "eyebrow": "",
+     "body": "SOC as a service, SIEM, vulnerability management and incident response, now extended to AI and LLM estates.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Managed Software Development",
+     "eyebrow": "",
+     "body": "Dedicated product teams you keep for years, run to your backlog, your tooling and your release cadence.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Managed QA Services",
+     "eyebrow": "",
+     "body": "Test automation, performance engineering and release assurance delivered as a service with measurable coverage.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Structured Cabling & Smart Hands",
+     "eyebrow": "",
+     "body": "Cat6A and fibre design, installation and certification, plus IMACD, rack and stack and relocation support. 24 years of cabling, now part of Purview DC.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/dc-cabling",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Network Solutions (design and build)",
+     "eyebrow": "",
+     "body": "Not a managed service in itself: the practice that surveys, designs, installs and secures a new or refreshed network. Once live, it can be run under Infrastructure Managed Services.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/dc-networks",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Managed AV Services",
+     "eyebrow": "",
+     "body": "Three support tiers for AV and conferencing estates: remote helpdesk (4-hour response), on-site response (next business day) and fully managed with proactive monitoring, quarterly maintenance and 2-hour 24/7 response.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/av",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Data centre operations",
+     "eyebrow": "",
+     "body": "Smart hands, L1 to L3 engineers and hyperscaler-grade operations for GPU floors, run by Purview DC.",
+     "links": [
+      {
+       "label": "purviewdc.com",
+       "href": "https://purviewdc.com",
+       "external": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

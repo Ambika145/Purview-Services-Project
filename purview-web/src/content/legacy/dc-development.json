@@ -1,0 +1,178 @@
+{
+ "source": "https://purviewservices.com/dc-development.html",
+ "route": "/dc-development",
+ "template": "editorial",
+ "title": "Data Centre Development | Purview Services",
+ "description": "Purview develops hyperscale capacity itself: originating power-secured sites, structuring bankable projects and building AI-ready campuses in the UK and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": "/purview-dc"
+  },
+  {
+   "label": "Development",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "We also develop and build capacity.",
+ "lede": "Purview develops hyperscale capacity itself: originating power-secured sites, structuring bankable projects and building AI-ready campuses in the UK and India, with a 300 MW+ development pipeline.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "300 MW+",
+     "label": "hyperscale development pipeline"
+    },
+    {
+     "value": "UK and India",
+     "label": "AI growth corridors and Indian states"
+    },
+    {
+     "value": "3 models",
+     "label": "build-to-suit, powered shell, turnkey"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project register",
+   "text": "Flagship, pipeline and live platforms."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Flagship AI data centre"
+  },
+  {
+   "type": "text",
+   "text": "Middle East. End-to-end delivery of a regional AI facility for an AI cloud operator: GPU-dense halls, high-density power distribution, advanced cooling, full design, build and commissioning."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Hyderabad hyperscale"
+  },
+  {
+   "type": "text",
+   "text": "Telangana, India. Build-to-suit hyperscale campus backed by a bonded AI logistics hub (GigaPort)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Glasgow AI Growth Zone"
+  },
+  {
+   "type": "text",
+   "text": "Scotland, UK. Consented site with grid energisation scheduled for 2028, within the Scottish AI Growth Zone."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Government platforms"
+  },
+  {
+   "type": "text",
+   "text": "India. Sovereign state data centres, HPC estates and security operations centres in production."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Full-stack development",
+   "text": "Develop. Build. Operate. Finance."
+  },
+  {
+   "type": "text",
+   "text": "Grid connection is the main constraint of the AI era. Purview controls sites with secured power and consents in UK AI growth corridors and Indian states, then builds and operates them."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Develop",
+     "eyebrow": "",
+     "body": "Site origination and land control Planning and consents Grid connection and utility coordination AI Growth Zone and state-incentive structuring",
+     "links": []
+    },
+    {
+     "title": "Build",
+     "eyebrow": "",
+     "body": "Build-to-suit and powered-shell delivery designed for GPU density High-density power and liquid-cooling design Hyperscaler-specification delivery",
+     "links": []
+    },
+    {
+     "title": "Operate",
+     "eyebrow": "",
+     "body": "24×7 facility management Managed services Security operations centre delivery Sovereign and regulated workloads",
+     "links": []
+    },
+    {
+     "title": "Finance",
+     "eyebrow": "",
+     "body": "Export-finance-aligned structures Investor-grade modelling Government partnership frameworks",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Power-secured sites",
+     "eyebrow": "",
+     "body": "Scalable sites with permitted land and secured power, with good access to major fibre networks and utility providers.",
+     "links": []
+    },
+    {
+     "title": "Flexible models",
+     "eyebrow": "",
+     "body": "Build-to-own, build-to-rent, fully fitted turnkey, or tailored powered shell and core.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Development on purviewdc.com ↗"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project enquiries",
+   "text": "Talk to us about build-to-suit capacity and co-development."
+  },
+  {
+   "type": "text",
+   "text": "Tell us the target market, capacity, timeline and whether you need powered shell, fully fitted or build-to-suit."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Open the enquiry form",
+     "href": "https://purviewdc.com/contact.html",
+     "external": true
+    },
+    {
+     "label": "Contact Purview Group",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

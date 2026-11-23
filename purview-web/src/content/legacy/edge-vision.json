@@ -1,0 +1,262 @@
+{
+ "source": "https://purviewservices.com/edge-vision.html",
+ "route": "/edge-vision",
+ "template": "service",
+ "title": "Edge & Vision AI | Purview Services",
+ "description": "Models that hold real-time latency inside a fanless box on your floor, your road or your gate. Vision and edge AI is where applications meet physical…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "Edge & Vision AI",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Edge & Vision AI",
+ "lede": "Models that hold real-time latency inside a fanless box on your floor, your road or your gate.",
+ "actions": [],
+ "image": "edge-vision.jpg",
+ "related": [
+  {
+   "label": "Embedded Engineering & IoT",
+   "href": "/embedded"
+  },
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "FMCG & Manufacturing",
+   "href": "/manufacturing"
+  },
+  {
+   "label": "Travel, Transportation & Facilities",
+   "href": "/travel"
+  }
+ ],
+ "cta": "Talk to the Edge & Vision AI team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Intelligence at the edge."
+  },
+  {
+   "type": "text",
+   "text": "Computer vision, connected devices and real-time intelligence for physical operations."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "<100 ms",
+     "label": "decisions at the edge on fanless devices"
+    },
+    {
+     "value": "Fleet",
+     "label": "OTA updates across hundreds of endpoints in hours"
+    },
+    {
+     "value": "Both sides",
+     "label": "we tune the model and design the box it runs on"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Edge & Vision AI covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Vision and edge AI is where applications meet physical infrastructure, and Purview works both sides: we quantise and tune models for edge silicon, design the devices they run on and deploy them at scale for safety, traffic, retail and industrial inspection."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Plant and site safety",
+     "eyebrow": "",
+     "body": "Pedestrian and worker safety zones, PPE and intrusion detection.",
+     "links": []
+    },
+    {
+     "title": "Cities and operators",
+     "eyebrow": "",
+     "body": "ANPR, traffic flow and crowd analytics.",
+     "links": []
+    },
+    {
+     "title": "Manufacturers",
+     "eyebrow": "",
+     "body": "Inspection on the line and defect capture.",
+     "links": []
+    },
+    {
+     "title": "Retail and venues",
+     "eyebrow": "",
+     "body": "Footfall, queue and dwell analytics.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Edge vision AI solutions",
+     "body": ""
+    },
+    {
+     "title": "Edge SLM and on-device inference",
+     "body": ""
+    },
+    {
+     "title": "AIoT pedestrian and worker safety",
+     "body": ""
+    },
+    {
+     "title": "Footfall and crowd management",
+     "body": ""
+    },
+    {
+     "title": "ANPR and traffic flow analytics",
+     "body": ""
+    },
+    {
+     "title": "Industrial inspection and safety",
+     "body": ""
+    },
+    {
+     "title": "Edge MLOps and model optimisation",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Site survey",
+     "body": "Cameras, lighting, network and power assessed before any model work."
+    },
+    {
+     "title": "Model to device",
+     "body": "Quantisation, operator fusion and NPU tuning against the real workload."
+    },
+    {
+     "title": "Deploy fleet",
+     "body": "Signed OTA, device management and dashboards for hundreds of endpoints."
+    },
+    {
+     "title": "Improve",
+     "body": "Edge MLOps loop with labelled data flowing back to retrain."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "AIoT pedestrian safety",
+   "body": "Industrial site, India. Vision models quantised for edge silicon, deployed on Purview-designed devices across vehicle zones with alerts to operators and a fleet dashboard.",
+   "result": {
+    "value": "Real-time",
+    "label": "incident alerts, on-device"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Sub-100 ms decisions at the edge",
+     "body": ""
+    },
+    {
+     "title": "Incidents detected before they become claims",
+     "body": ""
+    },
+    {
+     "title": "Fleet-wide updates in hours, not weeks",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "NVIDIA",
+    "DeepX",
+    "Bosch",
+    "Pelco",
+    "Avigilon",
+    "Motorola Solutions",
+    "Kaynes Technology"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Do you need cloud?",
+     "a": "No. Inference runs on the device; the cloud is for fleet management and retraining."
+    },
+    {
+     "q": "Which silicon?",
+     "a": "NVIDIA, DeepX and others, benchmarked on your model and power budget."
+    },
+    {
+     "q": "Privacy?",
+     "a": "Analytics are computed on device; video need not leave the site."
+    }
+   ]
+  }
+ ]
+}

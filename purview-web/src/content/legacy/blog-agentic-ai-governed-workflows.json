@@ -1,0 +1,186 @@
+{
+ "source": "https://purviewservices.com/blog-agentic-ai-governed-workflows.html",
+ "route": "/blog-agentic-ai-governed-workflows",
+ "template": "article",
+ "title": "Running Agentic AI in Production | Purview Services",
+ "description": "Most agentic AI pilots stall between the demo and production. Here is the four-step path we use to take agents through security review and into daily…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Blog",
+   "href": "/blog"
+  },
+  {
+   "label": "AI & Agents",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "From proof of concept to governed workflow",
+ "lede": "Most agentic AI pilots stall between the demo and production. Here is the four-step path we use to take agents through security review and into daily operation in regulated enterprises.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Agentic AI promises to take on whole workflows, not just answer questions: reading documents, checking records, deciding routine cases and routing the rest. In regulated industries the appetite is real, because the workflows are high-volume and expensive. Yet most enterprise agent programmes never get past the pilot."
+  },
+  {
+   "type": "text",
+   "text": "The reasons are rarely about the model. They are about evidence, control and ownership."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Why agent pilots stall"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "No agreed definition of success.",
+     "body": "The pilot “looks promising”, but nobody agreed in advance what score would justify production."
+    },
+    {
+     "title": "No audit trail.",
+     "body": "A regulator, or an internal risk team, asks why the agent made a decision, and there is no record to show them."
+    },
+    {
+     "title": "Security review arrives late.",
+     "body": "The pilot used data or endpoints that would never be approved for production."
+    },
+    {
+     "title": "Lock-in.",
+     "body": "The workflow was built around one model, and the model policy changes."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Each of these is avoidable if it is designed in from the start."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Step 1",
+   "text": "Start from the problem statement"
+  },
+  {
+   "type": "text",
+   "text": "We start from the decision that has to be made, how fast and at what cost. Reconciliation, claims, KYC and onboarding are typical candidates: high volume, rule-heavy, with clear points where a human must review. Writing the problem statement down forces the important questions early: which decisions the agent may take on its own, which it must escalate, and what “better” means in numbers."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Step 2",
+   "text": "Prove it on your data, inside your boundary"
+  },
+  {
+   "type": "text",
+   "text": "The proof is a working slice of the real workflow, built in four to six weeks, running on the client’s data and inside the client’s boundary, and scored against an evaluation set the client defines before work starts. A fixed-price proof of value with a success metric agreed up front turns “promising” into a yes or no."
+  },
+  {
+   "type": "text",
+   "text": "In one recent engagement with a major US financial institution, a live operations workflow was re-run through agents on our Secure AI Engine inside the bank’s boundary, with human review on exceptions and a full audit trail. Against the evaluation set the client defined, the agents achieved a 98% task success rate."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Step 3",
+   "text": "Harden before you scale"
+  },
+  {
+   "type": "text",
+   "text": "A successful proof is not yet a production system. Before any wider rollout we put four things in place:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "An evaluation harness",
+     "body": "that re-scores the agent on every change to prompts, tools or models."
+    },
+    {
+     "title": "Guardrails",
+     "body": "that constrain what the agent may do and which data it may touch."
+    },
+    {
+     "title": "Observability",
+     "body": ", so every agent action is logged, evaluated and explainable to a regulator."
+    },
+    {
+     "title": "Cost controls",
+     "body": ", so inference cost per transaction stays inside the business case at volume."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Exceptions are routed to people, not hidden. Agents that know when to stop are the ones risk teams approve."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Step 4",
+   "text": "Run it as a service"
+  },
+  {
+   "type": "text",
+   "text": "Agents are not a one-off delivery. Models improve, policies change and workflows evolve. We operate agents as a managed service, and because SAIE sits above Anthropic, OpenAI, Azure AI, AWS Bedrock and open models, a model update does not mean rewriting the workflow."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "A checklist for leaders"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Is there a written problem statement with a target metric?",
+     "body": ""
+    },
+    {
+     "title": "Has the evaluation set been agreed before the build starts?",
+     "body": ""
+    },
+    {
+     "title": "Does the agent run where your data is allowed to be?",
+     "body": ""
+    },
+    {
+     "title": "Is every action logged in a form your risk team can audit?",
+     "body": ""
+    },
+    {
+     "title": "Can you change the model without rebuilding the workflow?",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "If the answer to any of these is no, that is the place to start."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Start with a proof of value"
+  },
+  {
+   "type": "text",
+   "text": "See how we deliver AI Solutions and Automation & RPA, or contact Purview to scope a four-to-six-week proof."
+  }
+ ],
+ "byline": "Purview Editorial Team",
+ "date": "10 November 2026",
+ "readTime": "7 min read"
+}

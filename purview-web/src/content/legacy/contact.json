@@ -1,0 +1,87 @@
+{
+ "source": "https://purviewservices.com/contact.html",
+ "route": "/contact",
+ "template": "editorial",
+ "title": "Contact Us | Purview Services",
+ "description": "Tell us the decision that has to be made, how fast, under what constraints and at what cost. We will come back with the team that can own it.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Contact",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Bring us a problem statement",
+ "lede": "Tell us the decision that has to be made, how fast, under what constraints and at what cost. We will come back with the team that can own it.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "4 Redheughs Rigg, South Gyle, Edinburgh EH12 9DQ, Scotland",
+     "body": ""
+    },
+    {
+     "title": "+44 131 524 0958",
+     "body": ""
+    },
+    {
+     "title": "support@purviewservices.com",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Building H03, Gachibowli Rd, HITEC City, Hyderabad 500081, India",
+     "body": ""
+    },
+    {
+     "title": "+91 40 4854 9120",
+     "body": ""
+    },
+    {
+     "title": "contact@purviewservices.com",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "8080 N Central Expressway, Suite 1701, Dallas, Texas 75206",
+     "body": ""
+    },
+    {
+     "title": "sales@purviewservices.com",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "For GPU floors, modular DCs and operations, go direct to purviewdc.com"
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Visit purviewdc.com",
+     "href": "https://purviewdc.com",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

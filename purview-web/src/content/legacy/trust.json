@@ -1,0 +1,104 @@
+{
+ "source": "https://purviewservices.com/trust.html",
+ "route": "/trust",
+ "template": "editorial",
+ "title": "Trust, Security & Compliance | Purview Services",
+ "description": "Purview operates in environments where quality, security, privacy, availability and traceability matter.",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / TRUST, SECURITY & COMPLIANCE",
+ "h1": "Confidence is engineered into delivery.",
+ "lede": "Purview operates in environments where quality, security, privacy, availability and traceability matter. This page brings the assurance framework together for procurement and technology decision-makers.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE TRUST, SECURITY & COMPLIANCE",
+   "text": "The assurance framework, in one place."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "CMMI and delivery governance"
+  },
+  {
+   "type": "text",
+   "text": "Defined delivery processes, quality gates, engineering reviews, change control and continuous improvement."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Security and privacy by design"
+  },
+  {
+   "type": "text",
+   "text": "Access governance, secure development, risk assessments, incident response and client-specific security obligations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Operational readiness"
+  },
+  {
+   "type": "text",
+   "text": "Service continuity planning, escalation paths, monitoring, backup and recovery responsibilities aligned to contract scope."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Governed enterprise AI"
+  },
+  {
+   "type": "text",
+   "text": "Human oversight, evaluation criteria, auditability, model/data controls and appropriate security boundaries."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Procurement-ready documentation"
+  },
+  {
+   "type": "text",
+   "text": "Policies, applicable certificates, insurance, compliance statements and relevant references for qualified clients."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

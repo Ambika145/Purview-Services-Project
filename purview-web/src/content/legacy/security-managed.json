@@ -1,0 +1,256 @@
+{
+ "source": "https://purviewservices.com/security-managed.html",
+ "route": "/security-managed",
+ "template": "service",
+ "title": "Managed Security Services | Purview Services",
+ "description": "SOC as a service, SIEM, vulnerability management and incident response. Our SOC teams monitor enterprise and AI estates around the clock, with AI-assisted…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Managed Security Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Managed Security Services",
+ "lede": "SOC as a service, SIEM, vulnerability management and incident response.",
+ "actions": [],
+ "image": "security-managed.jpg",
+ "related": [
+  {
+   "label": "Cybersecurity",
+   "href": "/cybersecurity"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  },
+  {
+   "label": "Banking & Financial Services",
+   "href": "/bfsi"
+  },
+  {
+   "label": "Government & Public Sector",
+   "href": "/public-sector"
+  }
+ ],
+ "cta": "Talk to the Managed Security Services team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Always-on security operations."
+  },
+  {
+   "type": "text",
+   "text": "Managed monitoring, detection and response for critical estates."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Minutes",
+     "label": "mean time to detect on monitored estates"
+    },
+    {
+     "value": "24×7",
+     "label": "SOC across five delivery centres"
+    },
+    {
+     "value": "Quarterly",
+     "label": "purple-team exercises and control tuning"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Managed Security Services covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Our SOC teams monitor enterprise and AI estates around the clock, with AI-assisted triage that lets analysts spend time on real threats. Services run on your tooling or ours, with evidence packs shaped for your regulators."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "CISOs",
+     "eyebrow": "",
+     "body": "A SOC without hiring one.",
+     "links": []
+    },
+    {
+     "title": "Regulated firms",
+     "eyebrow": "",
+     "body": "Evidence packs shaped for your regulator.",
+     "links": []
+    },
+    {
+     "title": "AI estates",
+     "eyebrow": "",
+     "body": "Agents, models and prompts monitored as first-class assets.",
+     "links": []
+    },
+    {
+     "title": "Operators",
+     "eyebrow": "",
+     "body": "OT and IT security together.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "24×7 SOC and SIEM operations",
+     "body": ""
+    },
+    {
+     "title": "Threat detection and incident response",
+     "body": ""
+    },
+    {
+     "title": "Vulnerability management and VAPT",
+     "body": ""
+    },
+    {
+     "title": "Identity and access operations",
+     "body": ""
+    },
+    {
+     "title": "Cloud and endpoint security operations",
+     "body": ""
+    },
+    {
+     "title": "Compliance reporting",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Onboard",
+     "body": "Log sources, use cases and playbooks agreed and tested."
+    },
+    {
+     "title": "Monitor",
+     "body": "Tiered analysts with AI triage and threat intelligence."
+    },
+    {
+     "title": "Respond",
+     "body": "Containment inside agreed response times."
+    },
+    {
+     "title": "Mature",
+     "body": "Quarterly purple-team exercises and control tuning."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "SOC as a service",
+   "body": "Healthcare provider. Log sources, use cases and playbooks onboarded in eight weeks; AI-assisted triage lets analysts focus on real threats, with quarterly evidence for auditors.",
+   "result": {
+    "value": "8 wks",
+    "label": "to full monitoring"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Detection in minutes",
+     "body": ""
+    },
+    {
+     "title": "Critical vulnerabilities closed in days",
+     "body": ""
+    },
+    {
+     "title": "Clean audit evidence every quarter",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Splunk",
+    "Palo Alto Networks",
+    "Fortinet",
+    "IBM Security",
+    "Dragos"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "SIEM?",
+     "a": "Splunk by default, or your existing platform."
+    },
+    {
+     "q": "Incident response?",
+     "a": "Containment within agreed response times, with a named lead per incident."
+    },
+    {
+     "q": "Compliance reporting?",
+     "a": "Monthly, aligned to ISO 27001, SOC 2 or your sector regulator."
+    }
+   ]
+  }
+ ]
+}

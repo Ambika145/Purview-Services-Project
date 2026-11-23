@@ -1,0 +1,339 @@
+{
+ "source": "https://purviewservices.com/divisions.html",
+ "route": "/divisions",
+ "template": "editorial",
+ "title": "Products | Purview Services",
+ "description": "No one company is excellent at silicon, clinical systems, payments and power engineering at once.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "A group of specialist companies, not a single generalist",
+ "lede": "No one company is excellent at silicon, clinical systems, payments and power engineering at once. So Purview is structured as 14 focused companies, each led by subject-matter experts, assembled into one delivery organisation when a problem crosses domains.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Purview DC",
+     "eyebrow": "Data Centres",
+     "body": "AI data centres: design, build, operate. GPU floors, modular DCs, commissioning and 24×7 operations.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/purviewdc",
+       "external": false
+      },
+      {
+       "label": "purviewdc.com",
+       "href": "https://purviewdc.com",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "GigaPort",
+     "eyebrow": "AI hardware hub",
+     "body": "Customs-bonded import, rack integration, testing and custody for AI and high-tech hardware in Hyderabad, with reverse logistics and OEM support.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/gigaport",
+       "external": false
+      },
+      {
+       "label": "gigaport.ai",
+       "href": "https://gigaport.ai/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Purview Technologies",
+     "eyebrow": "AI Products",
+     "body": "Gen AI, agentic and vision AI products including CallOHM voice agents, the SAIE Secure AI Engine and SEVA.",
+     "links": [
+      {
+       "label": "purviewtech.ai",
+       "href": "https://www.purviewtech.ai/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "CallOHM",
+     "eyebrow": "Voice AI",
+     "body": "AI voice bots, phone calling agents, LLM voice workflows and call analytics for real business operations, in 30+ languages. Home of RabbiT, the agentic recruitment platform.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/callohm",
+       "external": false
+      },
+      {
+       "label": "callohm.com",
+       "href": "https://callohm.com/",
+       "external": true
+      },
+      {
+       "label": "RabbiT",
+       "href": "/rabbit",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Nexable",
+     "eyebrow": "Assistive AI",
+     "body": "AI assistive aids from Purview Technologies: SEVA smart glasses for low vision and blindness, with Maitri and Silenta extending the range.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/nexable",
+       "external": false
+      },
+      {
+       "label": "purviewtech.ai",
+       "href": "https://www.purviewtech.ai/assistive-aids",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "SmartCare",
+     "eyebrow": "Smart Solutions Platform",
+     "body": "SmartCare is an AR smart glass solution for telepresence, remote support, EMR collaboration and training, with real-time captioning and translation.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/smartcare",
+       "external": false
+      },
+      {
+       "label": "purviewtech.ai",
+       "href": "https://www.purviewtech.ai/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "SmartPick",
+     "eyebrow": "Smart Solutions Platform",
+     "body": "SmartPick is an AR smart glasses solution for picking and packing with real-time backend updates.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/smartpick",
+       "external": false
+      },
+      {
+       "label": "purviewtech.ai",
+       "href": "https://www.purviewtech.ai/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "SmartInspect",
+     "eyebrow": "Smart Solutions Platform",
+     "body": "SmartInspect delivers AR inspection workflows with live remote expert collaboration.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/smartinspect",
+       "external": false
+      },
+      {
+       "label": "purviewtech.ai",
+       "href": "https://www.purviewtech.ai/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "SmartSurveillance",
+     "eyebrow": "Smart Solutions Platform",
+     "body": "SmartSurveillance gives operators head-motion control of remote camera views, optional drone support, and AI threat detection with proactive alerting.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/smartsurveillance",
+       "external": false
+      },
+      {
+       "label": "purviewtech.ai",
+       "href": "https://www.purviewtech.ai/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Castlematic",
+     "eyebrow": "IoT",
+     "body": "Real-time GPS fleet tracking and telematics.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/castlematic",
+       "external": false
+      },
+      {
+       "label": "castlematic.com",
+       "href": "https://castlematic.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "EFUNDZZ",
+     "eyebrow": "Fintech",
+     "body": "SME lending marketplace.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/efundzz",
+       "external": false
+      },
+      {
+       "label": "efundzz.com",
+       "href": "https://efundzz.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "BenePay",
+     "eyebrow": "Payments",
+     "body": "Simplified payments and wallets.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/benepay",
+       "external": false
+      },
+      {
+       "label": "benepay.io",
+       "href": "https://www.benepay.io/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "T-Wallet",
+     "eyebrow": "Government payments",
+     "body": "The official digital wallet of Telangana State since 2017: bills, recharges and government services for citizens, with or without a smartphone. Powered and operated by Purview.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/twallet",
+       "external": false
+      },
+      {
+       "label": "twallet.telangana.gov.in",
+       "href": "https://twallet.telangana.gov.in/Home",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Purview Healthcare",
+     "eyebrow": "Healthcare",
+     "body": "Revenue cycle management.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/purviewhealthcare",
+       "external": false
+      },
+      {
+       "label": "purviewhealthcare.com",
+       "href": "https://purviewhealthcare.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "iPhysicianHub",
+     "eyebrow": "Healthcare",
+     "body": "Nationwide healthcare hub.",
+     "links": [
+      {
+       "label": "iphysicianhub.com",
+       "href": "https://www.iphysicianhub.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Purview Lifesciences",
+     "eyebrow": "Life Sciences",
+     "body": "Solvent distillation and intermediates manufacturing.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/purviewlifesciences",
+       "external": false
+      },
+      {
+       "label": "purviewlifesciences.com",
+       "href": "https://purviewlifesciences.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Edgeflex",
+     "eyebrow": "Devices",
+     "body": "Design and manufacture of edge devices and boards.",
+     "links": []
+    },
+    {
+     "title": "Simple I8",
+     "eyebrow": "SaaS",
+     "body": "Cloud-based SaaS solution.",
+     "links": [
+      {
+       "label": "simplei8.com",
+       "href": "https://simplei8.com/",
+       "external": true
+      }
+     ]
+    },
+    {
+     "title": "Purview Digital & 2080",
+     "eyebrow": "Marketing",
+     "body": "Marketing, advertising and full-stack growth agencies.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/purviewdigital",
+       "external": false
+      },
+      {
+       "label": "purviewdigital.com",
+       "href": "https://www.purviewdigital.com/",
+       "external": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Platforms",
+   "text": "Products clients run on today"
+  }
+ ]
+}

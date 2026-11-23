@@ -1,0 +1,240 @@
+{
+ "source": "https://purviewservices.com/payroll.html",
+ "route": "/payroll",
+ "template": "service",
+ "title": "Contract Payroll | Purview Services",
+ "description": "Compliant in-country payrolling and contractor management across our 21 entities. Where clients need contractors engaged compliantly in a country where they…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Contract Payroll",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Contract Payroll",
+ "lede": "Compliant in-country payrolling and contractor management across our 21 entities.",
+ "actions": [],
+ "image": "payroll.jpg",
+ "related": [
+  {
+   "label": "Volume, Contract & Perm Recruitment",
+   "href": "/volume-recruitment"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "Market Insights",
+   "href": "/market-insights"
+  },
+  {
+   "label": "Time-based & SOW Delivery",
+   "href": "/sow"
+  }
+ ],
+ "cta": "Talk to the Contract Payroll team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Compliant payrolling, in-country."
+  },
+  {
+   "type": "text",
+   "text": "Contractor management across our 21 entities."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "21",
+     "label": "entities for employer-of-record"
+    },
+    {
+     "value": "Zero",
+     "label": "compliance findings target"
+    },
+    {
+     "value": "Weeks",
+     "label": "to enter a new country"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Contract Payroll covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Where clients need contractors engaged compliantly in a country where they have no entity, Purview employs and pays them through its local entity, handling tax, benefits and statutory obligations."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Firms entering a market",
+     "eyebrow": "",
+     "body": "Engage people before you have an entity.",
+     "links": []
+    },
+    {
+     "title": "Contractor-heavy programmes",
+     "eyebrow": "",
+     "body": "Compliant payrolling at scale.",
+     "links": []
+    },
+    {
+     "title": "Mobility",
+     "eyebrow": "",
+     "body": "Visa and relocation support.",
+     "links": []
+    },
+    {
+     "title": "Transitions",
+     "eyebrow": "",
+     "body": "Move people to your entity when ready.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Employer of record in 21 countries",
+     "body": ""
+    },
+    {
+     "title": "Contractor payrolling and benefits",
+     "body": ""
+    },
+    {
+     "title": "Statutory compliance and filings",
+     "body": ""
+    },
+    {
+     "title": "Timesheets and invoicing",
+     "body": ""
+    },
+    {
+     "title": "Visa and mobility support",
+     "body": ""
+    },
+    {
+     "title": "Offboarding and transfers",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "Jurisdiction, worker status and obligations confirmed."
+    },
+    {
+     "title": "Engage",
+     "body": "Contracts issued under the local entity."
+    },
+    {
+     "title": "Run",
+     "body": "Monthly payroll, filings and reporting."
+    },
+    {
+     "title": "Transfer",
+     "body": "Move to your entity when you are ready."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Employer of record in India and Poland",
+   "body": "Technology company, US. Engineers engaged under Purview entities with payroll, benefits and filings handled, then transferred to the client's own entity after eighteen months.",
+   "result": {
+    "value": "18 mo",
+    "label": "to clean transfer"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Workers paid correctly and on time",
+     "body": ""
+    },
+    {
+     "title": "Zero compliance findings",
+     "body": ""
+    },
+    {
+     "title": "Entry to a new country in weeks",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Which countries?",
+     "a": "All 21 where Purview has entities; partners elsewhere."
+    },
+    {
+     "q": "Benefits?",
+     "a": "Local statutory and market benefits, administered by us."
+    },
+    {
+     "q": "Transfer later?",
+     "a": "Yes, planned from day one."
+    }
+   ]
+  }
+ ]
+}

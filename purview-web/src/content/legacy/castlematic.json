@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/castlematic.html",
+ "route": "/castlematic",
+ "template": "editorial",
+ "title": "Castlematic | Purview Services",
+ "description": "Castlematic combines Purview’s fleet telematics platform with a vehicle diagnostics business built in Detroit: live GPS tracking, engine and fault data…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "Castlematic",
+   "href": null
+  }
+ ],
+ "eyebrow": "Fleet telematics and vehicle diagnostics · a Purview company · castlematic.com",
+ "h1": "Every vehicle, every minute, one screen.",
+ "lede": "Castlematic combines Purview’s fleet telematics platform with a vehicle diagnostics business built in Detroit: live GPS tracking, engine and fault data, driver behaviour and alerts for fleets, dealers and OEMs.",
+ "actions": [
+  {
+   "label": "castlematic.com",
+   "href": "https://castlematic.com/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s edge and IoT practice",
+   "href": "/edge-vision",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "See Castlematic",
+   "title": "castlematic.com: platform, devices and a demo",
+   "body": "The Castlematic site carries the platform tour, supported devices and vehicle types, and a demo request.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open castlematic.com",
+     "href": "https://castlematic.com/",
+     "external": true
+    },
+    {
+     "label": "Talk to Purview about fleet IoT",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Live",
+     "label": "GPS position, speed and status in real time"
+    },
+    {
+     "value": "OBD",
+     "label": "engine, fault and health data from the vehicle"
+    },
+    {
+     "value": "Alerts",
+     "label": "geofence, behaviour and maintenance events as they happen"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "Edge devices, data platform and AI, in one product"
+  },
+  {
+   "type": "text",
+   "text": "Castlematic is where Purview’s edge and IoT engineering meets its data and AI practice: devices in vehicles, a cloud platform ingesting telemetry at scale, and analytics that turn it into decisions. The diagnostics heritage from Detroit adds what most trackers lack, a view inside the engine as well as on the map."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Castlematic does",
+   "text": "Tracking, diagnostics and the decisions between them"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Live tracking",
+     "eyebrow": "",
+     "body": "Real-time location, routes, stops and status for every vehicle, on web and mobile.",
+     "links": []
+    },
+    {
+     "title": "Vehicle health and diagnostics",
+     "eyebrow": "",
+     "body": "Engine data, fault codes and service indicators read from the vehicle, with maintenance scheduling.",
+     "links": []
+    },
+    {
+     "title": "Driver behaviour",
+     "eyebrow": "",
+     "body": "Harsh braking, speeding, idling and scoring, for safety and fuel.",
+     "links": []
+    },
+    {
+     "title": "Geofencing and alerts",
+     "eyebrow": "",
+     "body": "Zones, schedules and rules that trigger alerts to managers and drivers.",
+     "links": []
+    },
+    {
+     "title": "Trip, fuel and utilisation reports",
+     "eyebrow": "",
+     "body": "Daily and periodic reporting, exports and dashboards for operations and finance.",
+     "links": []
+    },
+    {
+     "title": "APIs and integrations",
+     "eyebrow": "",
+     "body": "Telemetry into your ERP, dispatch, insurance or dealer systems.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From device to dashboard"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Fit the device",
+     "body": "Plug-in or installed telematics units, matched to vehicle type and data needs."
+    },
+    {
+     "title": "Pair and configure",
+     "body": "Vehicles, drivers, zones and alert rules set up in the platform."
+    },
+    {
+     "title": "Track",
+     "body": "Positions and diagnostics stream to the platform and appear live on the map."
+    },
+    {
+     "title": "Alert",
+     "body": "Rules fire on events: a zone breach, a fault code, a service due."
+    },
+    {
+     "title": "Report and improve",
+     "body": "Reports and scores show where fuel, safety and uptime can improve."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind the platform"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Edge to cloud, operated as a service",
+     "eyebrow": "",
+     "body": "Purview supplies and supports the devices, runs the ingestion platform and analytics, and integrates telemetry into client systems, with the diagnostics engineering from the Detroit business informing vehicle-health models.",
+     "links": [
+      {
+       "label": "Edge, Vision & IoT The practice behind Castlematic",
+       "href": "/edge-vision",
+       "external": false
+      },
+      {
+       "label": "Manufacturing & Automotive Industry context",
+       "href": "/manufacturing",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Fleets that need to see more than a dot on a map"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Logistics and distribution",
+     "eyebrow": "",
+     "body": "Delivery fleets with routes, stops and proof of service.",
+     "links": []
+    },
+    {
+     "title": "Dealers and service networks",
+     "eyebrow": "",
+     "body": "Connected-vehicle services and proactive maintenance for customers.",
+     "links": []
+    },
+    {
+     "title": "Staff and school transport",
+     "eyebrow": "",
+     "body": "Safety, schedules and geofenced routes.",
+     "links": []
+    },
+    {
+     "title": "Rental and leasing",
+     "eyebrow": "",
+     "body": "Utilisation, location and condition of every asset.",
+     "links": []
+    },
+    {
+     "title": "Public and municipal fleets",
+     "eyebrow": "",
+     "body": "Accountability and uptime for buses, utility and sanitation vehicles.",
+     "links": []
+    },
+    {
+     "title": "OEMs",
+     "eyebrow": "",
+     "body": "A white-label telematics and diagnostics platform.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is Castlematic?",
+     "a": "A Purview company for fleet telematics and vehicle diagnostics: tracking, engine data, driver behaviour and alerts."
+    },
+    {
+     "q": "What vehicles does it support?",
+     "a": "Cars, vans, trucks and buses, with device options by vehicle type; details on castlematic.com."
+    },
+    {
+     "q": "Does it do more than GPS?",
+     "a": "Yes. Vehicle health and fault data from the OBD port is a core part of the platform."
+    },
+    {
+     "q": "Can it integrate with our systems?",
+     "a": "Yes, through APIs into ERP, dispatch, insurance and dealer systems."
+    },
+    {
+     "q": "Who operates it?",
+     "a": "Purview runs the platform and supports devices as a managed service."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Fleet intelligence",
+   "text": "Want to see your fleet in one place?"
+  },
+  {
+   "type": "text",
+   "text": "Visit castlematic.com, or talk to Purview about telematics and diagnostics for your vehicles."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit castlematic.com",
+     "href": "https://castlematic.com/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

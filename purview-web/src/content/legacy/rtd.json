@@ -1,0 +1,263 @@
+{
+ "source": "https://purviewservices.com/rtd.html",
+ "route": "/rtd",
+ "template": "service",
+ "title": "Recruit, Train, Deploy | Purview Services",
+ "description": "Certified engineers trained in our labs and deployed floor-ready wherever the work is. This is how Purview staffs its own GPU floors and client sites…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Recruit, Train, Deploy",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Recruit, Train, Deploy",
+ "lede": "Certified engineers trained in our labs and deployed floor-ready wherever the work is.",
+ "actions": [],
+ "image": "rtd.jpg",
+ "related": [
+  {
+   "label": "AI Infrastructure",
+   "href": "/ai-infrastructure"
+  },
+  {
+   "label": "Volume, Contract & Perm Recruitment",
+   "href": "/volume-recruitment"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": "/offshore"
+  },
+  {
+   "label": "Managed IT Support",
+   "href": "/it-support"
+  },
+  {
+   "label": "RabbiT AI recruitment",
+   "href": "/rabbit"
+  },
+  {
+   "label": "BeeRef referral hiring",
+   "href": "/beeref"
+  }
+ ],
+ "cta": "Talk to the Recruit, Train, Deploy team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Trained in our labs, deployed floor-ready."
+  },
+  {
+   "type": "text",
+   "text": "Certified engineers and technicians for your floors and ours."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "10 to 12",
+     "label": "technicians per certified lead engineer"
+    },
+    {
+     "value": "4 to 12 wks",
+     "label": "lab training on real racks before deployment"
+    },
+    {
+     "value": "2 wks",
+     "label": "notice for a floor-ready pod"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Recruit, Train, Deploy covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "This is how Purview staffs its own GPU floors and client sites: recruit for aptitude, train in labs with real racks, AR/VR guidance and OEM certification, then deploy lead engineers each with their own team of technicians. The same programme is available to clients and partners."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Data centre operators",
+     "eyebrow": "",
+     "body": "Certified pods for installs and operations.",
+     "links": []
+    },
+    {
+     "title": "OEMs and partners",
+     "eyebrow": "",
+     "body": "Trained technicians for your rollouts.",
+     "links": []
+    },
+    {
+     "title": "Enterprises",
+     "eyebrow": "",
+     "body": "Specialist skills without a recruiting programme.",
+     "links": []
+    },
+    {
+     "title": "Governments",
+     "eyebrow": "",
+     "body": "Skilling programmes with real infrastructure.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Aptitude-based recruitment",
+     "body": ""
+    },
+    {
+     "title": "Lab training with real equipment",
+     "body": ""
+    },
+    {
+     "title": "OEM and vendor certification",
+     "body": ""
+    },
+    {
+     "title": "AR/VR guided procedures",
+     "body": ""
+    },
+    {
+     "title": "Lead engineer and technician pods",
+     "body": ""
+    },
+    {
+     "title": "Visa-ready bench in each operating country",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Define",
+     "body": "Roles, certifications and ramp timeline agreed."
+    },
+    {
+     "title": "Recruit",
+     "body": "Campaigns across India, Poland, the Gulf and ANZ."
+    },
+    {
+     "title": "Train",
+     "body": "Four to twelve weeks in lab, assessed against the real task."
+    },
+    {
+     "title": "Deploy",
+     "body": "Pods arrive floor-ready with tooling and procedures."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Engineers deployed from India",
+   "body": "Purview DC, Australia. Lead engineers and technicians trained in Hyderabad labs, certified and deployed on visas to a sovereign AI data centre build.",
+   "result": {
+    "value": "12 to 15",
+    "label": "engineers deployed"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Engineers productive from day one",
+     "body": ""
+    },
+    {
+     "title": "Pods available at two weeks notice",
+     "body": ""
+    },
+    {
+     "title": "Certification rates above 90 percent",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "NVIDIA",
+    "Cisco",
+    "Schneider Electric",
+    "Vertiv"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Who certifies them?",
+     "a": "OEM and vendor programmes plus Purview lab assessment against the real task."
+    },
+    {
+     "q": "Visas?",
+     "a": "We maintain a visa-ready bench in each operating country."
+    },
+    {
+     "q": "Can you train our people?",
+     "a": "Yes, in our labs or at your site."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/nexable.html",
+ "route": "/nexable",
+ "template": "editorial",
+ "title": "Nexable | Purview Services",
+ "description": "Nexable is the assistive-aids range from Purview Technologies: AI wearables and companions built for people with sight, hearing and daily-living needs.…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "Nexable",
+   "href": null
+  }
+ ],
+ "eyebrow": "AI assistive aids · Purview Technologies · purviewtech.ai/assistive-aids",
+ "h1": "Wearable AI that gives independence back.",
+ "lede": "Nexable is the assistive-aids range from Purview Technologies: AI wearables and companions built for people with sight, hearing and daily-living needs. SEVA, Maitri and Silenta put recognition, navigation, reading and conversation into a device that works hands free, with no smartphone required.",
+ "actions": [
+  {
+   "label": "purviewtech.ai/assistive-aids",
+   "href": "https://www.purviewtech.ai/assistive-aids",
+   "external": true
+  },
+  {
+   "label": "See Purview’s AI XR practice",
+   "href": "/ai-solutions",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "The Nexable range",
+   "title": "Three aids, one purpose: independence",
+   "body": "SEVA for people with low vision or blindness; Maitri and Silenta extending the same AI wearable platform to other assistive needs. Specifications, demos and ordering on the Purview Technologies site.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open the assistive aids page",
+     "href": "https://www.purviewtech.ai/assistive-aids",
+     "external": true
+    },
+    {
+     "label": "Talk to us about pilots and partnerships",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "No phone needed",
+     "label": "self-powered Android wearables with on-device voice control"
+    },
+    {
+     "value": "Spoken feedback",
+     "label": "navigation, objects, faces, text and scenes described aloud"
+    },
+    {
+     "value": "Purpose beyond profit",
+     "label": "built with and for the communities that use them"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "The most human use of our AI stack"
+  },
+  {
+   "type": "text",
+   "text": "Nexable takes the same vision, voice and language engineering that Purview sells to enterprises and points it at people: a camera that reads a bus stop, a voice that describes a painting, a wearable that keeps someone connected. It is the clearest proof that Purview’s AI works in the real world, in real time, for people who depend on it."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "The products",
+   "text": "SEVA, Maitri and Silenta"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "SEVA: AI smart glasses for low vision and blindness",
+     "eyebrow": "",
+     "body": "Facial recognition, object and product detection, scene navigation with directional feedback, text magnification and contrast, reading printed and handwritten text aloud, with a built-in AI assistant. Self-powered, no subscription for software updates.",
+     "links": []
+    },
+    {
+     "title": "Maitri: AI assistive companion",
+     "eyebrow": "",
+     "body": "Part of the Nexable range from Purview Technologies. Full specification and intended users are published on purviewtech.ai/assistive-aids.",
+     "links": []
+    },
+    {
+     "title": "Silenta: AI assistive aid",
+     "eyebrow": "",
+     "body": "Part of the Nexable range from Purview Technologies. Full specification and intended users are published on purviewtech.ai/assistive-aids.",
+     "links": []
+    },
+    {
+     "title": "Navigation and recognition",
+     "eyebrow": "",
+     "body": "Real-time scene understanding, obstacle and landmark cues, people and product recognition, on the device.",
+     "links": []
+    },
+    {
+     "title": "Reading and communication",
+     "eyebrow": "",
+     "body": "Printed, on-screen and handwritten text read aloud; conversation support through the built-in assistant.",
+     "links": []
+    },
+    {
+     "title": "Support, training and updates",
+     "eyebrow": "",
+     "body": "Onboarding for users and carers, partner training for assessment centres, and over-the-air software updates.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From assessment to everyday use"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Assess",
+     "body": "Users try the device at an assessment centre or partner, or through a Purview-arranged demo."
+    },
+    {
+     "title": "Fit and set up",
+     "body": "Device fitted and personalised: voice, language, contacts and preferences."
+    },
+    {
+     "title": "Learn",
+     "body": "Guided onboarding for the user and, where helpful, family or carers."
+    },
+    {
+     "title": "Use",
+     "body": "Hands-free operation through voice and a tap, with spoken feedback."
+    },
+    {
+     "title": "Update and support",
+     "body": "Software updates and support from Purview Technologies, with user feedback shaping the roadmap."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Behind the products",
+   "text": "Purview Technologies"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Designed, engineered and supported by Purview Technologies",
+     "eyebrow": "",
+     "body": "Purview Technologies, the group’s AI and XR company, designs the devices and the software, partners with wearable manufacturers, and supports users and distribution partners in the UK, India, Africa and beyond.",
+     "links": [
+      {
+       "label": "AI Solutions Vision, voice and XR engineering",
+       "href": "/ai-solutions",
+       "external": false
+      },
+      {
+       "label": "purviewtech.ai  AI XR Solutions",
+       "href": "https://www.purviewtech.ai/",
+       "external": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "People, and the organisations that support them"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Individuals and families",
+     "eyebrow": "",
+     "body": "Independence in navigation, reading, recognition and daily tasks.",
+     "links": []
+    },
+    {
+     "title": "Sight-loss and disability charities",
+     "eyebrow": "",
+     "body": "Assessment hubs, loan pools and training programmes.",
+     "links": []
+    },
+    {
+     "title": "Assistive technology centres",
+     "eyebrow": "",
+     "body": "Devices for evaluation and user feedback.",
+     "links": []
+    },
+    {
+     "title": "Education",
+     "eyebrow": "",
+     "body": "Students and teachers in mainstream and specialist settings.",
+     "links": []
+    },
+    {
+     "title": "Employers",
+     "eyebrow": "",
+     "body": "Workplace adjustments that keep skilled people in work.",
+     "links": []
+    },
+    {
+     "title": "Distributors and governments",
+     "eyebrow": "",
+     "body": "Partnerships to bring assistive AI to new markets.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is Nexable?",
+     "a": "The assistive-aids range from Purview Technologies: SEVA, Maitri and Silenta."
+    },
+    {
+     "q": "Who is SEVA for?",
+     "a": "People with low vision or blindness. It recognises faces, objects and text, describes scenes and guides navigation, with spoken feedback."
+    },
+    {
+     "q": "Does it need a smartphone or subscription?",
+     "a": "No. SEVA is self-powered, runs on Android and does not require a subscription for software updates."
+    },
+    {
+     "q": "Where can I try one?",
+     "a": "Through partner assessment centres and events, or by arranging a demo via purviewtech.ai or Purview’s contact page."
+    },
+    {
+     "q": "Can organisations partner with Purview?",
+     "a": "Yes: charities, assessment centres, distributors and public bodies work with Purview Technologies on pilots, training and distribution."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Assistive AI",
+   "text": "Want to see Nexable in action?"
+  },
+  {
+   "type": "text",
+   "text": "Visit purviewtech.ai/assistive-aids, or talk to Purview Technologies about a demo or partnership."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewtech.ai/assistive-aids",
+     "href": "https://www.purviewtech.ai/assistive-aids",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

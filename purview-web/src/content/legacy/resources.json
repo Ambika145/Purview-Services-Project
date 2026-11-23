@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/resources.php",
+ "route": "/resources",
+ "template": "editorial",
+ "title": "Brochures & Resources | Purview Services",
+ "description": "Download Purview brochures, catalogs and presentations on AI solutions, CallOHM, IoT products, Castlematic fleet telematics and fintech platforms.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Company",
+   "href": "/company"
+  },
+  {
+   "label": "Brochures & Resources",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Brochures & Resources",
+ "lede": "Brochures, catalogs and presentations on Purview's AI solutions, products and industry platforms. New documents are added regularly.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Brochures & catalogs",
+     "eyebrow": "",
+     "body": "Enter your email once to view or download any brochure or catalog.",
+     "links": []
+    },
+    {
+     "title": "Presentations",
+     "eyebrow": "",
+     "body": "Password protected for the Purview team and invited partners.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Company Overview"
+  },
+  {
+   "type": "text",
+   "text": "Who we are, what we deliver and where we operate."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Purview Company Overview 2026"
+  },
+  {
+   "type": "text",
+   "text": "Our global capabilities, divisions and track record."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=company-overview--purview-company-overview-2026&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=company-overview--purview-company-overview-2026&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "AI Solutions & CallOHM Ecosystem"
+  },
+  {
+   "type": "text",
+   "text": "AI Voice Agent Platform and enterprise AI solutions."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "CallOHM Brochure"
+  },
+  {
+   "type": "text",
+   "text": "The complete guide to the CallOHM AI Voice Agent Platform."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=ai-solutions-callohm--callohm-brochure&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=ai-solutions-callohm--callohm-brochure&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "CallOHM Sector Catalog"
+  },
+  {
+   "type": "text",
+   "text": "CallOHM use cases tailored to each industry sector."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=ai-solutions-callohm--callohm-sector-catalog&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=ai-solutions-callohm--callohm-sector-catalog&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Purview AI Catalog"
+  },
+  {
+   "type": "text",
+   "text": "Our portfolio of AI and machine learning solutions."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=ai-solutions-callohm--purview-ai-catalog&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=ai-solutions-callohm--purview-ai-catalog&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Products & IoT"
+  },
+  {
+   "type": "text",
+   "text": "Connected products, devices and IoT platforms."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Dynamic Labels Brochure"
+  },
+  {
+   "type": "text",
+   "text": "Smart dynamic labelling solutions."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=products-iot--dynamic-labels-brochure&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=products-iot--dynamic-labels-brochure&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Frontline Assist Suite Brochure"
+  },
+  {
+   "type": "text",
+   "text": "Connected tools that support frontline teams."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=products-iot--frontline-assist-suite-brochure&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=products-iot--frontline-assist-suite-brochure&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Castlematic"
+  },
+  {
+   "type": "text",
+   "text": "Real-time GPS fleet tracking and telematics."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Castlematic Catalog"
+  },
+  {
+   "type": "text",
+   "text": "Fleet tracking hardware, software and services."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=castlematic--castlematic-catalog&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=castlematic--castlematic-catalog&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Fintech, Payments & Banking"
+  },
+  {
+   "type": "text",
+   "text": "Digital lending, payments and banking platforms."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "eFundzz Catalog"
+  },
+  {
+   "type": "text",
+   "text": "eFundzz SME lending, TWallet and Stardigiloans."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "View",
+     "href": "/resources.php?doc=fintech-payments-banking--efundzz-catalog&mode=view",
+     "external": false
+    },
+    {
+     "label": "Download",
+     "href": "/resources.php?doc=fintech-payments-banking--efundzz-catalog&mode=download",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Looking for something specific? Contact us and we will send the right material."
+  }
+ ]
+}

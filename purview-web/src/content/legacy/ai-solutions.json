@@ -1,0 +1,496 @@
+{
+ "source": "https://purviewservices.com/ai-solutions.html",
+ "route": "/ai-solutions",
+ "template": "editorial",
+ "title": "AI Solutions | Purview Services",
+ "description": "Purview builds Gen AI, agentic, vision, voice and XR systems that run inside your data boundary, log every action and survive the next model change. The…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Technologies",
+   "href": "/technologies"
+  },
+  {
+   "label": "AI Solutions",
+   "href": null
+  }
+ ],
+ "eyebrow": "AI Solutions · Purview Technologies · purviewtech.ai",
+ "h1": "AI that passes security review and keeps working in production.",
+ "lede": "Purview builds Gen AI, agentic, vision, voice and XR systems that run inside your data boundary, log every action and survive the next model change. The same group installs the GPU floors these systems run on, so every design decision is made with the real cost of inference in view.",
+ "actions": [
+  {
+   "label": "Start a proof of value",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "purviewtech.ai",
+   "href": "https://www.purviewtech.ai/",
+   "external": true
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Gen AI applications and copilots",
+     "eyebrow": "",
+     "body": "Assistants, copilots and content engines built on your data, inside your boundary.",
+     "links": []
+    },
+    {
+     "title": "Agentic AI workflows for operations",
+     "eyebrow": "",
+     "body": "Agents that complete multi-step work with human review where it matters.",
+     "links": []
+    },
+    {
+     "title": "Edge & Vision AI",
+     "eyebrow": "",
+     "body": "Cameras, sensors and devices that see, count, inspect and alert in real time.",
+     "links": []
+    },
+    {
+     "title": "Conversational AI",
+     "eyebrow": "",
+     "body": "Voice and chat agents in 30+ languages, in production through CallOHM.",
+     "links": []
+    },
+    {
+     "title": "AI XR",
+     "eyebrow": "",
+     "body": "Smart glasses and spatial computing with AI in the field of view.",
+     "links": []
+    },
+    {
+     "title": "LLM and SLM integration, RAG pipelines",
+     "eyebrow": "",
+     "body": "The right model for the job, grounded in your data, swappable without rework.",
+     "links": []
+    },
+    {
+     "title": "Machine learning and cognitive AI",
+     "eyebrow": "",
+     "body": "Prediction, classification and optimisation models that earn their keep.",
+     "links": []
+    },
+    {
+     "title": "Hyperautomation and AI-assisted DevOps",
+     "eyebrow": "",
+     "body": "Automation that spans bots, agents and the software lifecycle.",
+     "links": []
+    },
+    {
+     "title": "Enterprise modernisation with AI",
+     "eyebrow": "",
+     "body": "Legacy estates understood, re-platformed and re-imagined with AI inside.",
+     "links": []
+    },
+    {
+     "title": "Multi-Modal AI",
+     "eyebrow": "",
+     "body": "Text, voice, image, video and sensor data understood together.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "98%",
+     "label": "task success in a live agentic POC at a major US financial institution"
+    },
+    {
+     "value": "4 to 6 wks",
+     "label": "from problem statement to a working slice on your data"
+    },
+    {
+     "value": "SAIE",
+     "label": "Secure AI Engine: our orchestration layer above any frontier model"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Overview",
+   "text": "From the demo to the floor"
+  },
+  {
+   "type": "text",
+   "text": "Most enterprise AI stalls between the demo and the floor. Purview builds Gen AI and agentic systems that pass security review, run inside your data boundary and keep working when the model behind them changes. SAIE, the Secure AI Engine, is the design, orchestration and workflow layer that sits above frontier models rather than depending on any one of them. Purview Technologies, the group’s AI and XR company, carries this work into wearables and the field."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What we deliver",
+   "text": "Ten capabilities, one engineering standard"
+  },
+  {
+   "type": "text",
+   "text": "Every capability ships with the same four things: an evaluation set agreed with you, guardrails and audit, cost controls, and a managed run option."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Gen AI applications and copilots"
+  },
+  {
+   "type": "text",
+   "text": "Assistants, copilots and content engines built on your data, inside your boundary."
+  },
+  {
+   "type": "text",
+   "text": "Role-specific copilots for operations, sales, finance and engineering; document and knowledge assistants; content and summarisation engines. Built with prompt and tool governance, evaluation sets and usage analytics from day one."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Agentic AI workflows for operations"
+  },
+  {
+   "type": "text",
+   "text": "Agents that complete multi-step work with human review where it matters."
+  },
+  {
+   "type": "text",
+   "text": "Reconciliation, claims, KYC, onboarding, ticket resolution and back-office flows re-engineered as agent workflows on SAIE: tools, memory, guardrails, exception routing to humans and a full audit trail of every action."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Edge & Vision AI"
+  },
+  {
+   "type": "text",
+   "text": "Cameras, sensors and devices that see, count, inspect and alert in real time."
+  },
+  {
+   "type": "text",
+   "text": "Industrial inspection, safety-zone monitoring, crowd and footfall analytics, ANPR and asset tracking, deployed on edge hardware so decisions happen on site, with models tuned to your line, floor or road."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Conversational AI"
+  },
+  {
+   "type": "text",
+   "text": "Voice and chat agents in 30+ languages, in production through CallOHM."
+  },
+  {
+   "type": "text",
+   "text": "Inbound and outbound voice agents, WhatsApp and web chat, with LLM-driven dialogue, telephony and CRM integration and call analytics. Delivered on CallOHM, Purview’s own voice platform, or on your contact-centre stack."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "AI XR"
+  },
+  {
+   "type": "text",
+   "text": "Smart glasses and spatial computing with AI in the field of view."
+  },
+  {
+   "type": "text",
+   "text": "Hands-free guidance for field engineers, remote expert sessions with AR annotation, AI assistive wearables (SEVA for low-vision users) and training in XR. Purview Technologies designs, deploys and supports the devices and the software behind them."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "LLM and SLM integration, RAG pipelines"
+  },
+  {
+   "type": "text",
+   "text": "The right model for the job, grounded in your data, swappable without rework."
+  },
+  {
+   "type": "text",
+   "text": "Retrieval pipelines over documents, databases and systems of record; frontier LLMs and small language models selected per task; fine-tuning where it pays; evaluation harnesses that keep answers accurate as models change."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Machine learning and cognitive AI"
+  },
+  {
+   "type": "text",
+   "text": "Prediction, classification and optimisation models that earn their keep."
+  },
+  {
+   "type": "text",
+   "text": "Demand and risk forecasting, anomaly detection, recommendation, document understanding and OCR, with MLOps for retraining, monitoring and drift, and explainability for regulated decisions."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Hyperautomation and AI-assisted DevOps"
+  },
+  {
+   "type": "text",
+   "text": "Automation that spans bots, agents and the software lifecycle."
+  },
+  {
+   "type": "text",
+   "text": "RPA estates (Pega, Appian, UiPath) modernised with agents; AI-assisted coding, testing and release; AIOps for incident prediction and resolution; one automation backbone across business and IT operations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Enterprise modernisation with AI"
+  },
+  {
+   "type": "text",
+   "text": "Legacy estates understood, re-platformed and re-imagined with AI inside."
+  },
+  {
+   "type": "text",
+   "text": "Code and data discovery with AI, migration of legacy applications and mainframe logic, re-architecture to cloud-native platforms and AI-native features designed into the modernised product, not bolted on."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Multi-Modal AI"
+  },
+  {
+   "type": "text",
+   "text": "Text, voice, image, video and sensor data understood together."
+  },
+  {
+   "type": "text",
+   "text": "Systems that read a document, listen to a call, watch a camera feed and act on all three: claims with photos and statements, field reports with voice and images, control rooms fusing video and telemetry."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Who it is for",
+   "text": "Where this work lands"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Operations leaders",
+     "eyebrow": "",
+     "body": "Reconciliation, claims, KYC, onboarding and other high-volume workflows with human review points.",
+     "links": []
+    },
+    {
+     "title": "CIOs with a model policy",
+     "eyebrow": "",
+     "body": "Need to use frontier models without data leaving the boundary or locking into one vendor.",
+     "links": []
+    },
+    {
+     "title": "Regulated enterprises",
+     "eyebrow": "",
+     "body": "Need every agent action logged, evaluated and explainable to a regulator.",
+     "links": []
+    },
+    {
+     "title": "Public sector and field operations",
+     "eyebrow": "",
+     "body": "Citizen service at national scale; engineers, clinicians and inspectors who need AI in the field of view, hands free.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How we work",
+   "text": "Problem first, proof in weeks, then harden and run"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Problem statement",
+     "body": "We start from the decision that has to be made, how fast and at what cost, not from a model looking for a use case."
+    },
+    {
+     "title": "Proof in four to six weeks",
+     "body": "A working slice on your data, inside your boundary, scored against a success metric you agree up front."
+    },
+    {
+     "title": "Harden and scale",
+     "body": "Evaluation harness, guardrails, observability and cost controls before any wider rollout."
+    },
+    {
+     "title": "Run",
+     "body": "Managed operation of the agents, with model updates handled without rewriting the workflow."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Workflow modernisation on the Secure AI Engine",
+   "body": "Major US financial institution. A live operations workflow was re-run through SAIE agents inside the bank’s boundary, with human review on exceptions and a full audit trail. Scored against an evaluation set the client defined.",
+   "result": {
+    "value": "98%",
+    "label": "task success rate"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Outcomes clients measure",
+   "text": "What changes"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Workflow cycle time cut by half or more",
+     "body": ""
+    },
+    {
+     "title": "Inference cost per transaction under control",
+     "body": ""
+    },
+    {
+     "title": "Audit trail for every agent action",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our platforms",
+   "text": "Products behind the practice"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "SAIE",
+     "eyebrow": "Secure AI Engine",
+     "body": "The orchestration and workflow layer above frontier and open models: tools, guardrails, evaluation and audit, inside your boundary.",
+     "links": []
+    },
+    {
+     "title": "CallOHM",
+     "eyebrow": "Voice AI",
+     "body": "Voice and calling agents in 30+ languages with analytics, as a service.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/callohm",
+       "external": false
+      }
+     ]
+    },
+    {
+     "title": "Nexable: SEVA, Maitri, Silenta",
+     "eyebrow": "AI XR",
+     "body": "AI assistive wearables and enterprise AR deployments by Purview Technologies.",
+     "links": [
+      {
+       "label": "Read more",
+       "href": "/nexable",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Platforms and partners",
+   "text": "Model-agnostic by design"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Anthropic",
+    "OpenAI",
+    "Azure AI",
+    "AWS Bedrock",
+    "Google Cloud",
+    "NVIDIA",
+    "Databricks",
+    "Snowflake",
+    "Vuzix",
+    "Pega",
+    "UiPath"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Which models do you use?",
+     "a": "Whichever your policy allows. SAIE sits above Anthropic, OpenAI, Azure AI, Bedrock and open models, so the workflow does not change when the model does."
+    },
+    {
+     "q": "Can agents run on-premise?",
+     "a": "Yes. We deploy on your cloud, your sovereign cloud or on GPU infrastructure Purview builds for you."
+    },
+    {
+     "q": "How do you price a first engagement?",
+     "a": "A fixed-price proof of value, four to six weeks, with a success metric agreed before we start."
+    },
+    {
+     "q": "Do you build the hardware side too?",
+     "a": "Yes. Purview DC installs and operates GPU infrastructure, and Purview Technologies supplies and supports edge and XR devices."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "AI Solutions",
+   "text": "Tell us the decision that has to be made."
+  },
+  {
+   "type": "text",
+   "text": "How fast, under what constraints, and what success looks like. We will come back with a four-to-six-week proof of value."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "AI Infrastructure",
+     "href": "/ai-infrastructure",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

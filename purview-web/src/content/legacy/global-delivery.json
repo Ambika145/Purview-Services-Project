@@ -1,0 +1,104 @@
+{
+ "source": "https://purviewservices.com/global-delivery.html",
+ "route": "/global-delivery",
+ "template": "editorial",
+ "title": "Global Delivery & Operations | Purview Services",
+ "description": "A connected delivery model combining regional leadership, specialist engineering teams, field execution and 24×7 operational support.",
+ "crumbs": [],
+ "eyebrow": "PURVIEW / GLOBAL DELIVERY & OPERATIONS",
+ "h1": "Global reach. Local accountability.",
+ "lede": "A connected delivery model combining regional leadership, specialist engineering teams, field execution and 24×7 operational support.",
+ "actions": [
+  {
+   "label": "Discuss your programme",
+   "href": "/contact",
+   "external": false
+  },
+  {
+   "label": "Explore our work",
+   "href": "/customer-success",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "EXPLORE GLOBAL DELIVERY & OPERATIONS",
+   "text": "One delivery model, every region."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Close to the customer"
+  },
+  {
+   "type": "text",
+   "text": "UK, Europe, India, Middle East, Americas and Asia-Pacific engagement through local relationships and regional leadership."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Built around specialist capability"
+  },
+  {
+   "type": "text",
+   "text": "Delivery teams across software engineering, infrastructure, cloud, cyber, data, networks and workforce operations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Service continuity by design"
+  },
+  {
+   "type": "text",
+   "text": "NOC, SOC, help desk and managed-service delivery aligned to client-specific service levels and escalation procedures."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "From planning to site acceptance"
+  },
+  {
+   "type": "text",
+   "text": "Survey, installation, testing, certification, commissioning and operational handover with consistent governance."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "One accountable delivery structure"
+  },
+  {
+   "type": "text",
+   "text": "Named programme ownership, acceptance gates, reporting, risk management and client steering mechanisms."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Let’s discuss the outcome you need."
+  },
+  {
+   "type": "text",
+   "text": "Talk to our team about the technical, commercial and operational requirements of your programme."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

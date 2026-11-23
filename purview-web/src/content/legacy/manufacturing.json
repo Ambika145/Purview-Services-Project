@@ -1,0 +1,256 @@
+{
+ "source": "https://purviewservices.com/manufacturing.html",
+ "route": "/manufacturing",
+ "template": "service",
+ "title": "FMCG & Manufacturing | Purview Services",
+ "description": "Industrial vision AI, supply chain platforms, fleet telematics and enterprise systems for plants and distribution.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": "/industries"
+  },
+  {
+   "label": "FMCG & Manufacturing",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "FMCG & Manufacturing",
+ "lede": "Industrial vision AI, supply chain platforms, fleet telematics and enterprise systems for plants and distribution.",
+ "actions": [],
+ "image": "manufacturing.jpg",
+ "related": [
+  {
+   "label": "Edge & Vision AI",
+   "href": "/edge-vision"
+  },
+  {
+   "label": "Embedded Engineering & IoT",
+   "href": "/embedded"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "Managed Application Services",
+   "href": "/app-managed"
+  }
+ ],
+ "cta": "Talk to the FMCG & Manufacturing team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Intelligence on the plant floor."
+  },
+  {
+   "type": "text",
+   "text": "Industrial vision AI, supply chain platforms, telematics and enterprise systems."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Line",
+     "label": "inspection and worker safety AI deployed on site"
+    },
+    {
+     "value": "Fleet",
+     "label": "telematics through Castlematic"
+    },
+    {
+     "value": "SAP",
+     "label": "and data platforms behind the plant"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What FMCG & Manufacturing covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Ford, DuPont, Hyundai Mobis, Ambuja Cement and William Grant & Sons are among the manufacturers Purview works with. Our edge vision systems inspect lines and protect workers; Castlematic tracks fleets; our enterprise teams run the SAP and data platforms behind the plant."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Plant leaders",
+     "eyebrow": "",
+     "body": "Inspection and safety on the line.",
+     "links": []
+    },
+    {
+     "title": "Supply chain",
+     "eyebrow": "",
+     "body": "Visibility and logistics platforms.",
+     "links": []
+    },
+    {
+     "title": "Fleet operators",
+     "eyebrow": "",
+     "body": "Telematics and IoT.",
+     "links": []
+    },
+    {
+     "title": "IT leaders",
+     "eyebrow": "",
+     "body": "ERP, data and OT security.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Industrial inspection and worker safety AI",
+     "body": ""
+    },
+    {
+     "title": "Supply chain and logistics platforms",
+     "body": ""
+    },
+    {
+     "title": "Fleet telematics and IoT",
+     "body": ""
+    },
+    {
+     "title": "SAP and ERP services",
+     "body": ""
+    },
+    {
+     "title": "Manufacturing data and analytics",
+     "body": ""
+    },
+    {
+     "title": "OT security",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Plant assessment",
+     "body": "Lines, data and safety priorities on site."
+    },
+    {
+     "title": "Pilot",
+     "body": "One line or one site with measured results."
+    },
+    {
+     "title": "Roll out",
+     "body": "Across plants with fleet device management."
+    },
+    {
+     "title": "Operate",
+     "body": "Managed services for OT and IT together."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Industrial inspection and safety",
+   "body": "Manufacturer, India. Edge vision AI on the line and in vehicle zones, piloted on one site and rolled out with fleet device management.",
+   "result": {
+    "value": "Real-time",
+    "label": "defect and incident capture"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Defects caught on the line",
+     "body": ""
+    },
+    {
+     "title": "Incidents down, fleet utilisation up",
+     "body": ""
+    },
+    {
+     "title": "Plant data in one place",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Bosch",
+    "SAP",
+    "Castlematic",
+    "DeepX",
+    "Dragos"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "OT security?",
+     "a": "Yes, with Dragos and our SOC."
+    },
+    {
+     "q": "Devices?",
+     "a": "Designed and manufactured through our embedded team and partners."
+    },
+    {
+     "q": "ERP?",
+     "a": "SAP services and managed applications."
+    }
+   ]
+  }
+ ]
+}

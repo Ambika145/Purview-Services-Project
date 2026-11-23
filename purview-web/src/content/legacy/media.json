@@ -1,0 +1,255 @@
+{
+ "source": "https://purviewservices.com/media.html",
+ "route": "/media",
+ "template": "service",
+ "title": "Media & Entertainment | Purview Services",
+ "description": "Content platforms, audience analytics and marketing engineering. Through Purview Digital and 2080 the group runs marketing and growth engagements, and our…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": "/industries"
+  },
+  {
+   "label": "Media & Entertainment",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Media & Entertainment",
+ "lede": "Content platforms, audience analytics and marketing engineering.",
+ "actions": [],
+ "image": "media.jpg",
+ "related": [
+  {
+   "label": "Digital Product Engineering",
+   "href": "/digital-engineering"
+  },
+  {
+   "label": "AI Solutions",
+   "href": "/ai-solutions"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "Cloud Services",
+   "href": "/cloud"
+  }
+ ],
+ "cta": "Talk to the Media & Entertainment team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Content, audiences and growth engineering."
+  },
+  {
+   "type": "text",
+   "text": "Content platforms, digital marketing engineering and audience analytics."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "2",
+     "label": "marketing agencies inside the group"
+    },
+    {
+     "value": "Gen AI",
+     "label": "for content operations"
+    },
+    {
+     "value": "Peak",
+     "label": "event readiness on managed platforms"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Media & Entertainment covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Through Purview Digital and 2080 the group runs marketing and growth engagements, and our engineering teams build the content, streaming and analytics platforms behind them, including Gen AI for content operations."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Publishers and broadcasters",
+     "eyebrow": "",
+     "body": "Content and streaming platforms.",
+     "links": []
+    },
+    {
+     "title": "Brands",
+     "eyebrow": "",
+     "body": "Growth and marketing engineering.",
+     "links": []
+    },
+    {
+     "title": "Agencies",
+     "eyebrow": "",
+     "body": "Engineering capacity.",
+     "links": []
+    },
+    {
+     "title": "Events",
+     "eyebrow": "",
+     "body": "Platforms that survive the big night.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Content and streaming platforms",
+     "body": ""
+    },
+    {
+     "title": "Audience data and analytics",
+     "body": ""
+    },
+    {
+     "title": "Gen AI for content operations",
+     "body": ""
+    },
+    {
+     "title": "Digital marketing engineering",
+     "body": ""
+    },
+    {
+     "title": "Ad tech integration",
+     "body": ""
+    },
+    {
+     "title": "Managed platform operations",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Audience first",
+     "body": "Data model built around the viewer or reader."
+    },
+    {
+     "title": "Build",
+     "body": "Platforms on cloud-native foundations."
+    },
+    {
+     "title": "Grow",
+     "body": "Marketing and growth run by Purview Digital and 2080."
+    },
+    {
+     "title": "Operate",
+     "body": "Managed services with peak-event readiness."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Content platform and growth",
+   "body": "Media brand. Platform engineered on cloud-native foundations with audience data model; growth run by Purview Digital.",
+   "result": {
+    "value": "Measured",
+    "label": "audience growth"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Audience growth measured",
+     "body": ""
+    },
+    {
+     "title": "Content costs down with AI",
+     "body": ""
+    },
+    {
+     "title": "Platforms that survive the big night",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Purview Digital",
+    "2080",
+    "Snowflake",
+    "Salesforce"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Do you do marketing?",
+     "a": "Yes, through Purview Digital and 2080."
+    },
+    {
+     "q": "AI for content?",
+     "a": "Generation, tagging and operations with human review."
+    },
+    {
+     "q": "Scale?",
+     "a": "Managed operations with peak-event readiness."
+    }
+   ]
+  }
+ ]
+}

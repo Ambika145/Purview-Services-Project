@@ -1,0 +1,138 @@
+{
+ "source": "https://purviewservices.com/locations.html",
+ "route": "/locations",
+ "template": "editorial",
+ "title": "Locations | Purview Services",
+ "description": "Purview Group entities in 21 countries, with delivery centres in Hyderabad, Pune, Bengaluru, Chennai, Edinburgh, Warsaw, Singapore and Sydney, and…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Locations",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Where to find us",
+ "lede": "Purview Group entities in 21 countries, with delivery centres in Hyderabad, Pune, Bengaluru, Chennai, Edinburgh, Warsaw, Singapore and Sydney, and engineers deployed wherever the floor is. Founded in Scotland, headquartered in Edinburgh.",
+ "actions": [],
+ "image": "loc-edinburgh.jpg",
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "OUR GLOBAL FOOTPRINT",
+   "text": "Local presence. Connected delivery."
+  },
+  {
+   "type": "text",
+   "text": "Explore our major operating and delivery locations. City imagery is illustrative; it does not depict Purview premises."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Edinburgh"
+  },
+  {
+   "type": "text",
+   "text": "Scotland · Global headquarters"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Hyderabad"
+  },
+  {
+   "type": "text",
+   "text": "India · Operations headquarters"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Bengaluru"
+  },
+  {
+   "type": "text",
+   "text": "India · Delivery"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Pune"
+  },
+  {
+   "type": "text",
+   "text": "India · Delivery"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Poland"
+  },
+  {
+   "type": "text",
+   "text": "Europe · Delivery"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Singapore"
+  },
+  {
+   "type": "text",
+   "text": "Asia-Pacific"
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "21",
+     "label": "countries with Purview entities"
+    },
+    {
+     "value": "8",
+     "label": "delivery centres in five countries, one methodology"
+    },
+    {
+     "value": "24",
+     "label": "cities where you can reach a Purview team"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Careers",
+   "text": "If you are ambitious, curious and dedicated, there is a Purview team near you."
+  },
+  {
+   "type": "text",
+   "text": "Engineers who want to see their work installed, certified and running, in any of these cities."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "See open roles",
+     "href": "/careers",
+     "external": false
+    },
+    {
+     "label": "Want to get in touch?",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

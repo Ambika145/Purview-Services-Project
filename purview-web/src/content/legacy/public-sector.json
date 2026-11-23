@@ -1,0 +1,257 @@
+{
+ "source": "https://purviewservices.com/public-sector.html",
+ "route": "/public-sector",
+ "template": "service",
+ "title": "Government & Public Sector | Purview Services",
+ "description": "State data centres, sovereign cloud, citizen wallets and mission systems. Purview is a Crown Commercial Service supplier in the UK and a long-standing…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": "/industries"
+  },
+  {
+   "label": "Government & Public Sector",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Government & Public Sector",
+ "lede": "State data centres, sovereign cloud, citizen wallets and mission systems.",
+ "actions": [],
+ "image": "public-sector.jpg",
+ "related": [
+  {
+   "label": "AI Infrastructure",
+   "href": "/ai-infrastructure"
+  },
+  {
+   "label": "Payments & Digital Assets",
+   "href": "/payments"
+  },
+  {
+   "label": "Edge & Vision AI",
+   "href": "/edge-vision"
+  },
+  {
+   "label": "Managed Security Services",
+   "href": "/security-managed"
+  },
+  {
+   "label": "T-Wallet",
+   "href": "/twallet"
+  }
+ ],
+ "cta": "Talk to the Government & Public Sector team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Sovereign platforms, delivered and operated."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "CCS",
+     "label": "Crown Commercial Service supplier, UK"
+    },
+    {
+     "value": "3",
+     "label": "Indian state governments as clients"
+    },
+    {
+     "value": "₹241 Cr",
+     "label": "industrial skilling programme awarded 2026"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Government & Public Sector covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Purview is a Crown Commercial Service supplier in the UK and a long-standing partner to Indian state governments including Telangana, Andhra Pradesh and Bihar, and to central institutions such as NMDC and ONGC. We build the systems citizens use and the sovereign infrastructure behind them."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "State governments",
+     "eyebrow": "",
+     "body": "Data centres, sovereign cloud and citizen services.",
+     "links": []
+    },
+    {
+     "title": "Central institutions",
+     "eyebrow": "",
+     "body": "Mission systems and enterprise platforms.",
+     "links": []
+    },
+    {
+     "title": "UK public sector",
+     "eyebrow": "",
+     "body": "Framework-procured technology services.",
+     "links": []
+    },
+    {
+     "title": "Smart cities",
+     "eyebrow": "",
+     "body": "Vision AI for safety and traffic.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "State data centre design and rebuild",
+     "body": ""
+    },
+    {
+     "title": "Sovereign cloud and AI infrastructure",
+     "body": ""
+    },
+    {
+     "title": "Citizen wallets and payment programmes",
+     "body": ""
+    },
+    {
+     "title": "Mission systems and e-governance platforms",
+     "body": ""
+    },
+    {
+     "title": "Smart city vision and safety AI",
+     "body": ""
+    },
+    {
+     "title": "Managed operations and security",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Procurement-ready",
+     "body": "Frameworks, compliance and local content handled."
+    },
+    {
+     "title": "Design for sovereignty",
+     "body": "Data residency and control designed in."
+    },
+    {
+     "title": "Deliver",
+     "body": "Milestone governance suited to public programmes."
+    },
+    {
+     "title": "Operate",
+     "body": "Long-term operations with transparent reporting."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "State data centre and citizen wallet",
+   "body": "State government, India. Purview operates the state citizen wallet and is engaged on the rebuild of the state data centre with AI infrastructure.",
+   "result": {
+    "value": "State",
+    "label": "scale operations"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Citizen services online and resilient",
+     "body": ""
+    },
+    {
+     "title": "Sovereign capacity delivered on time",
+     "body": ""
+    },
+    {
+     "title": "Programmes audited cleanly",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Government of Telangana",
+    "NMDC",
+    "ONGC",
+    "Government of Andhra Pradesh",
+    "Government of Bihar",
+    "High Commission of India"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Procurement?",
+     "a": "Through frameworks and open tenders; we hold CCS status in the UK."
+    },
+    {
+     "q": "Sovereignty?",
+     "a": "Data residency and control designed in, on infrastructure we can build in-country."
+    },
+    {
+     "q": "Consortia?",
+     "a": "Yes, we lead and participate in consortium bids."
+    }
+   ]
+  }
+ ]
+}

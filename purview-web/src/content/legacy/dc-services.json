@@ -1,0 +1,333 @@
+{
+ "source": "https://purviewservices.com/dc-services.html",
+ "route": "/dc-services",
+ "template": "editorial",
+ "title": "Purview DC Services | Purview Services",
+ "description": "One accountable partner from purchase order to steady-state operations. Platforms: NVIDIA HGX, B200, B300, GB300, Vera Rubin.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": "/purview-dc"
+  },
+  {
+   "label": "Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Eight stages from powered shell to production",
+ "lede": "One accountable partner from purchase order to steady-state operations. Platforms: NVIDIA HGX, B200, B300, GB300, Vera Rubin. Regions: UK and Europe, India, Middle East, APAC.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "8",
+     "label": "stages, one accountable partner"
+    },
+    {
+     "value": "Stages 1 to 4",
+     "label": "extended scope, taken on as needed around your in-house capability"
+    },
+    {
+     "value": "Stages 5 to 8",
+     "label": "core delivery by Purview installation specialists"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Plan & Specify"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "NVIDIA Reference Architecture and Design Guide turned into a site-specific build before hardware ships",
+     "body": ""
+    },
+    {
+     "title": "Rack elevations, digital twin, power and thermal density",
+     "body": ""
+    },
+    {
+     "title": "MEP interface and clash control",
+     "body": ""
+    },
+    {
+     "title": "First-cut Rack Build Instructions (RBI)",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "OEM Alignment"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "OEM selection and negotiation support",
+     "body": ""
+    },
+    {
+     "title": "OEM collaboration on the reference architecture",
+     "body": ""
+    },
+    {
+     "title": "BOM and specification engineering",
+     "body": ""
+    },
+    {
+     "title": "Vendor SLAs and warranty terms",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Import & Clear"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Export control and HS classification",
+     "body": ""
+    },
+    {
+     "title": "Bonded custody and duty optimisation through GigaPort Hyderabad",
+     "body": ""
+    },
+    {
+     "title": "Chain-of-custody freight to site",
+     "body": ""
+    },
+    {
+     "title": "BIS and DGFT filings for India, end to end",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Stage & Integrate"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Cluster planning and P2P/topology documentation with NVIDIA",
+     "body": ""
+    },
+    {
+     "title": "Pre-staging and burn-in",
+     "body": ""
+    },
+    {
+     "title": "Firmware and BIOS baselining",
+     "body": ""
+    },
+    {
+     "title": "Asset tagging and serialisation",
+     "body": ""
+    },
+    {
+     "title": "Finalised Rack Build Instructions",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Install"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "GPU and server installation: HGX and GPU clusters across B200, B300, GB300, Vera Rubin; storage (VAST, DDN, Tintri); InfiniBand fabric cabling",
+     "body": ""
+    },
+    {
+     "title": "Structured cabling: certified fibre and Cat6A, patch panels, labelling, testing for warranty submission",
+     "body": ""
+    },
+    {
+     "title": "Last-mile liquid cooling: CDU-to-rack, manifolds, flush and fill, coolant chemistry, leak testing",
+     "body": ""
+    },
+    {
+     "title": "Power and receiving: busway, rPDU, earthing and bonding, power validation, DOA screening, RMA",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Commission"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "L2 to L5 commissioning including Integrated Systems Test (IST)",
+     "body": ""
+    },
+    {
+     "title": "Cooling verification: leak, pressure and flush testing",
+     "body": ""
+    },
+    {
+     "title": "Cable certification: OTDR and insertion-loss on every link; copper to Fluke DSX-8000 Level VI; MPO-8/12/16/24 fibre",
+     "body": ""
+    },
+    {
+     "title": "Cluster burn-in: NCCL/HPL, POST and log validation, DOA and RMA",
+     "body": ""
+    },
+    {
+     "title": "Four quality gates: engineering release, site validation, installation verification, independent acceptance QA",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Handover"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "As-builts and asset register",
+     "body": ""
+    },
+    {
+     "title": "Warranty and spares strategy",
+     "body": ""
+    },
+    {
+     "title": "O&M manuals and client training",
+     "body": ""
+    },
+    {
+     "title": "Uptime M&O readiness",
+     "body": ""
+    },
+    {
+     "title": "Commissioning sign-off",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "eyebrow": "",
+   "text": "Operate & Refresh"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Metrics: cluster availability, node time-to-repair, GPU-hours delivered",
+     "body": ""
+    },
+    {
+     "title": "24×7 SLA operation of AI data halls: facilities, smart hands, NOC; liquid cooling and 100kW+ rack power operations",
+     "body": ""
+    },
+    {
+     "title": "GPU cluster and fabric operations: DCGM telemetry, InfiniBand and RoCE, firmware and BMC at fleet scale, VAST/DDN, Slurm and Kubernetes",
+     "body": ""
+    },
+    {
+     "title": "Refresh: IMAC, RMA and spares, technology refresh, ITAD and secure erasure",
+     "body": ""
+    },
+    {
+     "title": "Enterprise IT managed services: 24×7 helpdesk, server, storage, network and security operations, SLA reporting",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Also delivered: enterprise network infrastructure",
+     "eyebrow": "",
+     "body": "Enterprise firewall refresh Core and access switch deployment Wireless surveys and deployment Rack and stack services Network configuration and validation ICT infrastructure migration",
+     "links": []
+    },
+    {
+     "title": "Engineering disciplines",
+     "eyebrow": "",
+     "body": "Network engineers: switching, routing, firewalls, wireless, VLAN design Data centre engineers: servers, storage, rack and stack, power, cable management AI and storage engineers: NVIDIA HGX, GPU clusters, high-performance storage, InfiniBand",
+     "links": []
+    },
+    {
+     "title": "Assured delivery",
+     "eyebrow": "",
+     "body": "CMMi Level 5 ISO 27001, ISO 20000, ISO 9001, ISO 14001 UK Crown Commercial Service supplier Full services page on purviewdc.com ↗",
+     "links": [
+      {
+       "label": "Full services page on purviewdc.com",
+       "href": "https://purviewdc.com/capabilities.html",
+       "external": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project enquiries",
+   "text": "Planning an AI factory build, migration or refresh?"
+  },
+  {
+   "type": "text",
+   "text": "Send the platform, site and target go-live date. Planning, OEM alignment, import and staging can be scoped around your in-house team; Purview specialists handle installation, commissioning, handover and operations."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Open the enquiry form",
+     "href": "https://purviewdc.com/contact.html",
+     "external": true
+    },
+    {
+     "label": "Contact Purview Group",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "source": "https://purviewservices.com/blog-managed-services-ai-era.html",
+ "route": "/blog-managed-services-ai-era",
+ "template": "article",
+ "title": "Managed Services for the AI Era | Purview Services",
+ "description": "Enterprise estates now include GPU clusters and AI workflows alongside servers, networks and cloud. We work with the tools you already have.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Blog",
+   "href": "/blog"
+  },
+  {
+   "label": "Managed Services",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Managed services for the AI era",
+ "lede": "Enterprise estates now include GPU clusters and AI workflows alongside servers, networks and cloud. Running them well means one operator, one toolset and one accountable owner.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "text",
+   "text": "A typical enterprise estate was already hybrid: on-premise servers, several clouds, a wide-area network and a service desk. AI adds two more layers, GPU infrastructure and the agents and applications that run on it. Too often each layer gets its own provider, and the CIO becomes the systems integrator of last resort."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "One NOC for the whole estate"
+  },
+  {
+   "type": "text",
+   "text": "Purview runs hybrid estates for enterprises and the GPU floors we build, under one network operations centre, one toolset and one accountable owner. Whether a workload sits in a hyperscaler, a sovereign cloud or a rack we installed, it is monitored, supported and improved in the same way. Service management is ISO 20000 certified, and managed estates run against a 99.9%+ availability target under SLAs we sign."
+  },
+  {
+   "type": "text",
+   "text": "We work with the tools you already have. Dynatrace, AppDynamics, Splunk and ServiceNow are standard, and we onboard what is in place rather than forcing a migration."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "GPU floors run by the people who built them"
+  },
+  {
+   "type": "text",
+   "text": "AI infrastructure behaves differently from a conventional server estate: high-density racks, liquid cooling, specialised networking and expensive hardware where downtime is measured in lost training and inference time. Through Purview DC, the engineers who installed and commissioned the floor provide smart hands, L1 to L3 support and hyperscaler-grade operations afterwards. Knowledge is not lost at handover, because there is no handover between companies."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "Security and support across the layers"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Managed security.",
+     "body": "SOC, SIEM and threat response covering the hybrid estate and, increasingly, the AI systems inside it."
+    },
+    {
+     "title": "Service desk.",
+     "body": "Multilingual support that increasingly resolves rather than routes, with AI-assisted triage and self-service reducing the tickets that reach a person."
+    },
+    {
+     "title": "Applications.",
+     "body": "Enterprise platforms kept current and performing under one support model."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "A transition without a cliff edge"
+  },
+  {
+   "type": "text",
+   "text": "The biggest risk in changing operators is the cutover. Our approach has four stages:"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Discover.",
+     "body": "Estate inventory and dependency mapping."
+    },
+    {
+     "title": "Onboard.",
+     "body": "Monitoring, runbooks and access in place before cutover."
+    },
+    {
+     "title": "Operate.",
+     "body": "Incident, problem and change under agreed SLAs, running in parallel with the incumbent until stable."
+    },
+    {
+     "title": "Improve.",
+     "body": "Quarterly service reviews with capacity and cost recommendations, so capacity is planned rather than discovered."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "For one manufacturer in Europe, this brought servers, storage, SD-WAN and cloud under one NOC with observability and capacity planning, consolidating three incumbent vendors into one."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "",
+   "text": "One accountable operator"
+  },
+  {
+   "type": "text",
+   "text": "Explore Managed IT Services and Infrastructure Managed Services, or talk to us about your estate."
+  }
+ ],
+ "byline": "Purview Editorial Team",
+ "date": "10 November 2026",
+ "readTime": "5 min read"
+}

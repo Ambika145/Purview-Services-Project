@@ -1,0 +1,287 @@
+{
+ "source": "https://purviewservices.com/dc-cabling.html",
+ "route": "/dc-cabling",
+ "template": "editorial",
+ "title": "Structured Cabling & Smart Hands | Purview Services",
+ "description": "Twenty-four years of copper and fibre installation, now inside Purview DC. From a single office floor to a 100-rack GPU hall: survey, design, install…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Purview DC",
+   "href": "/purview-dc"
+  },
+  {
+   "label": "Structured Cabling",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Structured cabling, certified to the link",
+ "lede": "Twenty-four years of copper and fibre installation, now inside Purview DC. From a single office floor to a 100-rack GPU hall: survey, design, install, test and document, with every link certified before handover.",
+ "actions": [],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "24 yrs",
+     "label": "of structured cabling delivery, EDF Purview, Sydney"
+    },
+    {
+     "value": "185,000+",
+     "label": "copper and fibre links terminated, tested and certified"
+    },
+    {
+     "value": "Level VI",
+     "label": "copper certified on Fluke DSX-8000; fibre on calibrated MPO equipment"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Overview",
+   "text": "The foundation everything else runs on"
+  },
+  {
+   "type": "text",
+   "text": "Structured cabling is the physical layer of business connectivity. Done well it is invisible for twenty years; done badly it is the cause of every intermittent fault nobody can find. Purview's cabling practice began in Australia in 2002 as EDF, joined Purview Group as EDF Purview and now delivers worldwide under Purview DC: Cat6 and Cat6A copper, single-mode and multi-mode fibre, MPO trunks and InfiniBand fabrics for data centres, offices, campuses and industrial sites."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Data centres",
+     "eyebrow": "",
+     "body": "Structured and point-to-point cabling for GPU halls, hyperscale, sovereign and enterprise sites. MPO-8/12/16/24 fibre, InfiniBand and RoCE fabrics, patch panels, dressing and labelling to the rack build instructions.",
+     "links": []
+    },
+    {
+     "title": "Offices and campuses",
+     "eyebrow": "",
+     "body": "Cat6A horizontal cabling, backbone fibre, wireless survey and deployment, AV and security cabling, for new builds, fit-outs and relocations.",
+     "links": []
+    },
+    {
+     "title": "Industrial and education",
+     "eyebrow": "",
+     "body": "Plants, warehouses, laboratories and universities, including the Macquarie University Law School (Michael Kirby Building) delivered on CommScope.",
+     "links": []
+    },
+    {
+     "title": "Why it sits in Purview DC",
+     "eyebrow": "",
+     "body": "The same crews that cable a GPU floor cable your office. One certified-installer standard, one test method, one handover pack, whichever the site.",
+     "links": [
+      {
+       "label": "Eight stages",
+       "href": "/dc-services",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What we deliver",
+   "text": "Survey to support, under one team"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Design and estimating",
+     "eyebrow": "",
+     "body": "Site survey and assessment of the existing infrastructure Cabling architecture designed for the workload and for growth Design specifications and bill of materials BIM where the project uses it, so decisions are made early and changes are not made on site Fixed-price estimate with options",
+     "links": []
+    },
+    {
+     "title": "Installation",
+     "eyebrow": "",
+     "body": "Certified technicians from start to finish Cat6 and Cat6A copper; OS2 and OM4/OM5 fibre; MPO trunks and cassettes Containment, pathways, cabinets and racks Dressing, labelling and documentation to a single scheme Minimal disruption in live buildings and live halls",
+     "links": []
+    },
+    {
+     "title": "Testing and certification",
+     "eyebrow": "",
+     "body": "Every copper link certified to Level VI on Fluke DSX-8000 Every fibre link OTDR and insertion-loss tested; MPO polarity verified Results submitted for manufacturer warranty (up to 25 years) As-builts, test results and asset register in the handover pack",
+     "links": []
+    },
+    {
+     "title": "Project management",
+     "eyebrow": "",
+     "body": "A dedicated project manager from consultation to handover Scheduling around occupancy and change windows to minimise downtime Materials, logistics and crew resourcing Quality gates: engineering release, site validation, installation verification, independent acceptance QA Risk assessments and method statements for every site",
+     "links": []
+    },
+    {
+     "title": "Smart hands and support",
+     "eyebrow": "",
+     "body": "IMACD: install, move, add, change, decommission Infrastructure refresh: cabinet, rack and stack Relocation and data migration Cable patching and tidy-up Audit, asset management and labelling IT asset recycling and secure erasure",
+     "links": []
+    },
+    {
+     "title": "Network and AV infrastructure",
+     "eyebrow": "",
+     "body": "AV over IP, HDBaseT and conferencing room cabling ( Audio Visual → ) Enterprise firewall refresh Core and access switch deployment Wireless surveys and deployment, WiFi6 Network configuration and validation ICT infrastructure migration AI Infrastructure →",
+     "links": [
+      {
+       "label": "Audio Visual",
+       "href": "/av",
+       "external": false
+      },
+      {
+       "label": "AI Infrastructure",
+       "href": "/ai-infrastructure",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How we work",
+   "text": "Preparation-first, the same as a GPU floor"
+  },
+  {
+   "type": "text",
+   "text": "Cabling material is received, verified, pre-terminated where possible and labelled in prestaging before it reaches the site, which is why our installs finish on the date and our test sheets come back clean."
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Survey and design",
+     "eyebrow": "",
+     "body": "Site walk, existing estate, pathways, outlet and rack counts, architecture and estimate",
+     "links": []
+    },
+    {
+     "title": "Prestage",
+     "eyebrow": "",
+     "body": "Material receipt, pre-termination, labelling, engineering release",
+     "links": []
+    },
+    {
+     "title": "Install and certify",
+     "eyebrow": "",
+     "body": "Containment, pulls, termination, dressing; Level VI copper and OTDR fibre on every link",
+     "links": []
+    },
+    {
+     "title": "Handover and support",
+     "eyebrow": "",
+     "body": "As-builts, warranty registration, asset register; smart hands under contract",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Macquarie University Law School, Sydney",
+   "body": "Structured cabling for the Michael Kirby Building: teaching, workplace and research spaces plus a suspended moot court, delivered on CommScope as a certified installer and documented in a CommScope case study. Alongside it, the same practice has certified 185,000+ links on AI data centre floors in Australia, the Middle East, the US and India.",
+   "result": {
+    "value": "Certified",
+    "label": "installer delivery, manufacturer case study"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Certified installer",
+   "text": "Vendor-neutral, manufacturer-certified"
+  },
+  {
+   "type": "text",
+   "text": "We hold installer certification across the leading cabling systems, so the recommendation is made on your requirement and your warranty, not on one supplier's catalogue."
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Standards we install to",
+     "eyebrow": "",
+     "body": "ISO/IEC 11801 and TIA-568 structured cabling AS/NZS 3080 and ACMA cabling rules in Australia BS 6701 in the UK Manufacturer-specific installation and warranty programmes",
+     "links": []
+    },
+    {
+     "title": "Assured delivery",
+     "eyebrow": "",
+     "body": "CMMi Level 5, ISO 27001, ISO 20000, ISO 9001, ISO 14001 UK Crown Commercial Service supplier Security-vetted crews for government and finance sites Public and products liability, workers' compensation, professional indemnity, cyber liability",
+     "links": []
+    },
+    {
+     "title": "Where",
+     "eyebrow": "",
+     "body": "Australia and New Zealand from Rydalmere, Sydney (EDF Purview) India from Hyderabad, Chennai and Noida UK and Europe from Edinburgh and Warsaw Gulf and APAC from Dubai and Singapore Locations →",
+     "links": [
+      {
+       "label": "Locations",
+       "href": "/locations",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why clients choose Purview for cabling",
+   "text": "Cabling at the core, not an add-on"
+  },
+  {
+   "type": "text",
+   "text": "A practice that started in 2002 and has cabled offices, universities, hospitals and now the densest AI halls in the world, without changing its test method."
+  },
+  {
+   "type": "text",
+   "text": "Not sampled. Every copper link to Level VI, every fibre link OTDR and insertion-loss tested, results in your handover pack and registered for warranty."
+  },
+  {
+   "type": "text",
+   "text": "The cabling crew, the rack and stack team, the commissioning engineers and the 24×7 smart hands all sit in Purview DC, so there is one owner when something needs fixing."
+  },
+  {
+   "type": "text",
+   "text": "EDF Purview, Australia ↗ · Purview DC services ↗"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Project enquiries",
+   "text": "Build your network on the strongest foundation."
+  },
+  {
+   "type": "text",
+   "text": "Send us the site, the number of outlets or racks and the target date. We will survey, design, estimate and install, then certify every link before handover."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Open the enquiry form",
+     "href": "https://purviewdc.com/contact.html",
+     "external": true
+    },
+    {
+     "label": "Contact Purview Group",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

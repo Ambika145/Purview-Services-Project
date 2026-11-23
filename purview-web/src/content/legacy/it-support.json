@@ -1,0 +1,254 @@
+{
+ "source": "https://purviewservices.com/it-support.html",
+ "route": "/it-support",
+ "template": "service",
+ "title": "Managed IT Support | Purview Services",
+ "description": "End-user computing, device lifecycle and white-glove field support. From laptops to trading floors, Purview handles end-user technology end to end…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Managed IT Services",
+   "href": "/managed"
+  },
+  {
+   "label": "Managed IT Support",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Managed IT Support",
+ "lede": "End-user computing, device lifecycle and white-glove field support.",
+ "actions": [],
+ "image": "it-support.jpg",
+ "related": [
+  {
+   "label": "Help Desk Services",
+   "href": "/helpdesk"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  },
+  {
+   "label": "Volume, Contract & Perm Recruitment",
+   "href": "/volume-recruitment"
+  },
+  {
+   "label": "Recruit, Train, Deploy",
+   "href": "/rtd"
+  }
+ ],
+ "cta": "Talk to the Managed IT Support team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "End-user computing that people do not notice."
+  },
+  {
+   "type": "text",
+   "text": "Device lifecycle, field support and white-glove installation."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "<2 hrs",
+     "label": "on-site response at critical sites"
+    },
+    {
+     "value": "Day one",
+     "label": "devices ready through zero-touch provisioning"
+    },
+    {
+     "value": "Zero",
+     "label": "data loss on secure retirement"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Managed IT Support covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "From laptops to trading floors, Purview handles end-user technology end to end: procurement, imaging, deployment, support and secure retirement. Our field teams have installed and supported offices, labs and towers for global technology clients."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Offices and campuses",
+     "eyebrow": "",
+     "body": "End-user computing and desk-side support.",
+     "links": []
+    },
+    {
+     "title": "Technology clients",
+     "eyebrow": "",
+     "body": "White-glove installation for towers, labs and trading floors.",
+     "links": []
+    },
+    {
+     "title": "Distributed enterprises",
+     "eyebrow": "",
+     "body": "Field support across cities and countries.",
+     "links": []
+    },
+    {
+     "title": "Projects",
+     "eyebrow": "",
+     "body": "Large device rollouts and refreshes.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "End-user computing and device management",
+     "body": ""
+    },
+    {
+     "title": "Field support and white-glove installation",
+     "body": ""
+    },
+    {
+     "title": "Imaging, deployment and asset tracking",
+     "body": ""
+    },
+    {
+     "title": "Meeting room and AV support",
+     "body": ""
+    },
+    {
+     "title": "Secure device retirement",
+     "body": ""
+    },
+    {
+     "title": "On-site engineers for critical sites",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Baseline",
+     "body": "Device estate, standards and support model agreed."
+    },
+    {
+     "title": "Deploy",
+     "body": "Zero-touch provisioning and scheduled rollouts."
+    },
+    {
+     "title": "Support",
+     "body": "Desk-side, remote and depot support under SLAs."
+    },
+    {
+     "title": "Refresh",
+     "body": "Lifecycle planning so refreshes are budgeted, not surprises."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Tower installation programme",
+   "body": "Technology major, Bengaluru. White-glove monitor and workstation installation across a new tower, scheduled around occupancy with asset tracking and sign-off per floor.",
+   "result": {
+    "value": "Per floor",
+    "label": "sign-off, on schedule"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Devices ready on day one",
+     "body": ""
+    },
+    {
+     "title": "On-site response inside two hours",
+     "body": ""
+    },
+    {
+     "title": "Zero data loss on retirement",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Dell Technologies",
+    "HPE",
+    "Microsoft"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Procurement too?",
+     "a": "Yes, with Dell, HPE and Microsoft, or on your contracts."
+    },
+    {
+     "q": "Which countries?",
+     "a": "Any of our 21, with partner coverage elsewhere."
+    },
+    {
+     "q": "Retirement?",
+     "a": "Certified data destruction with certificates per device."
+    }
+   ]
+  }
+ ]
+}

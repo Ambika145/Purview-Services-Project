@@ -1,0 +1,248 @@
+{
+ "source": "https://purviewservices.com/offshore.html",
+ "route": "/offshore",
+ "template": "service",
+ "title": "Offshore & Nearshore Solutions | Purview Services",
+ "description": "Delivery from Hyderabad, Pune, Bengaluru, Chennai, Poland, Singapore and Sydney with UK and US account leadership.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Offshore & Nearshore Solutions",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Offshore & Nearshore Solutions",
+ "lede": "Delivery from Hyderabad, Pune, Bengaluru, Chennai, Poland, Singapore and Sydney with UK and US account leadership.",
+ "actions": [],
+ "image": "offshore.jpg",
+ "related": [
+  {
+   "label": "Managed Software Development",
+   "href": "/dev-managed"
+  },
+  {
+   "label": "Help Desk Services",
+   "href": "/helpdesk"
+  },
+  {
+   "label": "Recruit, Train, Deploy",
+   "href": "/rtd"
+  },
+  {
+   "label": "Time-based & SOW Delivery",
+   "href": "/sow"
+  },
+  {
+   "label": "RabbiT AI recruitment",
+   "href": "/rabbit"
+  },
+  {
+   "label": "BeeRef referral hiring",
+   "href": "/beeref"
+  }
+ ],
+ "cta": "Talk to the Offshore & Nearshore Solutions team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "The right mix of cost, time zone and language."
+  },
+  {
+   "type": "text",
+   "text": "Delivery centres in India, Poland, Singapore and Australia with UK and US account leadership."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "40 to 60%",
+     "label": "cost reduction on offshore delivery"
+    },
+    {
+     "value": "5",
+     "label": "delivery centres: UK, Poland, Singapore, Australia, India"
+    },
+    {
+     "value": "ISO 27001",
+     "label": "secure delivery environments"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Offshore & Nearshore Solutions covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Delivery centres in five countries give clients the right mix of cost, time zone and language. Poland serves Europe in its working day; India provides scale and follow-the-sun; Singapore and Sydney cover Asia Pacific. All run on the same CMMi Level 5 processes."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "CIOs",
+     "eyebrow": "",
+     "body": "Scale and follow-the-sun operations.",
+     "links": []
+    },
+    {
+     "title": "European firms",
+     "eyebrow": "",
+     "body": "Nearshore in Poland in your working day.",
+     "links": []
+    },
+    {
+     "title": "APAC enterprises",
+     "eyebrow": "",
+     "body": "Singapore and Sydney coverage.",
+     "links": []
+    },
+    {
+     "title": "Build-operate-transfer",
+     "eyebrow": "",
+     "body": "Your own centre, stood up by us.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Dedicated offshore development centres",
+     "body": ""
+    },
+    {
+     "title": "Nearshore teams in Poland for Europe",
+     "body": ""
+    },
+    {
+     "title": "Follow-the-sun operations",
+     "body": ""
+    },
+    {
+     "title": "Build-operate-transfer models",
+     "body": ""
+    },
+    {
+     "title": "Secure delivery environments",
+     "body": ""
+    },
+    {
+     "title": "Governance and reporting",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Model",
+     "body": "ODC, BOT or managed team chosen against your constraints."
+    },
+    {
+     "title": "Set up",
+     "body": "Facilities, security and tooling to your standard."
+    },
+    {
+     "title": "Ramp",
+     "body": "Teams hired, trained and productive in a quarter."
+    },
+    {
+     "title": "Govern",
+     "body": "Steering, metrics and transfer options throughout."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Nearshore centre in Poland",
+   "body": "Financial services firm, Europe. Dedicated team in Poland working European hours on a secure estate, with governance and transfer options built into the contract.",
+   "result": {
+    "value": "Same day",
+    "label": "overlap with client"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Cost reduction of 40 to 60 percent",
+     "body": ""
+    },
+    {
+     "title": "Overlap hours with every client region",
+     "body": ""
+    },
+    {
+     "title": "Security certified to ISO 27001",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "ODC, BOT or managed team?",
+     "a": "We choose with you against cost, control and time horizon."
+    },
+    {
+     "q": "Security?",
+     "a": "ISO 27001 environments, client-specific controls on request."
+    },
+    {
+     "q": "Can we take it over later?",
+     "a": "Yes, build-operate-transfer is a standard option."
+    }
+   ]
+  }
+ ]
+}

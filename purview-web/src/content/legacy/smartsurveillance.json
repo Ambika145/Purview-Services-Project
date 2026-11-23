@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/smartsurveillance.html",
+ "route": "/smartsurveillance",
+ "template": "editorial",
+ "title": "SmartSurveillance | Purview Services",
+ "description": "SmartSurveillance gives operators head-motion control of remote camera views, optional drone support, and AI threat detection with proactive alerting.…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "SmartSurveillance",
+   "href": null
+  }
+ ],
+ "eyebrow": "Smart Solutions Platform · SmartSurveillance · Purview Technologies · purviewtech.ai",
+ "h1": "See the whole site, and know before it happens.",
+ "lede": "SmartSurveillance gives operators head-motion control of remote camera views, optional drone support, and AI threat detection with proactive alerting. Control rooms and patrol teams see more, react faster and record everything.",
+ "actions": [
+  {
+   "label": "purviewtech.ai",
+   "href": "https://www.purviewtech.ai/",
+   "external": true
+  },
+  {
+   "label": "See Purview’s AI XR practice",
+   "href": "/ai-solutions",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "SmartSurveillance on the Smart Solutions Platform",
+   "title": "Head Control · AI Detection · Drone",
+   "body": "Operators steer camera views with head motion from AR glasses, bring in drone feeds where needed, and rely on AI to detect threats and alert proactively rather than waiting for someone to notice.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    },
+    {
+     "label": "Arrange a demo",
+     "href": "/contact",
+     "external": false
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Head control",
+     "label": "camera views steered by looking, hands free"
+    },
+    {
+     "value": "AI detection",
+     "label": "threats found and alerted proactively"
+    },
+    {
+     "value": "Drone ready",
+     "label": "optional aerial feeds for large sites"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "AR-powered solutions designed to improve efficiency across industries"
+  },
+  {
+   "type": "text",
+   "text": "SmartSurveillance is one of four solutions on the Smart Solutions Platform from Purview Technologies, the group’s AI and XR company. The platform puts AR smart glasses, real-time captioning and translation, and Purview’s vision and voice AI into the hands of frontline teams, so the people doing the work see what they need, hands free, and the people supporting them can be anywhere."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What it does",
+   "text": "Capabilities"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Head-motion camera control",
+     "eyebrow": "",
+     "body": "Operators pan and switch remote camera views by looking, hands free, from a control room or on patrol.",
+     "links": []
+    },
+    {
+     "title": "AI threat detection",
+     "eyebrow": "",
+     "body": "Intrusion, loitering, left objects, crowd behaviour and safety-zone breaches detected in real time.",
+     "links": []
+    },
+    {
+     "title": "Proactive alerting",
+     "eyebrow": "",
+     "body": "Alerts routed to the right people with the clip and location, before an incident escalates.",
+     "links": []
+    },
+    {
+     "title": "Optional drone support",
+     "eyebrow": "",
+     "body": "Drone feeds integrated for perimeter sweeps, large sites and incident response.",
+     "links": []
+    },
+    {
+     "title": "Multi-site view",
+     "eyebrow": "",
+     "body": "Many sites and camera estates in one operator experience.",
+     "links": []
+    },
+    {
+     "title": "Evidence and audit",
+     "eyebrow": "",
+     "body": "Incidents recorded, tagged and exportable for investigation.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From glasses on to value out"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Connect",
+     "body": "Existing cameras, VMS and optional drones linked to the platform."
+    },
+    {
+     "title": "Train",
+     "body": "Detection models tuned to the site, zones and rules."
+    },
+    {
+     "title": "Operate",
+     "body": "Operators monitor in AR with head-motion control; AI watches every feed."
+    },
+    {
+     "title": "Alert",
+     "body": "Threats raise alerts with evidence to control rooms and mobile teams."
+    },
+    {
+     "title": "Review",
+     "body": "Incidents reviewed and models improved."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Behind the solution",
+   "text": "Platform and devices"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "One platform, enterprise-grade",
+     "eyebrow": "",
+     "body": "Purview Technologies supplies the AR control layer and detection models, integrates with existing camera and VMS estates and drones, and draws on Purview’s edge and vision AI practice for on-site inference.",
+     "links": [
+      {
+       "label": "AI Solutions Vision, voice and XR engineering",
+       "href": "/ai-solutions",
+       "external": false
+      },
+      {
+       "label": "Nexable Assistive aids on the same wearable platform",
+       "href": "/nexable",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for",
+   "text": "Where it earns its keep"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Critical infrastructure",
+     "eyebrow": "",
+     "body": "Data centres, utilities and ports.",
+     "links": []
+    },
+    {
+     "title": "Industrial sites and mines",
+     "eyebrow": "",
+     "body": "Perimeters, safety zones and remote assets.",
+     "links": []
+    },
+    {
+     "title": "Campuses and public venues",
+     "eyebrow": "",
+     "body": "Crowd safety and incident response.",
+     "links": []
+    },
+    {
+     "title": "Logistics and yards",
+     "eyebrow": "",
+     "body": "Vehicle, gate and asset monitoring.",
+     "links": []
+    },
+    {
+     "title": "Smart city and transport",
+     "eyebrow": "",
+     "body": "Integrated command and control.",
+     "links": []
+    },
+    {
+     "title": "Security service providers",
+     "eyebrow": "",
+     "body": "A platform for monitored sites.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is SmartSurveillance?",
+     "a": "An AR and AI surveillance solution from Purview Technologies: head-motion camera control, AI threat detection with proactive alerting and optional drone support."
+    },
+    {
+     "q": "Does it replace our cameras?",
+     "a": "No. It works with existing camera and VMS estates and adds AR control and AI detection."
+    },
+    {
+     "q": "Where does the AI run?",
+     "a": "On edge hardware at the site where latency and data residency matter, or in the cloud."
+    },
+    {
+     "q": "Are drones required?",
+     "a": "No. Drone support is optional and added where sites need it."
+    },
+    {
+     "q": "How do we start?",
+     "a": "Arrange a demo through purviewtech.ai or Purview’s contact page."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "SmartSurveillance",
+   "text": "Know before it happens."
+  },
+  {
+   "type": "text",
+   "text": "Arrange a SmartSurveillance demo through purviewtech.ai or Purview."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit purviewtech.ai",
+     "href": "https://www.purviewtech.ai/",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "source": "https://purviewservices.com/twallet.html",
+ "route": "/twallet",
+ "template": "editorial",
+ "title": "T-Wallet | Purview Services",
+ "description": "T-Wallet lets citizens pay bills, recharge and access government services with ease, anytime, anywhere, even without a smartphone.",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products & Platforms",
+   "href": "/divisions"
+  },
+  {
+   "label": "T-Wallet",
+   "href": null
+  }
+ ],
+ "eyebrow": "Official digital wallet of Telangana State · powered and operated by Purview",
+ "h1": "Your Digital Telangana.",
+ "lede": "T-Wallet lets citizens pay bills, recharge and access government services with ease, anytime, anywhere, even without a smartphone. Launched on 1 June 2017 by the Government of Telangana's ITE&C Department, it is run day to day by Purview India Consulting and Services LLP.",
+ "actions": [
+  {
+   "label": "twallet.telangana.gov.in",
+   "href": "https://twallet.telangana.gov.in/Home",
+   "external": true
+  },
+  {
+   "label": "Talk to us about a citizen wallet",
+   "href": "/contact",
+   "external": false
+  }
+ ],
+ "image": null,
+ "related": [],
+ "cta": null,
+ "blocks": [
+  {
+   "type": "case",
+   "eyebrow": "Get the app",
+   "title": "T-Wallet on Google Play and the App Store",
+   "body": "Citizens register with a mobile number and KYC, load the wallet and pay from the app. Citizens without a smartphone pay through assisted channels at Mee Seva centres and the agent network.",
+   "result": null,
+   "links": [
+    {
+     "label": "Open the T-Wallet portal",
+     "href": "https://twallet.telangana.gov.in/Home",
+     "external": true
+    },
+    {
+     "label": "Citizen awareness and FAQs",
+     "href": "https://twallet.telangana.gov.in/Home",
+     "external": true
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Since 2017",
+     "label": "the state's official wallet, launched 1 June 2017"
+    },
+    {
+     "value": "9.2M",
+     "label": "citizens reported as actively using T-Wallet (Government of Telangana announcement, July 2025)"
+    },
+    {
+     "value": "24×7",
+     "label": "multilingual citizen support on 1100 and in-app"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Why this matters to Purview",
+   "text": "A national-scale payments platform we run, not just built"
+  },
+  {
+   "type": "text",
+   "text": "T-Wallet is the clearest proof of Purview's payments practice: a government wallet serving millions of citizens, integrated with the state's departments, banks and payment schemes, migrated from its previous operator without interruption and operated under a public-sector SLA. The same engineering now sits behind BenePay and EFUNDZZ and is available to other states and national programmes."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "All services",
+   "text": "Government and non-government bills, in one wallet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Water Board (HMWSSB)",
+     "eyebrow": "",
+     "body": "Water bill payments, new connections and consumption tracking.",
+     "links": []
+    },
+    {
+     "title": "HMWSSB Smart Card",
+     "eyebrow": "",
+     "body": "Water tanker booking and smart card recharge services.",
+     "links": []
+    },
+    {
+     "title": "Property Tax (GHMC)",
+     "eyebrow": "",
+     "body": "Property tax payments, assessments and receipts.",
+     "links": []
+    },
+    {
+     "title": "Traffic Police",
+     "eyebrow": "",
+     "body": "Challan payments for the Telangana Traffic Police.",
+     "links": []
+    },
+    {
+     "title": "Vijaya Dairy",
+     "eyebrow": "",
+     "body": "Order fresh milk and dairy products from TG Vijaya Dairy, Telangana's cooperative dairy brand.",
+     "links": []
+    },
+    {
+     "title": "Pay Bills and recharge",
+     "eyebrow": "",
+     "body": "Electricity and utility bills, mobile recharge and more, plus links to Mee Seva, TG-iPASS, Bhu Bharati, TGSRTC and vehicle registration.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "How it works",
+   "text": "From registration to receipt"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Register",
+     "body": "Download the app or visit an assisted channel; register with a mobile number and complete KYC (eKYC and biometric verification are available in-app, including for pensioners)."
+    },
+    {
+     "title": "Load the wallet",
+     "body": "Add money from a bank account, UPI or cash at an agent or Mee Seva centre, so citizens without a smartphone or bank card can still pay digitally."
+    },
+    {
+     "title": "Pay",
+     "body": "Choose the department or biller, confirm the amount and pay; government services are pre-integrated so bills and taxes are fetched, not typed."
+    },
+    {
+     "title": "Receipt and record",
+     "body": "Instant digital receipt, transaction history in the wallet, and settlement to the department through the state's banking arrangements."
+    },
+    {
+     "title": "Support",
+     "body": "24×7 multilingual support on 1100 and twallet-support@telangana.gov.in, with a published grievance policy."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Operations",
+   "text": "What Purview runs behind the wallet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Platform, integrations and the agent programme",
+     "eyebrow": "",
+     "body": "Purview operates the platform and its department, bank and scheme integrations (UPI and IMPS), runs the agent and merchant programme that reaches citizens without smartphones, and reports to the ITE&C Department against service levels.",
+     "links": [
+      {
+       "label": "Payments & Digital Assets The practice behind T-Wallet",
+       "href": "/payments",
+       "external": false
+      },
+      {
+       "label": "Government & Public Sector State platforms we deliver",
+       "href": "/public-sector",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Built for public service",
+   "text": "Designed for every citizen"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "With or without a smartphone",
+     "eyebrow": "",
+     "body": "Assisted payments through Mee Seva centres and agents, so digital governance reaches citizens who do not carry a smartphone or bank card.",
+     "links": []
+    },
+    {
+     "title": "Multilingual",
+     "eyebrow": "",
+     "body": "English and Telugu interface with multilingual 24×7 support.",
+     "links": []
+    },
+    {
+     "title": "Government-integrated",
+     "eyebrow": "",
+     "body": "Departments, boards and utilities are integrated directly, so bills are fetched from source and receipts are recognised by the issuing body.",
+     "links": []
+    },
+    {
+     "title": "Regulated and secure",
+     "eyebrow": "",
+     "body": "Operated under Government of Telangana policies and acts, KYC-based accounts, published terms and grievance policy, ISO 27001 operations.",
+     "links": []
+    },
+    {
+     "title": "Continuity",
+     "eyebrow": "",
+     "body": "Migrated to Purview's operation without interruption to citizens, with planned maintenance windows announced in advance.",
+     "links": []
+    },
+    {
+     "title": "Open to other states",
+     "eyebrow": "",
+     "body": "The platform, integrations and agent model are available to other state and national programmes as a managed service.",
+     "links": [
+      {
+       "label": "Talk to us",
+       "href": "/contact",
+       "external": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions, answered"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "What is T-Wallet?",
+     "a": "The official digital wallet of Telangana State, launched on 1 June 2017, for paying government and non-government bills, recharges and services. It is powered and operated by Purview India Consulting and Services LLP for the ITE&C Department."
+    },
+    {
+     "q": "Who can use it?",
+     "a": "Any citizen with a mobile number and KYC. Citizens without a smartphone can use assisted channels at Mee Seva centres and through the agent network."
+    },
+    {
+     "q": "Which services are available?",
+     "a": "HMWSSB water bills and smart cards, GHMC property tax, traffic challans, Vijaya Dairy, electricity and utility bills, mobile recharges, and links to state portals."
+    },
+    {
+     "q": "How do citizens get help?",
+     "a": "24×7 multilingual support on 1100, by email to twallet-support@telangana.gov.in, and through the in-app support tool and grievance policy."
+    },
+    {
+     "q": "Can Purview run a wallet for another state or programme?",
+     "a": "Yes. The platform, department integrations, UPI and IMPS connectivity and the agent programme are offered as a managed service to other states and national bodies."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Citizen payments at scale",
+   "text": "Planning a state or national wallet?"
+  },
+  {
+   "type": "text",
+   "text": "Talk to the team that has operated one since 2017, through a migration and millions of citizen transactions."
+  },
+  {
+   "type": "links",
+   "items": [
+    {
+     "label": "Contact Purview",
+     "href": "/contact",
+     "external": false
+    },
+    {
+     "label": "Visit twallet.telangana.gov.in",
+     "href": "https://twallet.telangana.gov.in/Home",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

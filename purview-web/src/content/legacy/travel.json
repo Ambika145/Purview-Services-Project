@@ -1,0 +1,255 @@
+{
+ "source": "https://purviewservices.com/travel.html",
+ "route": "/travel",
+ "template": "service",
+ "title": "Travel, Transportation & Facilities | Purview Services",
+ "description": "Passenger and cargo platforms, AIoT safety, ANPR and traffic analytics for airports, operators and cities. From BidAir Cargo to facilities operators such as…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Industries",
+   "href": "/industries"
+  },
+  {
+   "label": "Travel, Transportation & Facilities",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Travel, Transportation & Facilities",
+ "lede": "Passenger and cargo platforms, AIoT safety, ANPR and traffic analytics for airports, operators and cities.",
+ "actions": [],
+ "image": "travel.jpg",
+ "related": [
+  {
+   "label": "Edge & Vision AI",
+   "href": "/edge-vision"
+  },
+  {
+   "label": "Embedded Engineering & IoT",
+   "href": "/embedded"
+  },
+  {
+   "label": "Payments & Digital Assets",
+   "href": "/payments"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  }
+ ],
+ "cta": "Talk to the Travel, Transportation & Facilities team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Safer, smarter movement of people and goods."
+  },
+  {
+   "type": "text",
+   "text": "Passenger and cargo platforms, AIoT safety, ANPR and traffic analytics."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Airports and operators",
+     "label": "passenger and cargo platforms"
+    },
+    {
+     "value": "ANPR",
+     "label": "and traffic analytics deployed"
+    },
+    {
+     "value": "Facilities",
+     "label": "operators including JLL and CapitaLand"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Travel, Transportation & Facilities covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "From BidAir Cargo to facilities operators such as JLL and CapitaLand, Purview delivers the platforms and the edge AI that keep people and goods moving safely: passenger systems, cargo tracking, traffic analytics and building operations."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Airports and cargo",
+     "eyebrow": "",
+     "body": "Passenger and cargo systems.",
+     "links": []
+    },
+    {
+     "title": "Cities and roads",
+     "eyebrow": "",
+     "body": "ANPR and traffic flow.",
+     "links": []
+    },
+    {
+     "title": "Facilities",
+     "eyebrow": "",
+     "body": "Smart building operations.",
+     "links": []
+    },
+    {
+     "title": "Fleets",
+     "eyebrow": "",
+     "body": "Telematics and safety.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Passenger and cargo platforms",
+     "body": ""
+    },
+    {
+     "title": "ANPR and traffic flow analytics",
+     "body": ""
+    },
+    {
+     "title": "AIoT pedestrian and worker safety",
+     "body": ""
+    },
+    {
+     "title": "Smart building and facilities systems",
+     "body": ""
+    },
+    {
+     "title": "Fleet telematics",
+     "body": ""
+    },
+    {
+     "title": "Managed operations",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Site survey",
+     "body": "Flows, safety points and existing systems mapped."
+    },
+    {
+     "title": "Pilot",
+     "body": "One terminal, road or building with measured results."
+    },
+    {
+     "title": "Deploy",
+     "body": "Across sites with central monitoring."
+    },
+    {
+     "title": "Operate",
+     "body": "24×7 operations and analytics."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Cargo platform and tracking",
+   "body": "Cargo operator. Cargo platform integrated with telematics and site analytics, with central monitoring across locations.",
+   "result": {
+    "value": "Throughput",
+    "label": "up at same footprint"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "Incidents detected in real time",
+     "body": ""
+    },
+    {
+     "title": "Throughput up at the same footprint",
+     "body": ""
+    },
+    {
+     "title": "Building operations costs down",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Technology ecosystem",
+   "text": "Platforms and partners"
+  },
+  {
+   "type": "logos",
+   "items": [
+    "Castlematic",
+    "Pelco",
+    "Avigilon",
+    "Motorola Solutions"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "Integration?",
+     "a": "With existing airport, road and building systems."
+    },
+    {
+     "q": "Safety AI?",
+     "a": "Pedestrian and worker zones, on device."
+    },
+    {
+     "q": "Operations?",
+     "a": "24×7 managed."
+    }
+   ]
+  }
+ ]
+}

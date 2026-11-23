@@ -1,0 +1,240 @@
+{
+ "source": "https://purviewservices.com/audits.html",
+ "route": "/audits",
+ "template": "service",
+ "title": "Discovery Audits | Purview Services",
+ "description": "Baseline your estate, skills and spend before a transformation, so the plan starts from facts. Before any large programme Purview runs a discovery audit…",
+ "crumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Workforce Solutions",
+   "href": "/workforce"
+  },
+  {
+   "label": "Discovery Audits",
+   "href": null
+  }
+ ],
+ "eyebrow": "",
+ "h1": "Discovery Audits",
+ "lede": "Baseline your estate, skills and spend before a transformation, so the plan starts from facts.",
+ "actions": [],
+ "image": "audits.jpg",
+ "related": [
+  {
+   "label": "Cloud Services",
+   "href": "/cloud"
+  },
+  {
+   "label": "Data & Analytics",
+   "href": "/data-analytics"
+  },
+  {
+   "label": "Infrastructure Managed Services",
+   "href": "/infra-managed"
+  },
+  {
+   "label": "Market Insights",
+   "href": "/market-insights"
+  }
+ ],
+ "cta": "Talk to the Discovery Audits team about what has to be true for your programme.",
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Engineering depth",
+   "text": "Start the plan from facts."
+  },
+  {
+   "type": "text",
+   "text": "Estate, skills and spend baselined before a transformation begins."
+  },
+  {
+   "type": "stats",
+   "items": [
+    {
+     "value": "Weeks",
+     "label": "to a plan with numbers in it"
+    },
+    {
+     "value": "Options",
+     "label": "not one answer: cost, timeline and risk for each"
+    },
+    {
+     "value": "17 yrs",
+     "label": "of estates seen"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "What Discovery Audits covers",
+   "text": "Overview"
+  },
+  {
+   "type": "text",
+   "text": "Before any large programme Purview runs a discovery audit: what you have, who runs it, what it costs and where the risks are. The output is a plan with numbers in it, which is why clients commission it even when they run the programme themselves."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Clients we serve",
+   "text": "Who it is for"
+  },
+  {
+   "type": "cards",
+   "variant": "compact",
+   "items": [
+    {
+     "title": "Boards and CIOs",
+     "eyebrow": "",
+     "body": "Before approving a transformation budget.",
+     "links": []
+    },
+    {
+     "title": "M&A",
+     "eyebrow": "",
+     "body": "Technology due diligence.",
+     "links": []
+    },
+    {
+     "title": "Cost programmes",
+     "eyebrow": "",
+     "body": "Where the spend really goes.",
+     "links": []
+    },
+    {
+     "title": "AI readiness",
+     "eyebrow": "",
+     "body": "What has to be true before agents go live.",
+     "links": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Capabilities",
+   "text": "What we deliver"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "title": "Technology estate inventory",
+     "body": ""
+    },
+    {
+     "title": "Application and data mapping",
+     "body": ""
+    },
+    {
+     "title": "Skills and capacity assessment",
+     "body": ""
+    },
+    {
+     "title": "Cost and vendor analysis",
+     "body": ""
+    },
+    {
+     "title": "Risk and compliance review",
+     "body": ""
+    },
+    {
+     "title": "Transformation roadmap with business case",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Our approach",
+   "text": "How we work"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "title": "Collect",
+     "body": "Tooling-led discovery plus structured interviews."
+    },
+    {
+     "title": "Analyse",
+     "body": "Dependencies, costs and risks modelled."
+    },
+    {
+     "title": "Recommend",
+     "body": "Options with cost, timeline and risk for each."
+    },
+    {
+     "title": "Plan",
+     "body": "Roadmap and business case ready for approval."
+    }
+   ]
+  },
+  {
+   "type": "case",
+   "eyebrow": "Case in point",
+   "title": "Pre-transformation audit",
+   "body": "Insurer. Estate, applications, skills and spend baselined with tooling and interviews; the roadmap and business case went to the board with three options and were approved.",
+   "result": {
+    "value": "3",
+    "label": "options, one approved"
+   },
+   "links": []
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "Results",
+   "text": "Outcomes clients measure"
+  },
+  {
+   "type": "list",
+   "variant": "outcomes",
+   "items": [
+    {
+     "title": "A plan with numbers in it",
+     "body": ""
+    },
+    {
+     "title": "Risks surfaced before the budget is spent",
+     "body": ""
+    },
+    {
+     "title": "Options, not one answer",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "eyebrow": "FAQ",
+   "text": "Questions we are asked"
+  },
+  {
+   "type": "faq",
+   "items": [
+    {
+     "q": "How long?",
+     "a": "Four to eight weeks depending on estate size."
+    },
+    {
+     "q": "Do we have to use Purview afterwards?",
+     "a": "No. Many clients run the programme themselves."
+    },
+    {
+     "q": "Confidentiality?",
+     "a": "NDA first, data handled in ISO 27001 environments."
+    }
+   ]
+  }
+ ]
+}

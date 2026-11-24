@@ -272,3 +272,24 @@ export const INDUSTRY_LINKS: NavLink[] = [
   { label: "Retail & Distribution", href: "/retail" },
   { label: "Travel, Transportation & Facilities", href: "/travel" },
 ];
+
+/**
+ * The group companies — names, sectors, one-liners, links and logos exactly as
+ * published in "The companies." on purviewservices.vercel.app. Companies with
+ * no `href` have no public website listed there.
+ */
+export const GROUP_COMPANIES: { name: string; sector: string; line: string; href?: string; logo: string; w: number; h: number }[] = [
+  { name: "Purview Technologies", sector: "Technology", line: "Transforming reality.", href: "https://www.purviewtech.ai/", logo: "/logos/companies/tech-pur.png", w: 64, h: 64 },
+  { name: "Purview Data Centers", sector: "Data centres", line: "AI-ready data centres, designed, built and operated.", href: "https://purviewdc.com/", logo: "/logos/companies/purview-dc.png", w: 56, h: 64 },
+  { name: "Purview Healthcare", sector: "Healthcare", line: "Revenue cycle management.", href: "https://purviewhealthcare.com/", logo: "/logos/companies/healthcare-icon.png", w: 62, h: 64 },
+  { name: "Purview Lifesciences", sector: "Deep services", line: "Manufacturer of solvent distillation and intermediates.", href: "https://purviewlifesciences.com/", logo: "/logos/companies/lifesciences-icon.png", w: 59, h: 64 },
+  { name: "Edgeflex", sector: "Deeptech", line: "Design and manufacture of your products.", logo: "/logos/companies/edge.png", w: 64, h: 64 },
+  { name: "Castlematic", sector: "IoT", line: "Real-time GPS fleet tracking software.", href: "https://castlematic.com/", logo: "/logos/companies/castlematic-icon.png", w: 48, h: 64 },
+  { name: "Simple I8", sector: "Deeptech", line: "Cloud-based SaaS solution.", href: "http://simplei8.com/", logo: "/logos/companies/simplei8-icon.png", w: 64, h: 64 },
+  { name: "EFUNDZZ", sector: "Deeptech", line: "SME lending marketplace.", href: "https://efundzz.com/", logo: "/logos/companies/efundzz-icon.png", w: 44, h: 64 },
+  { name: "Benepay", sector: "Deeptech", line: "Simplifying your payments.", href: "https://www.benepay.io/", logo: "/logos/companies/benepay.png", w: 64, h: 64 },
+  { name: "iPhysicianHub", sector: "Deeptech", line: "The healthcare hub.", href: "https://www.iphysicianhub.com/", logo: "/logos/companies/iphysicianhub-icon.png", w: 62, h: 64 },
+  { name: "Telehealth Center", sector: "Deeptech", line: "A comprehensive digital clinic.", logo: "/logos/companies/telehealthcenter-icon.png", w: 40, h: 64 },
+  { name: "Purview Digital", sector: "Marketing", line: "Marketing and advertising agency.", href: "https://www.purviewdigital.com/", logo: "/logos/companies/purview-digital-icon.png", w: 62, h: 64 },
+  { name: "2080", sector: "Marketing", line: "Full-stack marketing agency.", logo: "/logos/companies/2080.png", w: 45, h: 64 },
+];

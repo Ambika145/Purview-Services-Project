@@ -4,6 +4,7 @@ import { CERTIFICATIONS, FACTS } from "@/content/site";
 import { PARTNER_GROUPS } from "@/content/home";
 import { PageHero, Section, Heading, StatRow } from "@/components/sections/PageKit";
 import { ContactCTA } from "@/components/sections/ContactCTA";
+import { GroupCompaniesGrid } from "@/components/sections/GroupCompanies";
 import { LogoMark } from "@/components/ui/LogoMark";
 import { TextLink } from "@/components/ui/Button";
 import { pageMetadata } from "@/lib/seo";
@@ -80,8 +81,25 @@ export default function CompanyPage() {
         </div>
       </Section>
 
+      <Section tone="mist" labelledBy="c-companies" id="companies">
+        <Heading
+          index="02"
+          eyebrow="Our companies"
+          title={
+            <>
+              <span className="gc-dim">The companies.</span> Each led by specialists in its own market.
+            </>
+          }
+          lead="13 companies, one accountable owner."
+          id="c-companies"
+        />
+        <div className="mt-12">
+          <GroupCompaniesGrid />
+        </div>
+      </Section>
+
       <Section tone="surface" labelledBy="c-lead">
-        <Heading index="02" eyebrow="Leadership" title="Focused team, big results." lead="Senior leadership is involved from kick-off to handover on every engagement. These are the people accountable for the group’s six verticals and fourteen companies." id="c-lead" />
+        <Heading index="03" eyebrow="Leadership" title="Focused team, big results." lead="Senior leadership is involved from kick-off to handover on every engagement. These are the people accountable for the group’s six verticals and fourteen companies." id="c-lead" />
         <ul className="mt-14 grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
           {LEADERS.map(([n, t, img], i) => (
             <li key={n} data-reveal style={{ "--d": `${(i % 6) * 50}ms` } as React.CSSProperties}>
@@ -96,7 +114,7 @@ export default function CompanyPage() {
       </Section>
 
       <Section tone="ink" labelledBy="c-cert">
-        <Heading index="03" eyebrow="Certifications" title="Appraised, audited and accredited." dark id="c-cert" />
+        <Heading index="04" eyebrow="Certifications" title="Appraised, audited and accredited." dark id="c-cert" />
         <ul className="mt-12 grid gap-px overflow-hidden rounded-[var(--radius-m)] border border-sky/15 bg-sky/15 sm:grid-cols-2 lg:grid-cols-4">
           {CERTIFICATIONS.map((c) => (
             <li key={c.name} className="bg-ink p-7">
@@ -116,7 +134,7 @@ export default function CompanyPage() {
       </Section>
 
       <Section tone="paper" labelledBy="c-foot">
-        <Heading index="04" eyebrow="Global footprint" title="Delivery centres in five countries. 21 countries, one standard." lead="Delivery centres in the UK, Poland, Singapore, Australia and India. Engineers deployed wherever the floor is." id="c-foot" />
+        <Heading index="05" eyebrow="Global footprint" title="Delivery centres in five countries. 21 countries, one standard." lead="Delivery centres in the UK, Poland, Singapore, Australia and India. Engineers deployed wherever the floor is." id="c-foot" />
         <dl className="mt-12 grid gap-x-10 border-t border-fg/80 md:grid-cols-2 lg:grid-cols-3">
           {FOOTPRINT.map(([r, c]) => (
             <div key={r} className="border-b border-line py-5">
@@ -134,7 +152,7 @@ export default function CompanyPage() {
       </Section>
 
       <Section tone="surface" id="partners" labelledBy="c-partners">
-        <Heading index="05" eyebrow="Technology partners" title="Platform-flexible by design." lead="We are not a reseller of one stack. We certify on the platforms our clients already run and the ones they are moving to." id="c-partners" />
+        <Heading index="06" eyebrow="Technology partners" title="Platform-flexible by design." lead="We are not a reseller of one stack. We certify on the platforms our clients already run and the ones they are moving to." id="c-partners" />
         <div className="mt-14 space-y-12">
           {PARTNER_GROUPS.map((g) => (
             <div key={g.title} className="grid gap-6 lg:grid-cols-12">

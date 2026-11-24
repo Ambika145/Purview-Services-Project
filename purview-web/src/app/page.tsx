@@ -5,6 +5,7 @@ import { Ecosystem } from "@/components/home/story/Ecosystem";
 import { DataCentreFeature } from "@/components/home/story/DataCentreFeature";
 import { Outcomes } from "@/components/home/story/Outcomes";
 import { GlobalTrust } from "@/components/home/story/GlobalTrust";
+import { GroupCompanies } from "@/components/home/story/GroupCompanies";
 import { Beyond } from "@/components/home/story/Beyond";
 import { FinalCta } from "@/components/home/story/FinalCta";
 import { getArticles, LINKEDIN_ARTICLE } from "@/content/insights";
@@ -52,6 +53,7 @@ export default function HomePage() {
       <DataCentreFeature />
       <Outcomes />
       <GlobalTrust />
+      <GroupCompanies />
       <Beyond />
       <FinalCta articles={articles} />
     </>
